@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2013-03-12T06:51:02Z"/>
+
+  <node id="489917830" lat="37.0510659" lon="-122.0311255">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="489917835" lat="37.0492736" lon="-122.0189735">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="520983541" lat="37.0401971" lon="-122.0616567">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="717675932" lat="37.0222921" lon="-121.5812270">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="717678820" lat="37.0224091" lon="-121.5812261">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1076331903" lat="37.6902773" lon="-121.7269250">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1106477849" lat="37.8474219" lon="-121.7009747">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1106478151" lat="37.8479239" lon="-121.7011195">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1106478384" lat="37.8475045" lon="-121.7007199">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1106478727" lat="37.8056135" lon="-121.7447485">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1269334121" lat="36.9903436" lon="-120.9378288">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1306297591" lat="37.7394733" lon="-122.3746388">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1326065156" lat="37.8715492" lon="-122.3204355">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1387024180" lat="37.9189020" lon="-122.0413574">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1387024181" lat="37.9185298" lon="-122.0431115">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1530683877" lat="37.3590831" lon="-121.9730147">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1551172075" lat="37.9760377" lon="-121.9854329">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1551172145" lat="37.9763411" lon="-121.9852251">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1564428662" lat="37.8067434" lon="-122.4690988">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1711727529" lat="37.5787605" lon="-121.6976525">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1754286211" lat="37.3192052" lon="-121.0313035">
+    <tag k="amenity" v="bbq"/>
+    <tag k="source" v="knowledge"/>
+  </node>
+  <node id="1754286217" lat="37.3192116" lon="-121.0312284">
+    <tag k="amenity" v="bbq"/>
+    <tag k="source" v="knowledge"/>
+  </node>
+  <node id="1756279530" lat="37.3209238" lon="-121.0056550">
+    <tag k="amenity" v="bbq"/>
+    <tag k="source" v="knowledge"/>
+  </node>
+  <node id="1756281844" lat="37.3205469" lon="-121.0058565">
+    <tag k="amenity" v="bbq"/>
+    <tag k="source" v="knowledge"/>
+  </node>
+  <node id="1756281845" lat="37.3205416" lon="-121.0061788">
+    <tag k="amenity" v="bbq"/>
+    <tag k="source" v="knowledge"/>
+  </node>
+  <node id="1756281847" lat="37.3206775" lon="-121.0057260">
+    <tag k="amenity" v="bbq"/>
+    <tag k="source" v="knowledge"/>
+  </node>
+  <node id="1756295971" lat="37.3211301" lon="-121.0057900">
+    <tag k="amenity" v="bbq"/>
+    <tag k="source" v="knowledge"/>
+  </node>
+  <node id="1771089400" lat="37.3141821" lon="-121.0262815">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1986155678" lat="36.9996625" lon="-122.0551289">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1987676531" lat="37.9085233" lon="-121.6156500">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1987676551" lat="37.9084799" lon="-121.6145356">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1987704194" lat="37.9058452" lon="-121.6196010">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1987704249" lat="37.9057341" lon="-121.6187601">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="1987704280" lat="37.9057076" lon="-121.6193287">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2000912326" lat="37.6515164" lon="-121.8531764">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2014577597" lat="37.5473474" lon="-121.9625815">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2014577940" lat="37.5473877" lon="-121.9624986">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2014578084" lat="37.5472384" lon="-121.9626750">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2014597913" lat="37.5494060" lon="-121.9658194">
+    <tag k="amenity" v="bbq"/>
+    <tag k="covered" v="no"/>
+    <tag k="fireplace" v="yes"/>
+    <tag k="name" v="9 tables"/>
+    <tag k="tourism" v="picnic_site"/>
+  </node>
+  <node id="2045675194" lat="37.8957137" lon="-122.2901536">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2045675217" lat="37.8958016" lon="-122.2902756">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2047434960" lat="37.5495799" lon="-121.9670069">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2047435408" lat="37.5494781" lon="-121.9667346">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2047435432" lat="37.5493306" lon="-121.9666618">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2047435626" lat="37.5492119" lon="-121.9673860">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2047435662" lat="37.5493426" lon="-121.9673546">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2052296454" lat="37.8967420" lon="-122.2782250">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2064159471" lat="37.5733626" lon="-122.0622100">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2066254552" lat="37.6968552" lon="-121.4500008">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2068037255" lat="36.9960654" lon="-122.0517793">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2091643056" lat="37.5215923" lon="-121.9645951">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2129855562" lat="37.5464350" lon="-121.9373220">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2152502654" lat="37.2942493" lon="-120.4472779">
+    <tag k="amenity" v="bbq"/>
+  </node>
+  <node id="2170318300" lat="37.6475463" lon="-122.1147560">
+    <tag k="amenity" v="bbq"/>
+  </node>
+
+</osm>

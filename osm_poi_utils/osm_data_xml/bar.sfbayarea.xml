@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2013-03-12T06:51:02Z"/>
+
+  <node id="61690921" lat="37.7969146" lon="-122.4055574">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Comstock Saloon"/>
+  </node>
+  <node id="310973055" lat="37.7655018" lon="-122.2425144">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Lostweekend Lounge"/>
+  </node>
+  <node id="310973073" lat="37.7657624" lon="-122.2424008">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="American Oak"/>
+  </node>
+  <node id="310973080" lat="37.7659141" lon="-122.2415877">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Churchward Pub"/>
+  </node>
+  <node id="343611002" lat="37.8904419" lon="-122.2992009">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Ivy Room"/>
+  </node>
+  <node id="394924919" lat="36.9752221" lon="-122.0279223">
+    <tag k="amenity" v="bar"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Red Restaurant and Bar"/>
+  </node>
+  <node id="399588980" lat="36.9784534" lon="-122.0206560">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Jury Room"/>
+  </node>
+  <node id="405737374" lat="36.9689978" lon="-122.0249322">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Asti"/>
+  </node>
+  <node id="406683129" lat="36.9773202" lon="-122.0265936">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Rush Inn"/>
+  </node>
+  <node id="408463434" lat="36.9742393" lon="-122.0256155">
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="El Palomar Cantina"/>
+  </node>
+  <node id="409452430" lat="36.9794215" lon="-122.0117921">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="One Double Oh Seven"/>
+  </node>
+  <node id="409834798" lat="36.9606787" lon="-122.0483110">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Ye Olde Watering Hole"/>
+  </node>
+  <node id="411933134" lat="36.9679264" lon="-122.0080475">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Mad House"/>
+  </node>
+  <node id="414162199" lat="36.9705864" lon="-122.0253571">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Blue Lagoon"/>
+  </node>
+  <node id="415277181" lat="36.9689284" lon="-122.0249098">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Avenue"/>
+    <tag k="shop" v="tobacco"/>
+  </node>
+  <node id="418540495" lat="37.7867111" lon="-122.4124979">
+    <tag k="addr:housenumber" v="561"/>
+    <tag k="addr:street" v="Geary Blvd"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Swig"/>
+  </node>
+  <node id="430584760" lat="37.8082246" lon="-122.2701489">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Den at the Fox"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="440104799" lat="37.7996982" lon="-122.4086348">
+    <tag k="addr:housenumber" v="570"/>
+    <tag k="addr:street" v="Green Street"/>
+    <tag k="alt_name" v="Chubby Noodle popup restaurant"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Amante"/>
+  </node>
+  <node id="440106745" lat="37.7996982" lon="-122.4085575">
+    <tag k="addr:housenumber" v="562"/>
+    <tag k="addr:street" v="Green Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Columbus Cafe"/>
+  </node>
+  <node id="479491671" lat="37.7882367" lon="-122.4012873">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="House of Shields"/>
+  </node>
+  <node id="487082178" lat="37.4033816" lon="-122.0216881">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Brass Rail"/>
+  </node>
+  <node id="490229786" lat="36.9760916" lon="-121.9663212">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Chili's"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="514741508" lat="37.6607086" lon="-121.8759917">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Pastime Pool Hall"/>
+  </node>
+  <node id="515038802" lat="37.1243043" lon="-122.1217952">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Joe's Bar"/>
+  </node>
+  <node id="529146298" lat="37.0449970" lon="-122.0734840">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Monty's Log Cabin"/>
+    <tag k="note" v="11-OCT-09 5:23:06PM"/>
+  </node>
+  <node id="571237618" lat="37.3330018" lon="-121.8923483">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Caravan Lounge"/>
+  </node>
+  <node id="582779493" lat="37.7504256" lon="-122.4203499">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Clooney's Pub"/>
+  </node>
+  <node id="582781745" lat="37.7489951" lon="-122.4205203">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Dovre Club"/>
+  </node>
+  <node id="599098662" lat="37.3385622" lon="-121.9948545">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Homestead Cocktail Lounge"/>
+  </node>
+  <node id="621793529" lat="37.7877438" lon="-122.4118406">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:street" v="Post Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Owl Tree"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="621818366" lat="37.7881935" lon="-122.4103007">
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="Inside the JW Marriott"/>
+    <tag k="name" v="Level III"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="627250138" lat="37.3599489" lon="-121.9964023">
+    <tag k="addr:city" v="Sunnyvale"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="2041"/>
+    <tag k="addr:postcode" v="94086"/>
+    <tag k="addr:street" v="White Oak Ln"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Poinciana Lounge Sportsbar"/>
+  </node>
+  <node id="678973941" lat="37.3306200" lon="-121.8884530">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tanq"/>
+  </node>
+  <node id="705460246" lat="36.9964916" lon="-121.9857458">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Linwood's"/>
+  </node>
+  <node id="714617314" lat="36.9346366" lon="-121.7731421">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Wooden Nickle Bar &amp; Grill"/>
+  </node>
+  <node id="725066841" lat="37.7866698" lon="-122.4145242">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="688"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Geary Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Rye"/>
+  </node>
+  <node id="761906611" lat="37.7758205" lon="-122.4087992">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="BloodHound"/>
+    <tag k="url" v="http://www.bloodhoundsf.com/"/>
+  </node>
+  <node id="761916174" lat="37.7765089" lon="-122.4083774">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="1116"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:street" v="Folsom Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Terroir Natural Wine Merchant &amp; Bar"/>
+    <tag k="url" v="http://terroirsf.com/"/>
+  </node>
+  <node id="763581729" lat="37.7607608" lon="-122.4360151">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Edge"/>
+  </node>
+  <node id="764848764" lat="37.7763412" lon="-122.4264834">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bar Jules"/>
+  </node>
+  <node id="766180971" lat="37.7838509" lon="-122.4031565">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="4th Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Jillian's"/>
+    <tag k="phone" v="+14153966100"/>
+    <tag k="website" v="http://sanfrancisco.jbcent.com"/>
+  </node>
+  <node id="808930684" lat="37.7861143" lon="-122.4115011">
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:street" v="Taylor Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Jasper's"/>
+  </node>
+  <node id="823778855" lat="36.8475404" lon="-121.4014347">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Agua Azul Bar"/>
+  </node>
+  <node id="853386868" lat="37.5049831" lon="-122.4861733">
+    <tag k="amenity" v="bar"/>
+  </node>
+  <node id="984659510" lat="37.8077198" lon="-122.4425648">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Golden Gate Yacht Club"/>
+  </node>
+  <node id="984659529" lat="37.8072388" lon="-122.4469475">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="St Francis Yacht Club"/>
+  </node>
+  <node id="1014036789" lat="37.7653234" lon="-122.4499853">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Finnegan's Wake"/>
+  </node>
+  <node id="1037993339" lat="37.8110802" lon="-122.2666372">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Punchdown"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1037993369" lat="37.8065118" lon="-122.2704823">
+    <tag k="addr:housenumber" v="1621"/>
+    <tag k="addr:street" v="Telegraph Ave"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cafe Van Kleef"/>
+    <tag k="website" v="http://www.cafevankleef.com/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1037993381" lat="37.8113118" lon="-122.2662879">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Era Art Bar Lounge"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1037998932" lat="37.8015933" lon="-122.2742405">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Pacific Coast Brewery"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1052780308" lat="37.1745320" lon="-121.8231852">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="La Foret"/>
+  </node>
+  <node id="1057316199" lat="37.8031691" lon="-122.2686728">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Disco Volante"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1057797945" lat="37.9903606" lon="-120.4622290">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Red Barn"/>
+  </node>
+  <node id="1063462260" lat="37.8089594" lon="-122.2506019">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Sidebar"/>
+  </node>
+  <node id="1074594311" lat="38.2111276" lon="-122.1334625">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Thompson's Corner Saloon"/>
+  </node>
+  <node id="1079401457" lat="37.8069190" lon="-122.2672107">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="355"/>
+  </node>
+  <node id="1087050994" lat="37.8031445" lon="-122.2751363">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Arsimona"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1087051039" lat="37.8013474" lon="-122.2742513">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Air Bar &amp; Lounge"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1125628315" lat="36.9666979" lon="-122.0079796">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Brady's Yacht Club"/>
+  </node>
+  <node id="1133499766" lat="37.4156034" lon="-122.1011086">
+    <tag k="addr:city" v="Mountain View"/>
+    <tag k="addr:housenumber" v="2534"/>
+    <tag k="addr:postcode" v="94043"/>
+    <tag k="addr:street" v="Old Middlefield Way"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Fred's Place"/>
+    <tag k="phone" v="+16509409838"/>
+    <tag k="website" v="http://fredsplace.tv/"/>
+  </node>
+  <node id="1186413902" lat="37.8035961" lon="-122.2748174">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Penelope Bar &amp; Lounge"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1186413940" lat="37.8051558" lon="-122.2693833">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Layover"/>
+  </node>
+  <node id="1191708023" lat="37.8067138" lon="-122.2701410">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Dogwood"/>
+  </node>
+  <node id="1206794862" lat="37.7638987" lon="-122.4149566">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="RiteSpot Café"/>
+  </node>
+  <node id="1211664282" lat="37.8233197" lon="-122.2563256">
+    <tag k="amenity" v="bar"/>
+  </node>
+  <node id="1219353013" lat="37.2283076" lon="-121.9805736">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cin Cin"/>
+  </node>
+  <node id="1228088209" lat="37.8065994" lon="-122.2663404">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="19th Street Station"/>
+  </node>
+  <node id="1228088216" lat="37.8073200" lon="-122.2703396">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="SomaR Bar"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1229920524" lat="37.7099557" lon="-122.4498831">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Connection"/>
+  </node>
+  <node id="1234891781" lat="37.8359992" lon="-122.2627889">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Marc 49"/>
+  </node>
+  <node id="1241641683" lat="37.8303977" lon="-122.2473355">
+    <tag k="addr:housenumber" v="4401"/>
+    <tag k="addr:postcode" v="94611"/>
+    <tag k="addr:street" v="Piedmont Avenue"/>
+    <tag k="address" v="4401 Piedmont Avenue"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Kona Club"/>
+    <tag k="phone" v="1 510 654 7100"/>
+    <tag k="website" v="http://www.konaclub.net"/>
+  </node>
+  <node id="1243846554" lat="37.7686749" lon="-122.4154254">
+    <tag k="addr:housenumber" v="1779"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:street" v="Folsom Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Nihon"/>
+  </node>
+  <node id="1285554025" lat="37.7857068" lon="-122.3993491">
+    <tag k="addr:housenumber" v="651"/>
+    <tag k="addr:street" v="Howard Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Roe"/>
+  </node>
+  <node id="1305397506" lat="37.8416645" lon="-122.2941116">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Broken Rack"/>
+  </node>
+  <node id="1315578392" lat="37.7650354" lon="-122.3964316">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bottom of the Hill"/>
+  </node>
+  <node id="1332547259" lat="37.7819721" lon="-122.4322538">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Yoshi's San Francisco"/>
+  </node>
+  <node id="1334618925" lat="36.9645103" lon="-122.0205178">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Coasters"/>
+  </node>
+  <node id="1341726588" lat="37.8257629" lon="-122.2696518">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Eli's Mile High Club"/>
+  </node>
+  <node id="1369329144" lat="37.7766699" lon="-122.4388536">
+    <tag k="addr:housenumber" v="1335"/>
+    <tag k="addr:postcode" v="94117"/>
+    <tag k="addr:street" v="Fulton Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Candybar"/>
+    <tag k="website" v="http://www.candybarsf.com"/>
+  </node>
+  <node id="1377023469" lat="37.8101329" lon="-122.2692513">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="2022"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1377034075" lat="37.8131218" lon="-122.2684910">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Stork Club"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1378031327" lat="37.8151525" lon="-122.2461537">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Grand Tavern"/>
+  </node>
+  <node id="1386674315" lat="37.8070404" lon="-122.2708574">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bench and Bar"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1388187059" lat="37.4142866" lon="-122.0936046">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Francesca's"/>
+  </node>
+  <node id="1390917545" lat="37.8075124" lon="-122.2702972">
+    <tag k="addr:housenumber" v="1741"/>
+    <tag k="addr:street" v="Telegraph Avenue"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Make Westing"/>
+    <tag k="website" v="http://makewesting.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1406188018" lat="37.7848941" lon="-122.4179931">
+    <tag k="addr:housenumber" v="743"/>
+    <tag k="addr:street" v="Larkin Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Olive"/>
+    <tag k="website" v="http://www.olive-sf.com/"/>
+  </node>
+  <node id="1417639584" lat="37.7916237" lon="-122.4104078">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Top of the Mark"/>
+  </node>
+  <node id="1419609091" lat="37.8702858" lon="-122.2670987">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Ippuku"/>
+  </node>
+  <node id="1421088343" lat="37.8102234" lon="-122.2668534">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Club 21"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1421339337" lat="37.8716997" lon="-122.2561634">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Faculty Club"/>
+  </node>
+  <node id="1424879519" lat="37.7625160" lon="-122.4214996">
+    <tag k="addr:housenumber" v="647"/>
+    <tag k="addr:street" v="Valencia Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Elbo Room"/>
+  </node>
+  <node id="1440595689" lat="38.3261417" lon="-122.7056737">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cotati Brixx"/>
+  </node>
+  <node id="1440596886" lat="38.3254656" lon="-122.7050585">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tama Rama"/>
+  </node>
+  <node id="1440596904" lat="38.3258260" lon="-122.7058965">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Inn of the Beginning"/>
+  </node>
+  <node id="1440596962" lat="38.3251887" lon="-122.7047817">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="8ball"/>
+  </node>
+  <node id="1463133770" lat="37.8392504" lon="-122.2897079">
+    <tag k="addr:housename" v="Sushi Village"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Honor Bar"/>
+  </node>
+  <node id="1473407368" lat="37.3804206" lon="-122.1157428">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Maltby's"/>
+  </node>
+  <node id="1490418993" lat="37.8318568" lon="-122.2803489">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Oaks Corner Sports Bar"/>
+  </node>
+  <node id="1517000947" lat="37.7678345" lon="-122.4294574">
+    <tag k="addr:housenumber" v="718"/>
+    <tag k="addr:street" v="14th Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="building" v="commercial space ground floor"/>
+    <tag k="building:levels" v="3 storey"/>
+    <tag k="building:materials" v="wood"/>
+    <tag k="capacity" v="50 people"/>
+  </node>
+  <node id="1519114464" lat="37.8676593" lon="-122.2914466">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Acme Bar"/>
+  </node>
+  <node id="1529183797" lat="37.7859157" lon="-122.3995625">
+    <tag k="addr:housenumber" v="650"/>
+    <tag k="addr:street" v="Howard Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Gold Club"/>
+  </node>
+  <node id="1556168539" lat="37.8112357" lon="-122.2665814">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Plum Bar"/>
+    <tag k="source" v="Bing"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1556185446" lat="37.8041792" lon="-122.2703744">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="House of Music"/>
+  </node>
+  <node id="1556259907" lat="37.8691529" lon="-122.2686622">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="FIVE"/>
+  </node>
+  <node id="1561600193" lat="37.3209233" lon="-121.9480826">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="V Bar"/>
+  </node>
+  <node id="1581843965" lat="37.7784290" lon="-122.3943226">
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Lusk Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Twenty Five Lusk"/>
+    <tag k="website" v="http://www.25lusk.com/"/>
+  </node>
+  <node id="1583836291" lat="38.2886096" lon="-122.4586928">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Hopmonk"/>
+  </node>
+  <node id="1607230272" lat="37.7985549" lon="-122.4070947">
+    <tag k="addr:housenumber" v="1232"/>
+    <tag k="addr:street" v="Grant Avenue"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Saloon"/>
+    <tag k="phone" v="(415) 989-7666"/>
+    <tag k="website" v="http://www.sfblues.net/Saloon.html"/>
+  </node>
+  <node id="1608173796" lat="37.7883293" lon="-122.4040043">
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Maiden Lane"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Otis Lounge"/>
+    <tag k="website" v="http://otissf.com/"/>
+  </node>
+  <node id="1609599962" lat="37.7589506" lon="-122.4189279">
+    <tag k="addr:housenumber" v="2389"/>
+    <tag k="addr:street" v="Mission Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bruno's"/>
+    <tag k="opening_hours" v="Fr-Sa 21:00-02:00"/>
+    <tag k="phone" v="+1 415 643 5200"/>
+    <tag k="website" v="http://www.brunossf.com/"/>
+  </node>
+  <node id="1612773733" lat="37.7710719" lon="-122.4132775">
+    <tag k="addr:housenumber" v="354"/>
+    <tag k="addr:street" v="11th Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="contactus@smoothasbutter.com"/>
+    <tag k="name" v="Butter"/>
+    <tag k="opening_hours" v="Th-Sa 18:00-02:00; Su 20:00-02:00"/>
+    <tag k="phone" v="+1 415 863 5964"/>
+    <tag k="website" v="http://www.smoothasbutter.com/"/>
+  </node>
+  <node id="1613829042" lat="37.7881751" lon="-122.4002205">
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="DaDa Bar"/>
+  </node>
+  <node id="1615157230" lat="37.7911616" lon="-122.4171865">
+    <tag k="addr:housenumber" v="1390"/>
+    <tag k="addr:street" v="California Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Wreck Room"/>
+    <tag k="opening_hours" v="Mo-Sa 16:00-02:00; Su 10:00-02:00"/>
+    <tag k="phone" v="+1 415 932 6715"/>
+    <tag k="website" v="http://www.thewreckroomsf.com/"/>
+  </node>
+  <node id="1616322282" lat="37.7856400" lon="-122.4302214">
+    <tag k="addr:housenumber" v="1700"/>
+    <tag k="addr:street" v="Post Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Dimples"/>
+  </node>
+  <node id="1616322287" lat="37.7849537" lon="-122.4321716">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Mogura"/>
+    <tag k="note" v="Karaoke bar"/>
+  </node>
+  <node id="1617288110" lat="37.7898697" lon="-122.4009729">
+    <tag k="amenity" v="bar"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="Sutter Station"/>
+    <tag k="smoking" v="no"/>
+  </node>
+  <node id="1618687933" lat="37.7802344" lon="-122.4854951">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Trader Sam's"/>
+  </node>
+  <node id="1626468365" lat="37.7870952" lon="-122.4128807">
+    <tag k="addr:housenumber" v="620"/>
+    <tag k="addr:postcode" v="94102"/>
+    <tag k="addr:street" v="Jones Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="scoop@620-jones.com"/>
+    <tag k="name" v="Jones Bar"/>
+    <tag k="opening_hours" v="Tu-Th 17:00-24:00; Fr-Sa 17:00-02:00; Su 11:00-15:00; Mo closed"/>
+    <tag k="phone" v="+1 415 496 6858"/>
+    <tag k="website" v="http://620-jones.com/"/>
+  </node>
+  <node id="1648518058" lat="36.5981857" lon="-121.8947027">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Mucky Duck"/>
+  </node>
+  <node id="1648518461" lat="36.5981750" lon="-121.8950943">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Lallapalooza"/>
+  </node>
+  <node id="1649867191" lat="37.7602611" lon="-122.4207585">
+    <tag k="addr:housenumber" v="3464"/>
+    <tag k="addr:postcode" v="94110"/>
+    <tag k="addr:street" v="19th St"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Lexington Club"/>
+    <tag k="website" v="http://www.lexingtonclub.com/"/>
+  </node>
+  <node id="1673003183" lat="37.3235244" lon="-121.9588121">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="JJ's Blues"/>
+  </node>
+  <node id="1674110549" lat="37.7855563" lon="-122.4083525">
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Ellis Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Infusion Lounge"/>
+    <tag k="website" v="http://sf.infusionlounge.com/"/>
+  </node>
+  <node id="1703921234" lat="37.4692991" lon="-122.2229662">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="593"/>
+    <tag k="addr:postcode" v="94061"/>
+    <tag k="addr:street" v="Woodside Road"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Villa Roma Cocktail Lounge"/>
+    <tag k="phone" v="(650) 365-5060"/>
+  </node>
+  <node id="1713861776" lat="37.7901262" lon="-122.3977906">
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="1st Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="83 Proof"/>
+  </node>
+  <node id="1722753271" lat="37.6736411" lon="-122.0836206">
+    <tag k="addr:housename" v="Turf Club"/>
+    <tag k="addr:housenumber" v="22519"/>
+    <tag k="addr:postcode" v="94541"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Turf Club"/>
+    <tag k="website" v="http://wfturfclub.com"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="1743520895" lat="37.7784517" lon="-122.4120735">
+    <tag k="addr:housename" v="SoMa Grand"/>
+    <tag k="addr:housenumber" v="1148"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:street" v="Mission Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Heaven's Dog"/>
+  </node>
+  <node id="1769298113" lat="37.2621044" lon="-121.8773853">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Branham Lounge"/>
+  </node>
+  <node id="1776757610" lat="37.7224991" lon="-122.1539700">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cunha's Cocktails"/>
+  </node>
+  <node id="1776761735" lat="37.7206447" lon="-122.1534680">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Washington Club"/>
+  </node>
+  <node id="1779672623" lat="37.8730612" lon="-122.4565475">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Sam's Anchor Cafe"/>
+  </node>
+  <node id="1779673717" lat="37.8732475" lon="-122.4559306">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Servino's"/>
+  </node>
+  <node id="1779675208" lat="37.8748100" lon="-122.4576204">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tiburon Grill"/>
+  </node>
+  <node id="1784908622" lat="37.7767623" lon="-122.4379485">
+    <tag k="addr:housenumber" v="762"/>
+    <tag k="addr:postcode" v="94117"/>
+    <tag k="addr:street" v="Divisadero St."/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Fly Bar &amp; Restaurant"/>
+    <tag k="website" v="http://flybarandrestaurant.com/sf/"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1788820322" lat="37.7753464" lon="-122.4098785">
+    <tag k="addr:housenumber" v="1190"/>
+    <tag k="addr:street" v="Folsom Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cat Club"/>
+  </node>
+  <node id="1806978712" lat="37.7712823" lon="-122.4130526">
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:street" v="11th Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="info@baragricole.com"/>
+    <tag k="name" v="Bar Agricole"/>
+    <tag k="opening_hours" v="Su-We 17:30-22:00; Th-Sa 17:30-23:00"/>
+    <tag k="phone" v="+1 415 355 9400"/>
+    <tag k="website" v="http://www.baragricole.com/"/>
+  </node>
+  <node id="1806978713" lat="37.7714837" lon="-122.4133179">
+    <tag k="addr:housenumber" v="333"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:street" v="11th Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Slim's"/>
+    <tag k="phone" v="+1 415 255 0333"/>
+    <tag k="website" v="http://www.slimspresents.com/"/>
+  </node>
+  <node id="1819811597" lat="37.7831232" lon="-122.4637521">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Rockit Room"/>
+  </node>
+  <node id="1830471249" lat="37.7761372" lon="-122.4205044">
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="Fell Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Rickshaw Stop"/>
+  </node>
+  <node id="1839527429" lat="37.7552750" lon="-122.4194265">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Make Out Room"/>
+  </node>
+  <node id="1844653896" lat="37.7855130" lon="-122.4130769">
+    <tag k="addr:city" v="San Francicsco"/>
+    <tag k="addr:housenumber" v="441"/>
+    <tag k="addr:street" v="Jones Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="info@tradbar.com"/>
+    <tag k="name" v="Tradition"/>
+    <tag k="opening_hours" v="o-Sa 18:00-02:00; Su closed"/>
+    <tag k="phone" v="+1 415 474 2284"/>
+    <tag k="website" v="www.tradbar.com"/>
+  </node>
+  <node id="1844915443" lat="37.7860069" lon="-122.4044147">
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Yerba Buena Lane"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Press Club"/>
+    <tag k="opening_hours" v="Mo-Th 16:00-22:00; Fr 16:00-close; Sa 14:00-close; Su closed"/>
+    <tag k="phone" v="+1 415 744 5000"/>
+    <tag k="website" v="pressclubsf.com"/>
+  </node>
+  <node id="1861493161" lat="38.0946544" lon="-122.2284181">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Chris' Club"/>
+  </node>
+  <node id="1914749996" lat="37.7393085" lon="-122.4182852">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Stray Bar"/>
+  </node>
+  <node id="1924019359" lat="37.7781757" lon="-122.3969699">
+    <tag k="addr:housenumber" v="510"/>
+    <tag k="addr:street" v="Brannan Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bar Basic"/>
+  </node>
+  <node id="1924046300" lat="37.6329291" lon="-122.0498906">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Dirty Bird Lounge"/>
+  </node>
+  <node id="1928508899" lat="37.7901995" lon="-122.4053543">
+    <tag k="addr:housenumber" v="334"/>
+    <tag k="addr:postcode" v="94108"/>
+    <tag k="addr:street" v="Grant Ave"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Rouge et Blanc"/>
+    <tag k="website" v="http://rougeetblancsf.com/"/>
+  </node>
+  <node id="1974693051" lat="37.8340022" lon="-122.4744130">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Presidio Yacht Club "/>
+    <tag k="old_name" v="Presidio Yacht Club"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1975041548" lat="36.6070071" lon="-120.8852957">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Panoche Inn"/>
+  </node>
+  <node id="1975950250" lat="37.3881731" lon="-122.0896506">
+    <tag k="addr:housenumber" v="1313B"/>
+    <tag k="addr:postcode" v="94040"/>
+    <tag k="addr:street" v="West El Camino Real"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bert's Alibi"/>
+  </node>
+  <node id="1982439159" lat="37.7820180" lon="-122.4491726">
+    <tag k="amenity" v="bar"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Pig and Whistle"/>
+  </node>
+  <node id="1984732396" lat="37.3102071" lon="-121.9019005">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Goosetown"/>
+  </node>
+  <node id="2005893376" lat="37.7702610" lon="-122.4257961">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Mint"/>
+  </node>
+  <node id="2017000509" lat="37.7416179" lon="-122.5053363">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="3639"/>
+    <tag k="addr:postcode" v="94116"/>
+    <tag k="addr:street" v="Taraval Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="happy_hour" v="Mo-Fr 16:00 - 19:00"/>
+    <tag k="live_music" v="Sa, Su"/>
+    <tag k="name" v="The Riptide"/>
+    <tag k="opening_hours" v="16:00-02:00"/>
+    <tag k="website" v="http://www.riptidesf.com"/>
+  </node>
+  <node id="2026996037" lat="37.7867615" lon="-122.4004371">
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Minna Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Alibi Restaurant &amp; Lounge"/>
+    <tag k="phone" v="+1 415 857 4142"/>
+    <tag k="website" v="http://www.sfalibi.com/"/>
+  </node>
+  <node id="2026996050" lat="37.7873550" lon="-122.4002345">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="House of Shields"/>
+  </node>
+  <node id="2026996055" lat="37.7868435" lon="-122.4003283">
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Minna Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="John Colins"/>
+  </node>
+  <node id="2054109855" lat="37.7272028" lon="-122.4327193">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cotters Corner"/>
+  </node>
+  <node id="2054109906" lat="37.7255163" lon="-122.4343609">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Pissed Off Pete's"/>
+  </node>
+  <node id="2063618744" lat="36.9768586" lon="-122.0210425">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Solaire"/>
+  </node>
+  <node id="2069104070" lat="37.7552532" lon="-122.4233386">
+    <tag k="addr:housenumber" v="998"/>
+    <tag k="addr:street" v="Guerrero Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Liberties"/>
+  </node>
+  <node id="2071647991" lat="37.7921410" lon="-122.4100088">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tonga Room &amp; Hurricane Bar"/>
+  </node>
+  <node id="2109111735" lat="37.3193898" lon="-121.9478583">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="El Jardin"/>
+    <tag k="website" v="http://www.jardintequilabar.com/"/>
+  </node>
+  <node id="2109111750" lat="37.3199987" lon="-121.9478462">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Vintage Wine Bar"/>
+    <tag k="website" v="http://www.vintagewinemerchants.com/"/>
+  </node>
+  <node id="2109141993" lat="37.3199518" lon="-121.9475646">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Village California Bistro"/>
+    <tag k="website" v="http://www.thevillagebistro.net/"/>
+  </node>
+  <node id="2109397544" lat="37.7608401" lon="-122.4352563">
+    <tag k="addr:housenumber" v="4124"/>
+    <tag k="addr:postcode" v="94114"/>
+    <tag k="addr:street" v="18th St"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Badlands"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="2131702647" lat="37.7604101" lon="-122.4146785">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Homestead"/>
+  </node>
+  <node id="2142022502" lat="37.7981251" lon="-121.2040464">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="The Rusty Hook"/>
+  </node>
+  <node id="2142065835" lat="37.7983807" lon="-121.1976745">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Rookies"/>
+  </node>
+  <node id="2146086963" lat="37.7611202" lon="-122.4217390">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Mission Cheese"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="2156506457" lat="37.3891201" lon="-122.0040131">
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza Depot"/>
+  </node>
+  <node id="2156901023" lat="37.3935352" lon="-122.0797536">
+    <tag k="amenity" v="bar"/>
+  </node>
+  <node id="2165794794" lat="38.3013039" lon="-122.2874505">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Stonehedge Winery"/>
+  </node>
+  <node id="2166014677" lat="37.7980410" lon="-122.4040492">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Atmosphere 3"/>
+    <tag k="phone" v="415.788.4623"/>
+    <tag k="website" v="http://www.a3atmosphere.com/"/>
+  </node>
+  <node id="2166014681" lat="37.7979450" lon="-122.4049333">
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="Payamarvin@gmail.com"/>
+    <tag k="name" v="Monroe San Francisco"/>
+    <tag k="phone" v="+1 415-772-9002"/>
+    <tag k="website" v="http://www.monroesf.com/"/>
+  </node>
+  <node id="2167447455" lat="37.7971108" lon="-122.4222107">
+    <tag k="amenity" v="bar"/>
+    <tag k="email" v="bullitt2209@gmail.com"/>
+    <tag k="name" v="Bullitt"/>
+    <tag k="opening_hours" v="Mo-Th 15:00-2:00; Fr-Su 11:00-2:00"/>
+    <tag k="phone" v="+1 415-268-0140"/>
+    <tag k="website" v="http://www.bullittsf.com/"/>
+  </node>
+  <node id="2167447456" lat="37.7977008" lon="-122.4223088">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Et Al"/>
+    <tag k="website" v="http://etalsf.com/"/>
+  </node>
+
+</osm>

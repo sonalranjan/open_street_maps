@@ -1,0 +1,4307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2013-03-12T06:51:02Z"/>
+
+  <node id="266587527" lat="37.3619357" lon="-122.0244444">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Subway"/>
+  </node>
+  <node id="266587528" lat="37.3611013" lon="-122.0260135">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Spice Hut"/>
+  </node>
+  <node id="266625618" lat="37.3609754" lon="-122.0249275">
+    <tag k="addr:city" v="Sunnyvale"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="604"/>
+    <tag k="addr:postcode" v="94087"/>
+    <tag k="addr:street" v="E El Camino Real"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="In-N-Out Burger"/>
+  </node>
+  <node id="266630157" lat="37.3518975" lon="-122.0047585">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Subway"/>
+  </node>
+  <node id="266630160" lat="37.3529240" lon="-122.0045772">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Bhavika's Chatpat"/>
+  </node>
+  <node id="266639513" lat="37.3637045" lon="-122.0266577">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Togo"/>
+    <tag k="operator" v="Togo's"/>
+  </node>
+  <node id="270031385" lat="37.3891483" lon="-121.9836850">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10e"/>
+    <tag k="name" v="World Wraps"/>
+  </node>
+  <node id="276320198" lat="37.4192026" lon="-122.0942536">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="name" v="Krispy Kreme"/>
+  </node>
+  <node id="276559775" lat="37.6008331" lon="-122.3823900">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="In-N-Out Burger"/>
+  </node>
+  <node id="276582431" lat="37.5776577" lon="-122.3480711">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Melt"/>
+  </node>
+  <node id="281568453" lat="37.5854596" lon="-122.3654518">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="281869945" lat="37.4243217" lon="-122.1656287">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="loc_name" v="Stern Late Nite"/>
+    <tag k="name" v="Stern Cyber Cafe"/>
+  </node>
+  <node id="281870129" lat="37.4242642" lon="-122.1707343">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="281870179" lat="37.4244372" lon="-122.1707142">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="281870184" lat="37.4244824" lon="-122.1708716">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10"/>
+    <tag k="name" v="Union Square"/>
+  </node>
+  <node id="281870188" lat="37.4246898" lon="-122.1707785">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Express Lunch"/>
+  </node>
+  <node id="281870217" lat="37.4250030" lon="-122.1705082">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="loc_name" v="TAP"/>
+    <tag k="name" v="The Axe &amp; Palm"/>
+  </node>
+  <node id="286385753" lat="37.3391010" lon="-122.0425570">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Round table pizza"/>
+    <tag k="website:official" v="http://www.extremepita.com/"/>
+  </node>
+  <node id="286632276" lat="37.8673193" lon="-122.2587091">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="name" v="Fat Slice"/>
+  </node>
+  <node id="286632448" lat="37.8679321" lon="-122.2591628">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Noah's Bagel"/>
+  </node>
+  <node id="287462718" lat="37.4292388" lon="-122.1734375">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Bytes Cafe"/>
+  </node>
+  <node id="287482979" lat="37.4330232" lon="-122.1710149">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="name" v="Cafe Cool"/>
+  </node>
+  <node id="292445553" lat="37.3767505" lon="-122.0763517">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Erik's Deli Cafe"/>
+  </node>
+  <node id="309332138" lat="37.3526443" lon="-122.0047316">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Carl's Jr"/>
+    <tag k="operator" v="KFC"/>
+  </node>
+  <node id="310972981" lat="37.7619175" lon="-122.2436249">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Kentucky Fried Chicken"/>
+  </node>
+  <node id="310973005" lat="37.7624223" lon="-122.2446790">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="310973045" lat="37.7645473" lon="-122.2427387">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="310973082" lat="37.7664220" lon="-122.2412806">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Weinerschnitzel"/>
+  </node>
+  <node id="311252181" lat="37.8122418" lon="-122.2695673">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="311252259" lat="37.8084341" lon="-122.2653489">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Togo's Great Sandwiches"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="311252260" lat="37.8079698" lon="-122.2655160">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Sandwich Express"/>
+  </node>
+  <node id="311911148" lat="37.3804117" lon="-122.0739869">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="In-N-Out Burger"/>
+  </node>
+  <node id="314115730" lat="37.8723007" lon="-122.2686581">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="314443668" lat="37.3730554" lon="-122.0877973">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="315669474" lat="37.1524664" lon="-121.6547600">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="In-N-Out Burger"/>
+  </node>
+  <node id="315683627" lat="37.0034442" lon="-121.5514550">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="315683804" lat="37.0030326" lon="-121.5513377">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Togo's / Baskin Robins"/>
+  </node>
+  <node id="315684689" lat="37.0037180" lon="-121.5524535">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Arby's"/>
+  </node>
+  <node id="316508789" lat="37.0012738" lon="-121.5613915">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="316508792" lat="37.0012098" lon="-121.5613631">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Ling's Mongolian Barbeque"/>
+  </node>
+  <node id="316511343" lat="37.0025259" lon="-121.5602044">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Super Taqueria"/>
+  </node>
+  <node id="316513005" lat="37.0082012" lon="-121.5514239">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="316514416" lat="37.0068235" lon="-121.5517329">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="316516115" lat="37.0088487" lon="-121.5538485">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Hawaian Barbeque"/>
+  </node>
+  <node id="317124809" lat="37.7801650" lon="-122.3946256">
+    <tag k="addr:housenumber" v="590"/>
+    <tag k="addr:postcode" v="94107"/>
+    <tag k="addr:street" v="3rd Street"/>
+    <tag k="alt_name" v="City Gourmet Cafe"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="City Gourmet Deli"/>
+    <tag k="website" v="www.citygourmetcafe.com"/>
+  </node>
+  <node id="318886208" lat="37.8752719" lon="-122.2597852">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Top Dog"/>
+  </node>
+  <node id="319636131" lat="37.0126197" lon="-121.5959038">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Little Caesar's Pizza"/>
+  </node>
+  <node id="320407379" lat="36.8548995" lon="-121.4017833">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="xybot"/>
+    <tag k="name" v="Alegria Taqueria"/>
+  </node>
+  <node id="320479006" lat="36.8529436" lon="-121.4126221">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="xybot"/>
+    <tag k="name" v="El Grullense"/>
+  </node>
+  <node id="320483378" lat="36.8572168" lon="-121.4022572">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="320818016" lat="36.8501799" lon="-121.3970162">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Domino's Pizza"/>
+  </node>
+  <node id="320818264" lat="36.8398759" lon="-121.3934903">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Round Table"/>
+  </node>
+  <node id="320818804" lat="36.8595397" lon="-121.4011693">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Straw Hat Pizza"/>
+  </node>
+  <node id="321544227" lat="37.1101459" lon="-121.6400349">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Jack n the Box"/>
+  </node>
+  <node id="326710569" lat="37.1308582" lon="-121.6364493">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="331090197" lat="37.1217788" lon="-121.6482882">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Mr. Hong's Chinese Fast Food"/>
+  </node>
+  <node id="332112269" lat="37.0137763" lon="-121.5826915">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Wienerschnitzel"/>
+  </node>
+  <node id="332113051" lat="37.0140162" lon="-121.5844081">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Papa Murphy's"/>
+  </node>
+  <node id="332113289" lat="37.0143589" lon="-121.5855068">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Baskin Robins"/>
+  </node>
+  <node id="332346432" lat="37.0131175" lon="-121.5942284">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Mr Hongs"/>
+  </node>
+  <node id="337844176" lat="37.9916564" lon="-122.3010947">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="337845082" lat="37.9918322" lon="-122.3019873">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="337845577" lat="37.9911558" lon="-122.3015410">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Carls Jr"/>
+  </node>
+  <node id="337845844" lat="37.9913181" lon="-122.3021160">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="Kentucky Fried Chicken"/>
+  </node>
+  <node id="337846589" lat="37.9919260" lon="-122.3028507">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="337847037" lat="37.9919608" lon="-122.3034378">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="fish_and_chips"/>
+    <tag k="name" v="Long John Silvers"/>
+  </node>
+  <node id="337852356" lat="37.9890656" lon="-122.3107678">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="In-N-Out"/>
+  </node>
+  <node id="337855689" lat="37.9960869" lon="-122.3049227">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="339781425" lat="37.4379296" lon="-122.1596733">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="juice"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="340310137" lat="37.0199349" lon="-121.5777238">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Super Juicy Burger &amp; More"/>
+  </node>
+  <node id="340311987" lat="37.0196745" lon="-121.5767625">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Fast Pizza"/>
+  </node>
+  <node id="340331147" lat="37.4246758" lon="-122.1706627">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Fraîche"/>
+  </node>
+  <node id="343219779" lat="37.3932209" lon="-122.0791657">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Classico Gelato"/>
+    <tag k="shop" v="yes"/>
+  </node>
+  <node id="343272363" lat="37.3942457" lon="-122.0775272">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="343317738" lat="37.9023271" lon="-122.3040885">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="346416732" lat="37.7989372" lon="-122.2565521">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Mi Rancho Taco Truck"/>
+  </node>
+  <node id="354035785" lat="37.8679167" lon="-122.2574202">
+    <tag k="addr:street" v="Durant Avenue"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Top Dog"/>
+  </node>
+  <node id="354703380" lat="37.8703768" lon="-122.2663664">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Quiznos"/>
+  </node>
+  <node id="356612717" lat="37.1499887" lon="-121.6563288">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Baskin Robbins"/>
+  </node>
+  <node id="356612791" lat="37.1506181" lon="-121.6552473">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="356613936" lat="37.1332465" lon="-121.6300045">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="356614079" lat="37.1336228" lon="-121.6303390">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Sweet Retreat (defunct)"/>
+  </node>
+  <node id="358116917" lat="37.7263814" lon="-122.4762258">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="359880092" lat="37.5788684" lon="-122.3463718">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Round Table Pizza"/>
+  </node>
+  <node id="361015447" lat="37.9847529" lon="-121.3456294">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="In-N-Out"/>
+  </node>
+  <node id="365795396" lat="37.8676648" lon="-122.2587864">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Smart Alec's"/>
+  </node>
+  <node id="365795484" lat="37.8698090" lon="-122.2596494">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Golden Bear Cafe"/>
+  </node>
+  <node id="366058993" lat="37.5971910" lon="-122.5037017">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="366086633" lat="37.8685691" lon="-122.2593259">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="366086636" lat="37.8684072" lon="-122.2589823">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle Mexican Grill"/>
+  </node>
+  <node id="366086640" lat="37.8680809" lon="-122.2590627">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Crepes A-Go-Go"/>
+  </node>
+  <node id="366086641" lat="37.8680286" lon="-122.2590489">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Blondie's Pizza"/>
+  </node>
+  <node id="366653124" lat="37.7618852" lon="-121.4337427">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="In-N-Out"/>
+  </node>
+  <node id="368204308" lat="37.8652930" lon="-122.2581510">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="2505"/>
+    <tag k="addr:postcode" v="94704"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Dwight Way"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="drive_in" v="no"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="Bongo Burger"/>
+    <tag k="phone" v="+1 510 5484100"/>
+    <tag k="website" v="www.bongoburger.com"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="370193848" lat="37.7791991" lon="-122.4106145">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="370194862" lat="37.7790091" lon="-122.4109149">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Good Pizza"/>
+  </node>
+  <node id="370195120" lat="37.7785953" lon="-122.4098420">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Custom Burger"/>
+  </node>
+  <node id="376214365" lat="37.7786297" lon="-122.4152276">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="380685853" lat="36.8533472" lon="-120.7769738">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Chevron"/>
+  </node>
+  <node id="380687170" lat="36.8531205" lon="-120.7768451">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="383509298" lat="37.7872432" lon="-122.4100338">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="385008429" lat="37.6060481" lon="-122.3958240">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC AW"/>
+  </node>
+  <node id="392207005" lat="37.5976135" lon="-122.3859909">
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:postcode" v="94030"/>
+    <tag k="addr:street" v="South El Camino Real"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="392954709" lat="36.9071199" lon="-121.7529007">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="392955935" lat="36.9162884" lon="-121.7730365">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Del Taco"/>
+  </node>
+  <node id="392956264" lat="36.9167482" lon="-121.7757230">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="394925357" lat="37.4834968" lon="-122.2300906">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="1111"/>
+    <tag k="addr:postcode" v="94063"/>
+    <tag k="addr:street" v="El Camino Real"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Johnny Rockets"/>
+    <tag k="phone" v="(650) 306-9500"/>
+    <tag k="url" v="http://www.johnnyrockets.com"/>
+  </node>
+  <node id="399588983" lat="36.9779162" lon="-122.0203409">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="401461442" lat="36.9673001" lon="-122.0387784">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="401926256" lat="37.0563383" lon="-120.8802135">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="401933600" lat="37.0571209" lon="-120.8529103">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Dairy Queen"/>
+  </node>
+  <node id="401947452" lat="37.0565387" lon="-120.8350489">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="401947617" lat="37.0565867" lon="-120.8251097">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr"/>
+  </node>
+  <node id="402294959" lat="37.0573863" lon="-120.8226383">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="402295388" lat="37.0566603" lon="-120.8268268">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr."/>
+  </node>
+  <node id="402297657" lat="37.0563726" lon="-120.8790119">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carls Jr."/>
+  </node>
+  <node id="402412817" lat="37.7972203" lon="-121.1923553">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="In-N-Out"/>
+  </node>
+  <node id="403753217" lat="36.9830290" lon="-122.0223938">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="405661808" lat="36.9707985" lon="-122.0242933">
+    <tag k="amenity" v="fast_food"/>
+  </node>
+  <node id="405661842" lat="36.9707472" lon="-122.0250180">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Cafe Lena"/>
+  </node>
+  <node id="406683087" lat="36.9694411" lon="-122.0245910">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="406683093" lat="36.9751926" lon="-122.0266375">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pacific Avenue Pizza &amp; Grill"/>
+  </node>
+  <node id="406683114" lat="36.9671388" lon="-122.0390287">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="407754483" lat="36.9725892" lon="-122.0271603">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack's Hamburgers"/>
+  </node>
+  <node id="408446131" lat="36.9715677" lon="-122.0252435">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Quizno's"/>
+  </node>
+  <node id="408463435" lat="36.9740568" lon="-122.0255769">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="El Palomar Taco Bar"/>
+  </node>
+  <node id="408556571" lat="36.9640438" lon="-122.0208855">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="kebab"/>
+    <tag k="name" v="Falafel Hut"/>
+  </node>
+  <node id="409448578" lat="36.9671037" lon="-122.0080070">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Betty Burgers"/>
+  </node>
+  <node id="409452167" lat="36.9811825" lon="-122.0065630">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="409455095" lat="36.9804453" lon="-122.0212985">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="409473214" lat="36.9798603" lon="-122.0108308">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Charlie Hong Kong"/>
+  </node>
+  <node id="409821490" lat="36.9627503" lon="-122.0433812">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="409834801" lat="36.9614195" lon="-122.0478746">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taqueria La Cabaña"/>
+  </node>
+  <node id="409841027" lat="36.9615634" lon="-122.0457873">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="409841029" lat="36.9615075" lon="-122.0456453">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taqueria Santa Cruz"/>
+  </node>
+  <node id="411157203" lat="37.3102934" lon="-121.9142340">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+    <tag k="operator" v="Subway"/>
+  </node>
+  <node id="412057196" lat="36.9808945" lon="-122.0074384">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="414153445" lat="36.9689488" lon="-122.0260700">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Foster's Freeze"/>
+  </node>
+  <node id="415277180" lat="36.9701166" lon="-122.0252062">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="415515194" lat="36.9713842" lon="-122.0255268">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Rocker's Pizza"/>
+  </node>
+  <node id="416183851" lat="37.2907234" lon="-121.9918364">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Panda Express"/>
+  </node>
+  <node id="416183907" lat="37.2900816" lon="-121.9907721">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="juice"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="416184652" lat="37.2939123" lon="-121.9587750">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Jack in the Box"/>
+  </node>
+  <node id="416783230" lat="37.8002946" lon="-122.4396430">
+    <tag k="amenity" v="fast_food"/>
+  </node>
+  <node id="418817271" lat="37.2360351" lon="-121.8033080">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="418817314" lat="37.2365630" lon="-121.8015746">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="419314792" lat="36.5996844" lon="-121.8881257">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="419423987" lat="36.6877301" lon="-121.7989510">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="419423990" lat="36.6871313" lon="-121.7997149">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="419435724" lat="36.7618620" lon="-121.7532817">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="423742429" lat="37.7652340" lon="-122.4191090">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="drive_in" v="no"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="Burger King"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="423742434" lat="37.7647744" lon="-122.4194481">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="428207898" lat="37.3880629" lon="-121.9820563">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="In-n-Out Burger"/>
+  </node>
+  <node id="428208391" lat="37.3890675" lon="-121.9833872">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="juice"/>
+    <tag k="operator" v="Jamba Juice"/>
+  </node>
+  <node id="428627317" lat="37.2509120" lon="-121.8318460">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="operator" v="McDonald's"/>
+  </node>
+  <node id="429184957" lat="37.2916518" lon="-121.9936120">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack in the Box"/>
+    <tag k="operator" v="Jack in the Box"/>
+  </node>
+  <node id="429185730" lat="37.2918750" lon="-121.9967829">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="430064823" lat="37.4193357" lon="-122.0936160">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonalds"/>
+    <tag k="operator" v="McDonald's"/>
+  </node>
+  <node id="430065354" lat="37.3914336" lon="-122.0963940">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="operator" v="McDonald's"/>
+  </node>
+  <node id="430531313" lat="37.8327201" lon="-122.2636970">
+    <tag k="addr:housenumber" v="4425"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="430535746" lat="37.8109411" lon="-122.2688576">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="1/4lb Giant Burgers"/>
+  </node>
+  <node id="432027013" lat="37.2669614" lon="-121.8321960">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="432817342" lat="37.7831831" lon="-122.4210960">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="819"/>
+    <tag k="addr:street" v="Van Ness Avenue"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="432822633" lat="37.7830135" lon="-122.4190188">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="691"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC &amp; Taco Bell"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="432826225" lat="37.7839225" lon="-122.4194738">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="753"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="434120830" lat="37.7183266" lon="-121.7246306">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr."/>
+  </node>
+  <node id="434125431" lat="37.7185439" lon="-121.7236264">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="434781580" lat="37.6892067" lon="-122.4655024">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="434874627" lat="37.8077483" lon="-122.4184653">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="In N Out Burger"/>
+  </node>
+  <node id="440261039" lat="36.8005143" lon="-121.6645501">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="440298330" lat="36.7922547" lon="-121.6654004">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="442401364" lat="37.0471623" lon="-122.0325446">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="442435847" lat="37.0423367" lon="-122.0250623">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="444092408" lat="38.1141121" lon="-121.3941983">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="444092626" lat="38.1154154" lon="-121.3938808">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="444092812" lat="38.1153479" lon="-121.3941726">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr."/>
+  </node>
+  <node id="444102949" lat="37.8113878" lon="-121.2919541">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Carls Jr."/>
+  </node>
+  <node id="444103833" lat="37.8114261" lon="-121.2910956">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="444104158" lat="37.8103603" lon="-121.2939226">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="444132563" lat="37.5384837" lon="-121.2637646">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carls Jr."/>
+  </node>
+  <node id="444132762" lat="37.5396067" lon="-121.2650091">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="444155738" lat="37.1113771" lon="-121.0163998">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="444156219" lat="37.1033205" lon="-121.0152840">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="444156583" lat="37.1029235" lon="-121.0152325">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Denny's"/>
+  </node>
+  <node id="444157081" lat="37.1001716" lon="-121.0149578">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="445218047" lat="37.2946985" lon="-121.9626708">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Del Taco"/>
+  </node>
+  <node id="445292457" lat="37.3287630" lon="-121.8587890">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="taco"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="445294421" lat="37.3159105" lon="-121.8739724">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="447928894" lat="37.3854800" lon="-121.9953805">
+    <tag k="addr:housenumber" v="550"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="447954616" lat="37.4384868" lon="-122.1605377">
+    <tag k="addr:city" v="Palo Alto"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="94301"/>
+    <tag k="addr:street" v="Town and Country Village"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Cold Stone Creamery"/>
+  </node>
+  <node id="452311429" lat="37.4703131" lon="-122.4344399">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="452311430" lat="37.4682763" lon="-122.4340708">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="452311438" lat="37.4700543" lon="-122.4350407">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="453721226" lat="36.9771021" lon="-121.9061676">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="453723821" lat="36.9784389" lon="-121.9064580">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="459383866" lat="37.3641964" lon="-121.8920252">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Carl's Jr."/>
+  </node>
+  <node id="459384683" lat="37.3864526" lon="-121.8617184">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="459384735" lat="37.3872982" lon="-121.8604996">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="459386148" lat="37.3618309" lon="-121.8356748">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="459386252" lat="37.3625677" lon="-121.8340698">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="462041468" lat="37.8680744" lon="-122.2580813">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Gypsy's Trattoria Italiano"/>
+  </node>
+  <node id="466092006" lat="37.3517167" lon="-122.0296199">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Jakes pizza sandwiches"/>
+  </node>
+  <node id="466092065" lat="37.3526000" lon="-122.0314100">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Frozos frozen yogurt"/>
+  </node>
+  <node id="474201236" lat="36.9353897" lon="-121.7724357">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="474204064" lat="36.9335435" lon="-121.7707712">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="474208995" lat="36.9325281" lon="-121.7699987">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="474209505" lat="36.9323909" lon="-121.7699043">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="474211767" lat="36.9303359" lon="-121.7678783">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="477076849" lat="37.2980761" lon="-122.0326740">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack in the Box"/>
+    <tag k="operator" v="Jack in the Box"/>
+  </node>
+  <node id="481437588" lat="37.0451761" lon="-122.0277471">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="481441445" lat="37.0455566" lon="-122.0281858">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="482787570" lat="37.4324850" lon="-122.2023858">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Luttichen's"/>
+  </node>
+  <node id="482787578" lat="37.4322922" lon="-122.2020838">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Lulu's"/>
+  </node>
+  <node id="482787673" lat="37.4318716" lon="-122.2023257">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Avanti Pizza"/>
+  </node>
+  <node id="484778277" lat="37.5254576" lon="-121.9861883">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="485367848" lat="37.5257606" lon="-122.0054453">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="486624348" lat="37.4334459" lon="-122.1290700">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway Shop"/>
+  </node>
+  <node id="486649349" lat="37.4331938" lon="-122.1292931">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Papa Murphy's Pizza"/>
+  </node>
+  <node id="486815751" lat="37.4341381" lon="-122.1299316">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Baskin &amp; Robbins Ice Cream"/>
+  </node>
+  <node id="487072918" lat="37.4076029" lon="-122.0109753">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Togo's"/>
+  </node>
+  <node id="487082144" lat="37.3883459" lon="-122.0302540">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Pizza Hut"/>
+  </node>
+  <node id="487082147" lat="37.3891847" lon="-122.0310694">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="487082169" lat="37.3954379" lon="-122.0293185">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+    <tag k="operator" v="Burger King"/>
+  </node>
+  <node id="487556113" lat="37.3104600" lon="-122.0122400">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="operator" v="Subway"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="487628973" lat="37.4692000" lon="-122.4345200">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Round Table Pizza"/>
+  </node>
+  <node id="490229791" lat="36.9762731" lon="-121.9687257">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Chinese Gourmet Express"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="490229822" lat="36.9760787" lon="-121.9685960">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="490255114" lat="37.0458779" lon="-122.0271789">
+    <tag k="addr:housenumber" v="214D"/>
+    <tag k="addr:street" v="Mount Hermon Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="490455851" lat="37.3890023" lon="-122.0298379">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Marty's Donuts"/>
+  </node>
+  <node id="490455854" lat="37.3890852" lon="-122.0296166">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Kentucky Fried Chicken"/>
+  </node>
+  <node id="493853275" lat="37.0610200" lon="-122.0062797">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="Yogurt"/>
+    <tag k="name" v="Yogizmo"/>
+  </node>
+  <node id="493887518" lat="37.0461356" lon="-122.0263773">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="bagel"/>
+    <tag k="name" v="House of Bagels"/>
+  </node>
+  <node id="494648355" lat="37.2980833" lon="-121.9503295">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="operator" v="McDonald's"/>
+  </node>
+  <node id="494657196" lat="37.3017497" lon="-121.9495056">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="taco"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="494657435" lat="37.3018794" lon="-121.9503810">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="El Polo Loco"/>
+  </node>
+  <node id="498428704" lat="37.0364757" lon="-122.0224513">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Quiznos"/>
+  </node>
+  <node id="501415400" lat="37.8368797" lon="-122.2934287">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="506818846" lat="37.2699473" lon="-121.9058094">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="506818878" lat="37.2702273" lon="-121.9066334">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Blue Rock BBQ"/>
+  </node>
+  <node id="506819192" lat="37.2749401" lon="-121.8934669">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="506883974" lat="36.9176684" lon="-121.7846996">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="509435198" lat="37.1202178" lon="-122.1206682">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Fosters Freeze"/>
+  </node>
+  <node id="509749528" lat="37.2858529" lon="-121.9757230">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack-in-the-Box"/>
+  </node>
+  <node id="512749867" lat="37.0451747" lon="-122.0283537">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="515624932" lat="37.4079297" lon="-121.9636459">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Togo's"/>
+  </node>
+  <node id="515630307" lat="37.3948569" lon="-121.9463669">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Una Mas"/>
+  </node>
+  <node id="519477537" lat="37.3363680" lon="-122.0666333">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Carvel Ice Cream"/>
+  </node>
+  <node id="520978322" lat="37.5979098" lon="-122.0651460">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="31361"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:street" v="Alvarado-Niles Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="527506906" lat="37.7697770" lon="-122.4247970">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Mapzen POI Collector 1.0 Beta rev. 16939"/>
+    <tag k="name:en" v="KFC"/>
+  </node>
+  <node id="527744442" lat="37.7288885" lon="-122.4307199">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC Taco Bell"/>
+  </node>
+  <node id="527872939" lat="37.7216711" lon="-122.4372698">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="529123373" lat="36.6567368" lon="-121.6594761">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="529123942" lat="36.6547331" lon="-121.6613558">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Wiernersnitzel"/>
+  </node>
+  <node id="529124595" lat="36.6584296" lon="-121.6586095">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="529125127" lat="36.6589116" lon="-121.6597683">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Quizno's"/>
+  </node>
+  <node id="529130196" lat="36.7216299" lon="-121.6644570">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="529656139" lat="37.7828529" lon="-122.4448572">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Tony's Cable Car"/>
+  </node>
+  <node id="534475869" lat="37.3402818" lon="-121.9038402">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Panera"/>
+  </node>
+  <node id="539993884" lat="37.7660013" lon="-122.4018689">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="What's Up Dog"/>
+  </node>
+  <node id="542737829" lat="37.6799763" lon="-121.7732439">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="542795592" lat="37.6826769" lon="-121.7780054">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="555909559" lat="37.5347269" lon="-122.0005296">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="557160778" lat="37.0614603" lon="-122.0064472">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taqueria Los Gallos"/>
+  </node>
+  <node id="557160781" lat="37.0614013" lon="-122.0063855">
+    <tag k="alt_name" v="SC Pizza Co"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Santa Cruz Pizza Company"/>
+  </node>
+  <node id="559179818" lat="37.5868709" lon="-122.0212976">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="34525"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:street" v="Alvarado-Niles Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="559339487" lat="37.4501701" lon="-122.1784509">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="description" v="Mexican food. Famous for their fish tacos."/>
+    <tag k="name" v="Rubios"/>
+    <tag k="website" v="rubios.com"/>
+  </node>
+  <node id="560185198" lat="37.7960417" lon="-122.2768334">
+    <tag k="addr:housenumber" v="463"/>
+    <tag k="addr:street" v="2nd St"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="O My Dawg"/>
+  </node>
+  <node id="563310851" lat="37.3566362" lon="-121.9051781">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Subway"/>
+  </node>
+  <node id="563340607" lat="37.3706440" lon="-121.9168758">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Subway"/>
+  </node>
+  <node id="564663196" lat="37.5427038" lon="-122.3028560">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="567010259" lat="37.5221950" lon="-122.2515329">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="567796818" lat="37.5902861" lon="-122.0200101">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="571529942" lat="37.4392130" lon="-122.1583500">
+    <tag k="addr:housenumber" v="855"/>
+    <tag k="addr:postcode" v="94301"/>
+    <tag k="addr:street" v="El Camino Real"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="description" v="GREAT sandwiches!"/>
+    <tag k="name" v="The Cheese House"/>
+    <tag k="website" v="www.thevch.com"/>
+  </node>
+  <node id="575166323" lat="37.7086930" lon="-122.1720119">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC/A&amp;W"/>
+  </node>
+  <node id="576883124" lat="37.2887660" lon="-120.4542698">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="576883455" lat="37.2887632" lon="-120.4539845">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="577030467" lat="37.5346750" lon="-121.9960497">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="577469108" lat="37.2978904" lon="-120.4758105">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="582483980" lat="37.3080023" lon="-121.9139696">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="582484253" lat="37.3102455" lon="-121.9133352">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Mr. Chau's"/>
+  </node>
+  <node id="582973803" lat="37.3189784" lon="-120.4774179">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="587754386" lat="37.4718337" lon="-122.1401960">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="description" v="It's a McDonald's. What else do you need to know?"/>
+    <tag k="opening_hours" v="06:00-24:00"/>
+    <tag k="operator" v="McDonald's"/>
+  </node>
+  <node id="587942620" lat="37.4615459" lon="-122.1373498">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="591039691" lat="37.6005482" lon="-122.3818315">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Panera Bread"/>
+  </node>
+  <node id="593999775" lat="37.9935973" lon="-121.7836302">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack N The Box"/>
+  </node>
+  <node id="597382133" lat="37.7066135" lon="-122.4153208">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="598640889" lat="37.2438480" lon="-121.9597713">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="599100370" lat="37.3383123" lon="-121.9938407">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="operator" v="McDonald's"/>
+  </node>
+  <node id="600134944" lat="37.0623805" lon="-122.0046105">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="610536759" lat="37.2947341" lon="-121.9404289">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Panera Bread"/>
+    <tag k="operator" v="Panera Bread"/>
+  </node>
+  <node id="611529791" lat="37.3314766" lon="-121.9123916">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="operator" v="Togo's"/>
+  </node>
+  <node id="611529793" lat="37.3315517" lon="-121.9123801">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="operator" v="Baskin-Robbins"/>
+  </node>
+  <node id="611542074" lat="37.3518040" lon="-121.9681469">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="bagel"/>
+    <tag k="operator" v="Noah's Bagels"/>
+  </node>
+  <node id="611542075" lat="37.3518058" lon="-121.9679840">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="juice"/>
+    <tag k="operator" v="Jamba Juice"/>
+  </node>
+  <node id="611542076" lat="37.3518040" lon="-121.9680632">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="operator" v="Una Mas"/>
+  </node>
+  <node id="611542082" lat="37.3501911" lon="-121.9629134">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="operator" v="Baskin-Robbins"/>
+  </node>
+  <node id="611542084" lat="37.3501805" lon="-121.9628337">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="operator" v="Subway"/>
+  </node>
+  <node id="611549955" lat="37.3657883" lon="-121.9498126">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="operator" v="Carl's Jr."/>
+  </node>
+  <node id="614140907" lat="37.5635509" lon="-122.2704731">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's, Jr"/>
+  </node>
+  <node id="614140909" lat="37.5632787" lon="-122.2716238">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="614141480" lat="37.5626239" lon="-122.2704074">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="IHOP"/>
+  </node>
+  <node id="615115388" lat="37.5636060" lon="-122.2711171">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="615115389" lat="37.5638526" lon="-122.2708918">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Pizza Hut"/>
+  </node>
+  <node id="615143633" lat="37.7264855" lon="-122.4650338">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="615277748" lat="37.7234803" lon="-122.4554730">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="617019759" lat="37.4159280" lon="-121.8970995">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Food court"/>
+  </node>
+  <node id="621851559" lat="37.7886829" lon="-122.4120143">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="701"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Sutter Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="626216926" lat="37.8721590" lon="-122.2927070">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Popeyes"/>
+  </node>
+  <node id="627251609" lat="37.3600267" lon="-121.9964130">
+    <tag k="addr:city" v="Sunnyvale"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="2045"/>
+    <tag k="addr:postcode" v="94086"/>
+    <tag k="addr:street" v="White Oak Ln"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Sabor Salvadoreno"/>
+  </node>
+  <node id="638752544" lat="37.7405879" lon="-122.4663237">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Noah's Bagels"/>
+  </node>
+  <node id="647656721" lat="37.7723420" lon="-122.4293305">
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Volare"/>
+  </node>
+  <node id="647656766" lat="37.7722787" lon="-122.4298081">
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burrito"/>
+    <tag k="name" v="Cuco's"/>
+  </node>
+  <node id="647656796" lat="37.7720758" lon="-122.4316542">
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="barbecue"/>
+    <tag k="name" v="Memphis Minnie's"/>
+  </node>
+  <node id="647656815" lat="37.7718732" lon="-122.4302940">
+    <tag k="addr:street" v="Fillmore Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="building" v="entrance"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Estela's"/>
+  </node>
+  <node id="647656836" lat="37.7719368" lon="-122.4305253">
+    <tag k="addr:housenumber" v="247"/>
+    <tag k="addr:street" v="Fillmore Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Metro Cafe"/>
+  </node>
+  <node id="647656857" lat="37.7718902" lon="-122.4314677">
+    <tag k="addr:housenumber" v="553"/>
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Love 'n' Haight"/>
+  </node>
+  <node id="647656860" lat="37.7719037" lon="-122.4313470">
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Mythic Pizza"/>
+  </node>
+  <node id="647656864" lat="37.7719426" lon="-122.4309978">
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sausage"/>
+    <tag k="name" v="Rosamunde"/>
+  </node>
+  <node id="647656868" lat="37.7719613" lon="-122.4308306">
+    <tag k="addr:housenumber" v="531"/>
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="kebab"/>
+    <tag k="name" v="Ali Baba's"/>
+  </node>
+  <node id="655373734" lat="37.8113530" lon="-122.2639740">
+    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:street" v="Grand Ave"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="True Burger"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="663117941" lat="37.0000172" lon="-122.0533093">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Tacos Moreno"/>
+  </node>
+  <node id="670132158" lat="37.6120231" lon="-122.3901158">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="grill"/>
+    <tag k="name" v="Firewood"/>
+  </node>
+  <node id="670132182" lat="37.6140338" lon="-122.3884359">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="grill"/>
+    <tag k="name" v="Firewood"/>
+  </node>
+  <node id="670132185" lat="37.6150806" lon="-122.3883973">
+    <tag k="amenity" v="fast_food"/>
+  </node>
+  <node id="671795411" lat="37.2846040" lon="-121.9762847">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="691622637" lat="37.2857240" lon="-121.9749500">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="L &amp; L Hawaiian Barbeque"/>
+  </node>
+  <node id="691861116" lat="37.2864215" lon="-121.9784334">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taqueria Los Pericos"/>
+  </node>
+  <node id="691891394" lat="37.2915213" lon="-121.9962096">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="692306937" lat="37.2643904" lon="-121.9831999">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="SK Donuts"/>
+  </node>
+  <node id="692306938" lat="37.2642943" lon="-121.9831731">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Baskin Robbins"/>
+  </node>
+  <node id="693884719" lat="37.2636838" lon="-121.9611484">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jacky Boy's Pizza"/>
+  </node>
+  <node id="695362003" lat="37.8600085" lon="-122.1252485">
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="94556"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Nations"/>
+  </node>
+  <node id="695362883" lat="37.8600297" lon="-122.1253236">
+    <tag k="addr:housenumber" v="396"/>
+    <tag k="addr:postcode" v="94556"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="704724773" lat="37.6688527" lon="-122.4699574">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="704893577" lat="37.6190873" lon="-122.0353720">
+    <tag k="addr:housenumber" v="31187"/>
+    <tag k="addr:street" v="Mission Blvd"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Sonic Drive-In"/>
+    <tag k="phone" v="15104411125"/>
+    <tag k="website" v="http://www.sonicdrivein.com"/>
+  </node>
+  <node id="704946332" lat="38.1814592" lon="-122.2544212">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Sonic Drive-In"/>
+  </node>
+  <node id="712611649" lat="37.8002564" lon="-122.2163861">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="CyBelle's Pizza"/>
+  </node>
+  <node id="712646115" lat="37.8005251" lon="-122.2175815">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="1/4 lb Giant Burgers"/>
+  </node>
+  <node id="712649446" lat="37.8003746" lon="-122.2158434">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="712649450" lat="37.8003217" lon="-122.2156181">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Dimond Kitchen"/>
+  </node>
+  <node id="715990917" lat="36.9752766" lon="-121.9637215">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="718382527" lat="37.7430283" lon="-122.4787563">
+    <tag k="addr:housenumber" v="1150"/>
+    <tag k="addr:street" v="Taraval St"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC / Taco Bell"/>
+    <tag k="phone" v="14157313314‎"/>
+  </node>
+  <node id="720622157" lat="37.6087314" lon="-122.0664020">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="725096409" lat="37.7872052" lon="-122.4102705">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="422"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Geary Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Quiznos"/>
+  </node>
+  <node id="725554114" lat="37.7232243" lon="-122.4538847">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Beep's Burgers"/>
+  </node>
+  <node id="731946792" lat="37.7865607" lon="-122.4153857">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="728"/>
+    <tag k="addr:street" v="Geary Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza Hut"/>
+  </node>
+  <node id="731989577" lat="37.7862682" lon="-122.4176924">
+    <tag k="addr:street" v="Geary Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Domino's Pizza"/>
+    <tag k="phone" v="415-776-0400"/>
+  </node>
+  <node id="732005598" lat="37.7861368" lon="-122.4187653">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Irving Pizza"/>
+    <tag k="phone" v="415-771-0110"/>
+  </node>
+  <node id="747649287" lat="37.3182202" lon="-120.4909380">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="western"/>
+    <tag k="name" v="Subway"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="747662900" lat="37.2365303" lon="-121.8042043">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="761345641" lat="37.4028962" lon="-122.0978406">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Mi Pueblo Taqueria"/>
+  </node>
+  <node id="761686938" lat="37.5335757" lon="-122.3272423">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="761768271" lat="37.9008014" lon="-122.3094552">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Chevron Gas"/>
+  </node>
+  <node id="761949155" lat="37.7754495" lon="-122.4133665">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="764518078" lat="37.3629215" lon="-122.0271731">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="766262392" lat="37.4667792" lon="-121.1756761">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="766262539" lat="37.4655445" lon="-121.1761697">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr"/>
+  </node>
+  <node id="766262541" lat="37.4655871" lon="-121.1754133">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="780716149" lat="37.0572590" lon="-120.8336368">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Quiznos Sub"/>
+  </node>
+  <node id="782724903" lat="37.0564599" lon="-120.8361347">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="782724936" lat="37.0572580" lon="-120.8339816">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="800846379" lat="36.9768892" lon="-121.9068646">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Baskin Robins"/>
+  </node>
+  <node id="808884817" lat="37.7853321" lon="-122.4083629">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="808884825" lat="37.7850889" lon="-122.4079340">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="819444999" lat="37.7876745" lon="-122.4199772">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="823950072" lat="37.3367391" lon="-121.8763140">
+    <tag k="addr:city" v="San Jose"/>
+    <tag k="addr:housenumber" v="505"/>
+    <tag k="addr:postcode" v="95112"/>
+    <tag k="addr:street" v="E San Carlos"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="House Of Bagels"/>
+  </node>
+  <node id="847339109" lat="37.3943404" lon="-121.9461358">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="849063699" lat="37.4738977" lon="-120.8486258">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="853369717" lat="37.5413691" lon="-122.5159458">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Mavericks Road House"/>
+  </node>
+  <node id="859696505" lat="37.3416569" lon="-121.8414220">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="862428358" lat="36.6571500" lon="-121.6364728">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carls Jr."/>
+  </node>
+  <node id="869822526" lat="37.4218129" lon="-122.0965494">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle"/>
+  </node>
+  <node id="885590326" lat="37.6713179" lon="-122.4702041">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="903709625" lat="37.7523084" lon="-122.4185583">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Chinese Food and Donuts"/>
+  </node>
+  <node id="903709629" lat="37.7648278" lon="-122.4222609">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Truly Mediteranean"/>
+  </node>
+  <node id="904139678" lat="37.7841552" lon="-122.4044547">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Mel's Drive In"/>
+  </node>
+  <node id="904144013" lat="37.8082053" lon="-122.4147152">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Rainforest Cafe"/>
+  </node>
+  <node id="920752301" lat="37.3743177" lon="-122.0324294">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Target Cafe"/>
+  </node>
+  <node id="923740513" lat="37.4064714" lon="-121.9416711">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Quiznos"/>
+  </node>
+  <node id="923765904" lat="37.3632557" lon="-122.1314974">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Cafeteria"/>
+  </node>
+  <node id="924624180" lat="37.7857270" lon="-122.4077330">
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Powell Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Bangkok Noodles &amp; Thai BBQ"/>
+  </node>
+  <node id="925995874" lat="37.3752762" lon="-121.8358164">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="925996387" lat="37.3560211" lon="-121.8191622">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="936103302" lat="37.3452627" lon="-121.9358387">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="950977345" lat="37.7944451" lon="-122.3967654">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="961807258" lat="37.3066344" lon="-121.8918214">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Mojo Burgers"/>
+  </node>
+  <node id="962893337" lat="37.5895601" lon="-122.0198554">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:street" v="Decoto Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="Wing Stop"/>
+  </node>
+  <node id="976349360" lat="37.7181634" lon="-122.1820062">
+    <tag k="addr:city" v="San Leandro"/>
+    <tag k="addr:housenumber" v="1934"/>
+    <tag k="addr:postcode" v="94577"/>
+    <tag k="addr:street" v="Davis Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="983388331" lat="37.7780965" lon="-122.4158454">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+    <tag k="smoking" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="983587678" lat="37.6265705" lon="-122.4270380">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Big Mouth Burger"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="990550923" lat="38.3434547" lon="-120.7695435">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="990553898" lat="37.6999627" lon="-121.0666873">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="In-n-Out"/>
+  </node>
+  <node id="990553902" lat="37.5204847" lon="-120.8817208">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="In-n-Out"/>
+  </node>
+  <node id="990553906" lat="37.7000780" lon="-121.7735470">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="In-n-Out"/>
+  </node>
+  <node id="995554701" lat="37.4261458" lon="-122.1447340">
+    <tag k="addr:city" v="Palo Alto"/>
+    <tag k="addr:housenumber" v="421"/>
+    <tag k="addr:postcode" v="94306"/>
+    <tag k="addr:street" v="South California Avenue"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="description" v="Sandwiches, salads"/>
+    <tag k="name" v="Subway"/>
+    <tag k="phone" v="650-289-9002"/>
+    <tag k="website" v="http://www.subway.com/"/>
+  </node>
+  <node id="1003279922" lat="37.7241451" lon="-122.4566067">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Viking's Giant Submarines"/>
+  </node>
+  <node id="1003283711" lat="37.7333904" lon="-122.4343103">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Viking's Giant Subs"/>
+  </node>
+  <node id="1014210082" lat="37.7094358" lon="-122.1702887">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Dairy Belle"/>
+  </node>
+  <node id="1014212324" lat="37.5625314" lon="-122.0101410">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Pizza Guys"/>
+  </node>
+  <node id="1014218807" lat="37.5676247" lon="-122.0238205">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Mountain Mike's Pizza"/>
+  </node>
+  <node id="1014233847" lat="37.5888666" lon="-122.0187229">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="1710"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Decoto Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Asia Express"/>
+  </node>
+  <node id="1017262478" lat="37.6373310" lon="-122.4173010">
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:street" v="Tanforan Shopping Ctr"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="panda express"/>
+    <tag k="phone" v="6505888802"/>
+  </node>
+  <node id="1019495679" lat="37.5871495" lon="-122.0229169">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="34367"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Alvarado-Niles Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1021166229" lat="37.3045444" lon="-121.8628842">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1021178855" lat="37.3037146" lon="-121.8622345">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1021323138" lat="37.3053265" lon="-121.8635911">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="El Polo Loco"/>
+  </node>
+  <node id="1021327070" lat="37.3051685" lon="-121.8634516">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="1021354243" lat="37.2936413" lon="-121.8742811">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="1025739645" lat="37.5607624" lon="-122.0112023">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr"/>
+  </node>
+  <node id="1025739664" lat="37.5615831" lon="-122.0128867">
+    <tag k="addr:city" v="Fremont"/>
+    <tag k="addr:housenumber" v="36848"/>
+    <tag k="addr:street" v="Fremont Boulevard"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack In the Box"/>
+  </node>
+  <node id="1029707694" lat="37.5243813" lon="-122.0075741">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="drive_thru" v="yes"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="1030439516" lat="37.5244280" lon="-122.0074330">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="noodle"/>
+    <tag k="name" v="TK Noodle"/>
+  </node>
+  <node id="1053573648" lat="37.9277351" lon="-122.5168679">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Baja Fresh"/>
+  </node>
+  <node id="1053626268" lat="37.2469543" lon="-121.8858328">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1053626271" lat="37.2455880" lon="-121.8881717">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1067596078" lat="37.3666479" lon="-122.0320214">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Five Guys Burgers and Fries"/>
+  </node>
+  <node id="1068195299" lat="37.7728501" lon="-120.8296390">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1068441436" lat="37.8017586" lon="-122.2642494">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1071334575" lat="37.6044345" lon="-122.0675521">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:street" v="Union Landing Boulevard"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="location" v="Inside Walmart"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1076417315" lat="37.9244897" lon="-122.5131425">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Denny's"/>
+  </node>
+  <node id="1076443934" lat="38.0902259" lon="-122.5553867">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="breakfast"/>
+    <tag k="name" v="IHOP"/>
+  </node>
+  <node id="1076443938" lat="38.0897024" lon="-122.5549522">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1076446319" lat="38.0908803" lon="-122.5538846">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Jenny Low's"/>
+  </node>
+  <node id="1076447021" lat="38.0940237" lon="-122.5574872">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr"/>
+  </node>
+  <node id="1077867853" lat="37.2355317" lon="-121.9639827">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba juice"/>
+  </node>
+  <node id="1077870894" lat="37.6024845" lon="-122.0691097">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="30920"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:street" v="Union Landing Boulevard"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle"/>
+  </node>
+  <node id="1077894726" lat="37.5979882" lon="-122.0694380">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:street" v="Union Landing Boulevard"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1077894756" lat="37.5988762" lon="-122.0692098">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="32280"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:street" v="Union Landing Boulevard"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Tuttimelon"/>
+  </node>
+  <node id="1077894776" lat="37.5992107" lon="-122.0689096">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="32220"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:street" v="Union Landing Boulevard"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="1078379408" lat="37.2591490" lon="-121.8917012">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+  </node>
+  <node id="1078379416" lat="37.2620865" lon="-121.8775821">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Round Table Pizza"/>
+  </node>
+  <node id="1078379424" lat="37.2602036" lon="-121.8856824">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="pizza"/>
+  </node>
+  <node id="1079540266" lat="37.2946690" lon="-121.9309835">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="juice"/>
+    <tag k="operator" v="Jamba Juice"/>
+  </node>
+  <node id="1095791468" lat="36.9807477" lon="-121.9645602">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Pizza My Heart"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1100361580" lat="37.5229754" lon="-121.9984759">
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:postcode" v="94560"/>
+    <tag k="addr:street" v="Stevenson Boulevard"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1102361705" lat="37.2946699" lon="-121.9308469">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="bagel"/>
+    <tag k="operator" v="Noah's Bagels"/>
+  </node>
+  <node id="1102361706" lat="37.2949855" lon="-121.9313467">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Boston Market"/>
+    <tag k="operator" v="Boston Market"/>
+  </node>
+  <node id="1106966263" lat="37.7687313" lon="-122.4292618">
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burgermeister"/>
+  </node>
+  <node id="1106966270" lat="37.7687849" lon="-122.4292661">
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burrito"/>
+    <tag k="emergency:note" v="NERT food &amp; water pre-arranged"/>
+    <tag k="name" v="El Castillito"/>
+  </node>
+  <node id="1108757875" lat="37.4904356" lon="-121.9280185">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1108758796" lat="37.4910762" lon="-121.9271414">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1108759857" lat="37.4906250" lon="-121.9268973">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Kentucky Fried Chicken"/>
+  </node>
+  <node id="1108761085" lat="37.4925233" lon="-121.9269215">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="1111322781" lat="37.7146079" lon="-122.1580195">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="1116384572" lat="37.5340453" lon="-122.3265329">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1116384585" lat="37.5340028" lon="-122.3270532">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1119622740" lat="37.5340179" lon="-122.3268706">
+    <tag k="addr:housenumber" v="1304"/>
+    <tag k="addr:postcode" v="94403"/>
+    <tag k="addr:street" v="West Hillsdale Boulevard"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Round Table Pizza"/>
+  </node>
+  <node id="1123090861" lat="37.7241220" lon="-122.1616429">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Wendys"/>
+  </node>
+  <node id="1125115617" lat="37.7717904" lon="-122.4338722">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="kebab"/>
+    <tag k="name" v="Palmyra"/>
+  </node>
+  <node id="1126566029" lat="37.6314513" lon="-122.0787647">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="1126567518" lat="37.6314076" lon="-122.0955814">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1126573185" lat="37.6317110" lon="-122.0963544">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1126624425" lat="37.6372782" lon="-122.1007633">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1138697043" lat="37.2791557" lon="-121.8357481">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1140673870" lat="37.9912152" lon="-122.3065786">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="1140673894" lat="37.9912263" lon="-122.3064872">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1144976158" lat="36.6856422" lon="-121.7948649">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1145091146" lat="37.7045970" lon="-122.1798022">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1145091148" lat="37.7048100" lon="-122.1794561">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Mountain Mike's"/>
+  </node>
+  <node id="1148441988" lat="36.6855953" lon="-121.7967349">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1152207253" lat="37.2272872" lon="-121.7757897">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr"/>
+  </node>
+  <node id="1153392667" lat="37.5217451" lon="-122.2519660">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1158423766" lat="37.2614014" lon="-121.9207053">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Arby's"/>
+  </node>
+  <node id="1158532681" lat="37.5249052" lon="-122.2818218">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="name" v="McDonalds"/>
+  </node>
+  <node id="1160497034" lat="37.5144279" lon="-122.2691135">
+    <tag k="addr:housenumber" v="1602"/>
+    <tag k="addr:postcode" v="94002"/>
+    <tag k="addr:street" v="El Camino Real"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1161977160" lat="37.2535468" lon="-121.7980491">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1161985851" lat="37.2546069" lon="-121.7997792">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1162004044" lat="37.2535903" lon="-121.7977142">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Little Caesar"/>
+  </node>
+  <node id="1174970183" lat="37.2207903" lon="-121.8618216">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1180092209" lat="37.2398175" lon="-121.9041128">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza Hut Express"/>
+  </node>
+  <node id="1180092210" lat="37.2398399" lon="-121.9040342">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1183478180" lat="37.8565500" lon="-122.4953500">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Sausalito's"/>
+    <tag k="source" v="collected by Volker Bartheld, converted and imported by malenki"/>
+  </node>
+  <node id="1183478366" lat="37.7711700" lon="-120.8351700">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="ele" v="61"/>
+    <tag k="name" v="McDonald's"/>
+    <tag k="source" v="collected by Volker Bartheld, converted and imported by malenki"/>
+  </node>
+  <node id="1183479361" lat="37.6747200" lon="-120.9941700">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="ele" v="33"/>
+    <tag k="name" v="McDonald's"/>
+    <tag k="source" v="collected by Volker Bartheld, converted and imported by malenki"/>
+  </node>
+  <node id="1186413872" lat="37.8041090" lon="-122.2725697">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Top Dog"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1186413874" lat="37.8042743" lon="-122.2735085">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Quiznos"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1199358758" lat="37.5381993" lon="-122.3013445">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Wetzels Pretzels"/>
+  </node>
+  <node id="1199358896" lat="37.5382375" lon="-122.3013898">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="yogurt"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Maquito Yogurt"/>
+  </node>
+  <node id="1205027781" lat="37.7916793" lon="-122.4031721">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+    <tag k="operator" v="McDonald's"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1205124457" lat="37.3092338" lon="-121.9937620">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1219353019" lat="37.2346310" lon="-121.9610927">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Togos"/>
+  </node>
+  <node id="1219353020" lat="37.2344815" lon="-121.9611303">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="High Tech Burrito"/>
+  </node>
+  <node id="1219353030" lat="37.2224834" lon="-121.9840900">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Main Street Burger"/>
+  </node>
+  <node id="1220797685" lat="37.7222609" lon="-122.3959345">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="J&amp;B Burger"/>
+  </node>
+  <node id="1221102930" lat="37.7318084" lon="-122.3913825">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="name" v="Golden City"/>
+    <tag k="note" v="TODO"/>
+    <tag k="phone" v="+14158223003"/>
+  </node>
+  <node id="1221413760" lat="37.7287775" lon="-122.3925457">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="seafood;burrito"/>
+    <tag k="name" v="Las Palmas Seafood &amp; Burrito"/>
+  </node>
+  <node id="1221414151" lat="37.7274412" lon="-122.3930798">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+    <tag k="note" v="TODO"/>
+    <tag k="operator" v="McDonald's"/>
+  </node>
+  <node id="1221414509" lat="37.7393242" lon="-122.3894678">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+    <tag k="operator" v="Taco Bell"/>
+  </node>
+  <node id="1224109014" lat="37.7520971" lon="-122.4181060">
+    <tag k="addr:housenumber" v="2801"/>
+    <tag k="addr:postcode" v="94110"/>
+    <tag k="addr:street" v="Mission Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+    <tag k="website" v="http://www.mcdonalds.com"/>
+  </node>
+  <node id="1227409078" lat="37.6705890" lon="-122.1209490">
+    <tag k="addr:housenumber" v="18708"/>
+    <tag k="addr:street" v="Hesperian Boulevard"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+    <tag k="phone" v="5104812825"/>
+  </node>
+  <node id="1227644759" lat="37.4096365" lon="-121.9781484">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1227644761" lat="37.4092956" lon="-121.9780660">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="1229133895" lat="37.7233625" lon="-122.4547858">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Mama Mia Pizza"/>
+  </node>
+  <node id="1229745480" lat="37.7867758" lon="-122.4009386">
+    <tag k="addr:housenumber" v="667"/>
+    <tag k="addr:street" v="Mission Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="soups"/>
+    <tag k="name" v="Soup Freaks"/>
+  </node>
+  <node id="1229745516" lat="37.7803301" lon="-122.4076377">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+  </node>
+  <node id="1229920544" lat="37.7131382" lon="-122.4445763">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="name" v="McDonald's"/>
+    <tag k="operator" v="McDonald's"/>
+  </node>
+  <node id="1229920552" lat="37.7087090" lon="-122.4534971">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="County Line"/>
+  </node>
+  <node id="1229920563" lat="37.7166778" lon="-122.4406051">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza Brava"/>
+  </node>
+  <node id="1229920652" lat="37.7172989" lon="-122.4400805">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza Roma"/>
+  </node>
+  <node id="1230343363" lat="37.7268295" lon="-122.4031215">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Quickly"/>
+  </node>
+  <node id="1230343376" lat="37.7308314" lon="-122.4050974">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="J. Georgie's Donuts &amp; Hamburger"/>
+  </node>
+  <node id="1230343502" lat="37.7286624" lon="-122.4042360">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="hawaian"/>
+    <tag k="name" v="Hawaian Drive-Inn"/>
+  </node>
+  <node id="1230343520" lat="37.7289785" lon="-122.4039772">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1230362904" lat="37.8267772" lon="-122.2646841">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Carl's Jr."/>
+  </node>
+  <node id="1234939400" lat="37.2323765" lon="-121.7749006">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1238299642" lat="37.7408532" lon="-122.3888248">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Sam Jordan's"/>
+  </node>
+  <node id="1238299653" lat="37.7410629" lon="-122.3887499">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Crown Burger"/>
+  </node>
+  <node id="1238299666" lat="37.7415600" lon="-122.3885365">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="taco"/>
+    <tag k="name" v="Taqueria La Laguna"/>
+  </node>
+  <node id="1239294760" lat="37.5196870" lon="-122.2765480">
+    <tag k="addr:housenumber" v="891"/>
+    <tag k="addr:street" v="Ralston Avenue"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Mr. Pickles"/>
+  </node>
+  <node id="1243846535" lat="37.7322794" lon="-122.3919588">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Fish &amp; Chicken"/>
+  </node>
+  <node id="1243937102" lat="37.4041392" lon="-121.9951538">
+    <tag k="addr:city" v="Sunnyvale"/>
+    <tag k="addr:housenumber" v="1109"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Tasman Drive"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1244706626" lat="37.7990538" lon="-122.2116541">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Kasper's Hot Dogs"/>
+  </node>
+  <node id="1244709708" lat="37.7987274" lon="-122.2083120">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="international"/>
+    <tag k="name" v="Bay Cafe"/>
+  </node>
+  <node id="1244716344" lat="37.8010417" lon="-122.2156980">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Flavor Brigade"/>
+  </node>
+  <node id="1256474455" lat="37.4380184" lon="-122.1593744">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Kirk's Steaksburger"/>
+  </node>
+  <node id="1256903754" lat="37.4615473" lon="-122.1373180">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Baskin Robin's"/>
+  </node>
+  <node id="1256903758" lat="37.4590670" lon="-122.1372791">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1256903759" lat="37.4601837" lon="-122.1377217">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1278385790" lat="37.6271270" lon="-122.4256100">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="iLOE 1.9"/>
+    <tag k="name" v="Carl's Jr."/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1280967982" lat="37.3404447" lon="-121.8432264">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="El Polo Loco"/>
+  </node>
+  <node id="1280968110" lat="37.3411309" lon="-121.8440979">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="King's Burger"/>
+  </node>
+  <node id="1282408820" lat="37.7887596" lon="-122.4010019">
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="2nd Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1283594995" lat="37.3326582" lon="-121.8841149">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Jack In the Box"/>
+  </node>
+  <node id="1296858069" lat="37.3226882" lon="-122.0159179">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="kebab"/>
+    <tag k="operator" v="House of Falafel"/>
+  </node>
+  <node id="1305223599" lat="37.3371650" lon="-122.0662165">
+    <tag k="addr:housenumber" v="22352"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="subway"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1305397498" lat="37.8407410" lon="-122.2912953">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway Sandwich"/>
+  </node>
+  <node id="1305397505" lat="37.8429195" lon="-122.2835129">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Pizza Nation"/>
+  </node>
+  <node id="1305531933" lat="37.3983620" lon="-122.1088127">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack in the box"/>
+  </node>
+  <node id="1306300297" lat="37.4156026" lon="-122.1290040">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1306300300" lat="37.4155195" lon="-122.1288473">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Baja Fresh"/>
+  </node>
+  <node id="1309604523" lat="37.4211647" lon="-122.1395435">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1309649656" lat="37.7675831" lon="-122.4298462">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Cybelle's Pizza"/>
+  </node>
+  <node id="1313317876" lat="37.3785560" lon="-122.0467840">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Quiznos"/>
+  </node>
+  <node id="1320562860" lat="37.7876872" lon="-122.4009468">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1321080988" lat="37.9958013" lon="-122.2861040">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle"/>
+  </node>
+  <node id="1321089548" lat="37.9946557" lon="-122.2864553">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1321244323" lat="37.9962980" lon="-122.2853075">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="1325353350" lat="37.8017329" lon="-122.2650578">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1325967478" lat="37.3339021" lon="-121.8544507">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1331169855" lat="37.5023600" lon="-122.2460140">
+    <tag k="addr:housenumber" v="1135-F"/>
+    <tag k="addr:street" v="Industrial Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="smoothie"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1331171272" lat="37.5022300" lon="-122.2461290">
+    <tag k="addr:housenumber" v="1135-E"/>
+    <tag k="addr:street" v="Industrial Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Wing Stop"/>
+  </node>
+  <node id="1331487419" lat="37.5021460" lon="-122.2462720">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle"/>
+  </node>
+  <node id="1331816573" lat="37.9622209" lon="-121.2727112">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Del Taco"/>
+  </node>
+  <node id="1331825152" lat="37.9621287" lon="-121.2733153">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1339268558" lat="36.6082984" lon="-121.8560642">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonalds"/>
+  </node>
+  <node id="1345336789" lat="37.3810775" lon="-121.8272382">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="1347412935" lat="37.2593094" lon="-120.9994445">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1360017175" lat="36.6855847" lon="-121.7940028">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Domino's"/>
+  </node>
+  <node id="1366383417" lat="37.2517548" lon="-121.8289303">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Mountain Mike's Pizza"/>
+  </node>
+  <node id="1374395320" lat="37.5456131" lon="-121.9802259">
+    <tag k="addr:housenumber" v="39494"/>
+    <tag k="addr:street" v="sundale"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Quizno's Subs"/>
+  </node>
+  <node id="1379067792" lat="36.9642632" lon="-122.0170519">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="World Grill"/>
+  </node>
+  <node id="1379131833" lat="36.9644482" lon="-122.0156816">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Barnacle Bill's"/>
+  </node>
+  <node id="1379134370" lat="36.9643734" lon="-122.0156814">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Tater Twists"/>
+  </node>
+  <node id="1379141402" lat="36.9642750" lon="-122.0164849">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Funnel Cakes"/>
+  </node>
+  <node id="1379310207" lat="36.9646333" lon="-122.0146945">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Fish &amp; Fries"/>
+  </node>
+  <node id="1379311008" lat="36.9643641" lon="-122.0155163">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Deep Fried"/>
+  </node>
+  <node id="1387937129" lat="37.4197701" lon="-122.0960330">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Shoreline Grill"/>
+  </node>
+  <node id="1387940732" lat="37.4214786" lon="-122.1004654">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="KFC and Long John Silvers"/>
+  </node>
+  <node id="1387940733" lat="37.4215702" lon="-122.1008154">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1388187050" lat="37.4141257" lon="-122.0932183">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="The New Orient"/>
+  </node>
+  <node id="1388187052" lat="37.4141342" lon="-122.0933658">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1388187057" lat="37.4141204" lon="-122.0931406">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Donut Basket"/>
+  </node>
+  <node id="1388187058" lat="37.4141396" lon="-122.0934544">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v=" Los Altos Taqueria"/>
+  </node>
+  <node id="1390348314" lat="37.4344507" lon="-121.9013182">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1390348315" lat="37.4333080" lon="-121.8929840">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Yogurtland"/>
+  </node>
+  <node id="1393930509" lat="37.7865824" lon="-122.3982808">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Creperie Saint Germain"/>
+  </node>
+  <node id="1393986255" lat="37.7837618" lon="-122.4087023">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1417438144" lat="37.7656813" lon="-120.8492539">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Little Caesars"/>
+  </node>
+  <node id="1417440166" lat="37.7716137" lon="-120.8331674">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carls Jr."/>
+  </node>
+  <node id="1419475342" lat="37.7715105" lon="-120.8359623">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1419496203" lat="37.7338773" lon="-120.9450356">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1419501225" lat="37.7108987" lon="-120.9950270">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1419610896" lat="37.4639149" lon="-121.1431434">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1419618777" lat="37.4644411" lon="-121.1406745">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1454232936" lat="37.8704713" lon="-122.2679439">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="juice"/>
+    <tag k="name" v="Juice Appeal"/>
+  </node>
+  <node id="1467717279" lat="37.8306313" lon="-122.2807591">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Baskin Robins Ice Cream"/>
+  </node>
+  <node id="1467717299" lat="37.8288559" lon="-122.2823334">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1467717306" lat="37.8305962" lon="-122.2799957">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway Sandwiches"/>
+  </node>
+  <node id="1467802261" lat="37.8573692" lon="-122.4812203">
+    <tag k="addr:city" v="Sausalito"/>
+    <tag k="addr:county" v="Marin"/>
+    <tag k="addr:housenumber" v="817"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Bridgeway"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="contact:phone" v="+1 415-332-2622"/>
+    <tag k="contact:website" v="http://fishandchipsausalito.com/"/>
+    <tag k="name" v="Fish&amp;Chips"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1480672658" lat="37.2620563" lon="-121.9219413">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1480672665" lat="37.2614294" lon="-121.9298814">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="1489746246" lat="37.8379545" lon="-122.2818295">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Lee's Donuts and Chinese"/>
+  </node>
+  <node id="1490108963" lat="37.8343883" lon="-122.2811858">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Kentucky Fried Chicken"/>
+  </node>
+  <node id="1491645169" lat="37.8364829" lon="-122.2949880">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1491645204" lat="37.8360974" lon="-122.2948270">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="1491755776" lat="37.8375653" lon="-122.2822166">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="1/4lb Giant Hamburgers"/>
+  </node>
+  <node id="1492592018" lat="37.9512493" lon="-121.9575559">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1492592026" lat="37.9509278" lon="-121.9579956">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1492593845" lat="37.9529497" lon="-121.9556248">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr"/>
+  </node>
+  <node id="1493189850" lat="36.6174619" lon="-121.9016962">
+    <tag k="amenity" v="fast_food"/>
+  </node>
+  <node id="1493972472" lat="37.9535772" lon="-121.9548368">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway Sandwich"/>
+  </node>
+  <node id="1500897562" lat="37.6857164" lon="-122.3998637">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1507828034" lat="37.8306514" lon="-122.2806182">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Little Ceasar"/>
+  </node>
+  <node id="1515953792" lat="37.8434497" lon="-122.2958161">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway Sandwich"/>
+  </node>
+  <node id="1519114319" lat="37.8667360" lon="-122.2910420">
+    <tag k="addr:housenumber" v="2197"/>
+    <tag k="addr:street" v="San Pablo Avenue"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="drive_in" v="no"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="name" v="Jack in the Box"/>
+    <tag k="source" v="Bing"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1519114337" lat="37.8687455" lon="-122.2929674">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Cheese Steak Shop"/>
+  </node>
+  <node id="1529100863" lat="37.8996079" lon="-122.2983248">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Hot Wings"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1534940815" lat="37.7639521" lon="-122.4338053">
+    <tag k="addr:housenumber" v="2304"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Super Duper Burgers"/>
+    <tag k="website" v="http://www.superdupersf.com"/>
+  </node>
+  <node id="1538697610" lat="37.5141491" lon="-122.2591988">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="In-n-Out Burger"/>
+  </node>
+  <node id="1540268481" lat="37.5486569" lon="-121.9878100">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1540268485" lat="37.5486621" lon="-121.9871286">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Noah's New York Bagels"/>
+  </node>
+  <node id="1543824440" lat="37.5226158" lon="-122.0037336">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Spice Hut"/>
+  </node>
+  <node id="1543828802" lat="37.5550621" lon="-121.9818254">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Yogurtouille"/>
+  </node>
+  <node id="1556251727" lat="37.8075511" lon="-122.2686869">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Lana's Chinese Food Express"/>
+  </node>
+  <node id="1556251731" lat="37.8065699" lon="-122.2700361">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Prospect Park Sandwiches"/>
+  </node>
+  <node id="1556251749" lat="37.8093669" lon="-122.2731460">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1573051155" lat="37.6727639" lon="-122.0852585">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="1573722718" lat="37.6771004" lon="-122.4675518">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1573722765" lat="37.6742026" lon="-122.4652907">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Round Table Pizza"/>
+  </node>
+  <node id="1573722797" lat="37.6712453" lon="-122.4643197">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="Popeye's"/>
+  </node>
+  <node id="1573723101" lat="37.6711796" lon="-122.4644054">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle"/>
+  </node>
+  <node id="1578531186" lat="37.3930529" lon="-122.0795560">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="yogurt"/>
+    <tag k="name" v="Yoogl"/>
+  </node>
+  <node id="1578531277" lat="37.3905927" lon="-122.0811864">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="bagel"/>
+    <tag k="name" v="Posh Bagel"/>
+  </node>
+  <node id="1580292179" lat="37.3838107" lon="-122.0805473">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1580292183" lat="37.3830618" lon="-122.0777926">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="1581901951" lat="37.7745988" lon="-122.2286940">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1581907450" lat="37.7744547" lon="-122.2301906">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Donut Hole"/>
+  </node>
+  <node id="1586155933" lat="36.8511317" lon="-121.4022839">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="La Villa De Jerez Taqueria"/>
+  </node>
+  <node id="1601873928" lat="37.8705446" lon="-122.3005451">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Manhatten Bagel"/>
+  </node>
+  <node id="1609581778" lat="38.0508285" lon="-121.3736647">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="1609582580" lat="38.0516818" lon="-121.3738257">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Sonic"/>
+  </node>
+  <node id="1609583449" lat="38.0514283" lon="-121.3740617">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Del Taco"/>
+  </node>
+  <node id="1609584205" lat="38.0559988" lon="-121.3749683">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="1612672289" lat="37.8494355" lon="-122.2860509">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonalds"/>
+  </node>
+  <node id="1613829032" lat="37.7870459" lon="-122.3988138">
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:street" v="2nd Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1617283400" lat="37.7914771" lon="-122.3993698">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1617460471" lat="37.7967253" lon="-122.4003352">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="1618351691" lat="38.0204833" lon="-122.2621679">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1618590431" lat="38.1151783" lon="-121.3921183">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr."/>
+  </node>
+  <node id="1618590777" lat="38.1167399" lon="-121.3915551">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1629213217" lat="37.7885642" lon="-122.4027028">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Zog's Dogs"/>
+  </node>
+  <node id="1630431833" lat="37.9329885" lon="-122.3297566">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Panda Express"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1630431892" lat="37.9329695" lon="-122.3296547">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway Sandwich"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1630822728" lat="37.7785410" lon="-122.4153220">
+    <tag k="addr:housenumber" v="1210"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="What's Up Dog!"/>
+  </node>
+  <node id="1640374715" lat="38.2494599" lon="-122.6271240">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonalds"/>
+    <tag k="source" v="local_knowlege"/>
+  </node>
+  <node id="1640374729" lat="38.2508164" lon="-122.6295219">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1646827016" lat="36.6010662" lon="-121.8490570">
+    <tag k="amenity" v="fast_food"/>
+  </node>
+  <node id="1648518202" lat="36.6229413" lon="-121.8429629">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1648518391" lat="36.6081251" lon="-121.8464336">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="1648518395" lat="36.6024106" lon="-121.8483166">
+    <tag k="amenity" v="fast_food"/>
+  </node>
+  <node id="1648518472" lat="36.6190192" lon="-121.8440677">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1653221078" lat="37.6196832" lon="-122.0359422">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC Taco Bell"/>
+  </node>
+  <node id="1654043574" lat="37.5484808" lon="-122.0463376">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="Popeye's Chicken and Biscuits"/>
+  </node>
+  <node id="1654052003" lat="37.5500459" lon="-122.0504829">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1654071040" lat="37.5491507" lon="-122.0457140">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Togos Sandwiches"/>
+  </node>
+  <node id="1654072382" lat="37.5492102" lon="-122.0458400">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Ann's Chinese Fast Food"/>
+  </node>
+  <node id="1654085452" lat="37.5445891" lon="-122.0250985">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Mountain Mike's Pizza"/>
+  </node>
+  <node id="1654135032" lat="37.5053639" lon="-121.9694267">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Five Guys Burgers and Fries"/>
+    <tag k="website" v="http://www.fiveguys.com/"/>
+  </node>
+  <node id="1654138928" lat="37.5051405" lon="-121.9682439">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="hawaiian"/>
+    <tag k="name" v="Ono Hawaiian BBQ"/>
+    <tag k="website" v="http://onohawaiianbbq.com/"/>
+  </node>
+  <node id="1659509453" lat="37.7616892" lon="-122.2447753">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Doggy-Style Hotdogs"/>
+  </node>
+  <node id="1668051725" lat="37.3983131" lon="-121.9233776">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Premier Pizza"/>
+  </node>
+  <node id="1669802067" lat="37.8693438" lon="-122.2918273">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway Sandwich"/>
+  </node>
+  <node id="1669803325" lat="37.8696952" lon="-122.2920391">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="vietnamese"/>
+    <tag k="name" v="Everett and Jones"/>
+  </node>
+  <node id="1669803326" lat="37.8693914" lon="-122.2917132">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Little Ceasars"/>
+  </node>
+  <node id="1669824977" lat="37.8696010" lon="-122.2897190">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Foster's Freeze"/>
+  </node>
+  <node id="1673002005" lat="37.3235911" lon="-121.9581507">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="1673003175" lat="37.3235287" lon="-121.9589086">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="A Slice of New York"/>
+  </node>
+  <node id="1674111308" lat="37.3378308" lon="-122.0418035">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="1674111313" lat="37.3378927" lon="-122.0418840">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1674111337" lat="37.3371591" lon="-122.0362688">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Carl's Jr"/>
+  </node>
+  <node id="1674111350" lat="37.3372124" lon="-122.0409935">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonalds"/>
+  </node>
+  <node id="1674115985" lat="37.8111659" lon="-122.2473642">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="1675288465" lat="37.4808426" lon="-122.2276248">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="1501"/>
+    <tag k="addr:postcode" v="94063"/>
+    <tag k="addr:street" v="El Camino Real"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Togo's"/>
+    <tag k="phone" v="(650) 367-6388"/>
+    <tag k="url" v="http://www.togos.com/"/>
+  </node>
+  <node id="1676581893" lat="37.3707203" lon="-122.0415975">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="1676581903" lat="37.3691173" lon="-122.0414660">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="Pop Eyes"/>
+  </node>
+  <node id="1676581909" lat="37.3698751" lon="-122.0416914">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Adamsons French Dipp"/>
+  </node>
+  <node id="1678735706" lat="37.4219774" lon="-122.0964095">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Sweet Onion"/>
+  </node>
+  <node id="1691132764" lat="37.4769298" lon="-122.2233755">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="1926"/>
+    <tag k="addr:postcode" v="94063"/>
+    <tag k="addr:street" v="El Camino Real"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+    <tag k="phone" v="(650) 368-9624"/>
+    <tag k="url" v="http://www.subway.com"/>
+  </node>
+  <node id="1695757488" lat="37.7443263" lon="-122.1710747">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1700520904" lat="37.4707490" lon="-122.2236866">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="512"/>
+    <tag k="addr:postcode" v="94061"/>
+    <tag k="addr:street" v="Woodside Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Karlita's Tacos"/>
+    <tag k="phone" v="(650) 364-8612"/>
+  </node>
+  <node id="1700604296" lat="37.3835794" lon="-121.8937220">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Baja Fresh"/>
+  </node>
+  <node id="1700604297" lat="37.3822146" lon="-121.8951221">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="California Sourdough"/>
+  </node>
+  <node id="1700604301" lat="37.3835241" lon="-121.8939172">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Togo’s"/>
+  </node>
+  <node id="1700616948" lat="37.4280315" lon="-121.9201885">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+    <tag k="operator" v="Subway"/>
+  </node>
+  <node id="1701563989" lat="38.1610074" lon="-121.6907345">
+    <tag k="amenity" v="fast_food"/>
+  </node>
+  <node id="1704927442" lat="37.3863247" lon="-121.9607973">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1706632202" lat="37.6094380" lon="-120.9746110">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1708076043" lat="37.4340306" lon="-122.1753169">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Market Square Cafeteria"/>
+  </node>
+  <node id="1708076058" lat="37.4321372" lon="-122.1770819">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Lutticken's Deli"/>
+  </node>
+  <node id="1708076067" lat="37.4318859" lon="-122.1762933">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Beckman Bistro"/>
+  </node>
+  <node id="1708076074" lat="37.4309062" lon="-122.1745204">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="international"/>
+    <tag k="name" v="Nexus Cafe"/>
+    <tag k="source" v="Personal Visit"/>
+  </node>
+  <node id="1726782974" lat="37.9308098" lon="-122.3226727">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1729182851" lat="37.7095553" lon="-121.4339186">
+    <tag k="addr:housename" v="McDonald's"/>
+    <tag k="addr:housenumber" v="2820"/>
+    <tag k="addr:postcode" v="95377"/>
+    <tag k="addr:street" v="SOUTH TRACY BLVD."/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+    <tag k="website" v="http://www.mcdonalds.com/us/en/home.html"/>
+  </node>
+  <node id="1729919570" lat="37.3728683" lon="-122.0876291">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="smoothie"/>
+  </node>
+  <node id="1737952760" lat="37.2867513" lon="-121.9496299">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1742193198" lat="37.7619027" lon="-121.4375764">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Arby's"/>
+  </node>
+  <node id="1746201838" lat="37.9460590" lon="-122.5454526">
+    <tag k="addr:housenumber" v="989"/>
+    <tag k="addr:postcode" v="94939"/>
+    <tag k="addr:street" v="Magnolia Ave"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="M&amp;G Burgers"/>
+  </node>
+  <node id="1746207961" lat="37.9454727" lon="-122.5222204">
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:street" v="Bon Air Center"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1746207964" lat="37.9462849" lon="-122.5235132">
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:street" v="Bon Air Center"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1746207965" lat="37.9453648" lon="-122.5231538">
+    <tag k="addr:housenumber" v="318"/>
+    <tag k="addr:street" v="Bon Air Center"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Papa Murphy's"/>
+  </node>
+  <node id="1746210513" lat="37.9456567" lon="-122.5235078">
+    <tag k="addr:housenumber" v="290"/>
+    <tag k="addr:street" v="Bon Air Center"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Ben &amp; Jerry's"/>
+  </node>
+  <node id="1746295995" lat="37.9377800" lon="-122.5334683">
+    <tag k="addr:housenumber" v="580"/>
+    <tag k="addr:postcode" v="94939"/>
+    <tag k="addr:street" v="Magnolia Ave"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Red Boy"/>
+  </node>
+  <node id="1747594975" lat="37.7007082" lon="-122.4832114">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="1747594991" lat="37.7005726" lon="-122.4831366">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1747594993" lat="37.7006233" lon="-122.4835709">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Baskin Robbins"/>
+  </node>
+  <node id="1755580487" lat="37.9733276" lon="-122.5288758">
+    <tag k="addr:housenumber" v="1128"/>
+    <tag k="addr:street" v="4th Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Cocoyo"/>
+  </node>
+  <node id="1761388861" lat="37.5646091" lon="-122.3235108">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="tea"/>
+    <tag k="name" v="Quickly"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-23:00; Fr-Sa 11:00-00:00"/>
+    <tag k="operator" v="Quickly"/>
+    <tag k="phone" v="+1(650)558-1988"/>
+    <tag k="website" v="http://www.quicklyusa.com/"/>
+  </node>
+  <node id="1761877108" lat="37.5952514" lon="-120.9527457">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Foster's Freeze"/>
+  </node>
+  <node id="1761879416" lat="37.5949198" lon="-120.9385031">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr."/>
+  </node>
+  <node id="1761880654" lat="37.5958209" lon="-120.9382027">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Dell Taco"/>
+  </node>
+  <node id="1762825987" lat="37.7812348" lon="-122.4641684">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="1766506789" lat="37.9250714" lon="-122.3190336">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1768773633" lat="37.3321885" lon="-121.8852062">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1769274647" lat="37.2749717" lon="-121.8524564">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1769298116" lat="37.2626594" lon="-121.8760334">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="1769298119" lat="37.2621898" lon="-121.8771814">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1775761465" lat="37.9363709" lon="-122.3472443">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonalds"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1777779994" lat="37.3720221" lon="-122.0577023">
+    <tag k="addr:housenumber" v="665"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Round Table Pizza"/>
+  </node>
+  <node id="1781270054" lat="37.6558337" lon="-122.4324604">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Round Table Pizza"/>
+  </node>
+  <node id="1781833395" lat="37.4357505" lon="-122.1761971">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Cafe Salute"/>
+    <tag k="source" v="personal visit"/>
+  </node>
+  <node id="1781835461" lat="37.4356791" lon="-122.1751195">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Courtyard Cafe"/>
+  </node>
+  <node id="1783520721" lat="37.7016046" lon="-122.4821862">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Nation's Giant Hamburgers"/>
+    <tag k="phone" v="+1 (650) 755-8880"/>
+    <tag k="website" v="http://www.nationsrestaurants.com"/>
+  </node>
+  <node id="1786393745" lat="36.8366404" lon="-121.3897309">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Papa Murphy's"/>
+  </node>
+  <node id="1796552211" lat="37.6875647" lon="-121.0488600">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="1796557438" lat="37.5207804" lon="-120.8892417">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Sonic"/>
+  </node>
+  <node id="1796564180" lat="37.4038124" lon="-120.8495235">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's "/>
+  </node>
+  <node id="1797732566" lat="37.6971891" lon="-122.4638259">
+    <tag k="addr:city" v="Daly City"/>
+    <tag k="addr:housenumber" v="6955"/>
+    <tag k="addr:postcode" v="94014"/>
+    <tag k="addr:street" v="Mission Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="email" v="jb-daly@jollibeeusa.com"/>
+    <tag k="name" v="Jollibee"/>
+    <tag k="phone" v="+1 650 755 4848"/>
+  </node>
+  <node id="1801225051" lat="37.3218590" lon="-122.0181800">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="beardpapa's"/>
+  </node>
+  <node id="1801237430" lat="37.7747684" lon="-122.5100442">
+    <tag k="addr:housenumber" v="724"/>
+    <tag k="addr:postcode" v="94121"/>
+    <tag k="addr:street" v="La Playa Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+    <tag k="phone" v="+1 (415) 668-4725"/>
+  </node>
+  <node id="1802374059" lat="37.8652248" lon="-122.2586369">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Ann's Kitchen"/>
+    <tag k="phone" v="+1 (510) 548 8885"/>
+  </node>
+  <node id="1805519433" lat="36.9785822" lon="-121.9653394">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1809593818" lat="37.7337908" lon="-122.4893753">
+    <tag k="addr:housenumber" v="1501-A"/>
+    <tag k="addr:street" v="Lakeshore Plaza"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="contact:phone" v="+1 (415) 681-6388"/>
+    <tag k="cuisine" v="Hawaiian"/>
+    <tag k="name" v="Ono Hawaiian BBQ"/>
+  </node>
+  <node id="1809593824" lat="37.7335118" lon="-122.4896970">
+    <tag k="addr:housenumber" v="1511"/>
+    <tag k="addr:street" v="Lakeshore Plaza"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="contact:phone" v="+1 (415) 504-7888"/>
+    <tag k="cuisine" v="frozen_yogurt"/>
+    <tag k="name" v="Nubi Yogurt"/>
+  </node>
+  <node id="1809593828" lat="37.7325296" lon="-122.4899746">
+    <tag k="addr:housenumber" v="1523"/>
+    <tag k="addr:street" v="Lakeshore Plaza"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="contact:phone" v="+1 (415) 592-2187"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle"/>
+  </node>
+  <node id="1809593837" lat="37.7337950" lon="-122.4892973">
+    <tag k="addr:housenumber" v="1501-B"/>
+    <tag k="addr:street" v="Lakeshore Plaza"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="contact:phone" v="+1 (415) 504-8615"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Quizno's Subs"/>
+  </node>
+  <node id="1827274613" lat="37.7807874" lon="-122.4756807">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Domino's Pizza"/>
+  </node>
+  <node id="1832309192" lat="37.8114049" lon="-121.2932739">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="1832309937" lat="37.8114642" lon="-121.2927321">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="1832309938" lat="37.8113437" lon="-121.2927262">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="A&amp;W"/>
+  </node>
+  <node id="1833542480" lat="37.3791645" lon="-122.0712677">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1836039390" lat="36.5816509" lon="-121.8290019">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="1837176575" lat="37.9338562" lon="-122.3246896">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Wendy's"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1838322129" lat="37.9382093" lon="-122.3471704">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1839527427" lat="37.7554829" lon="-122.4196451">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Escape From New York Pizza"/>
+  </node>
+  <node id="1839527430" lat="37.7555292" lon="-122.4189401">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="Popeye's"/>
+  </node>
+  <node id="1843448805" lat="38.2489572" lon="-122.0644370">
+    <tag k="addr:housenumber" v="1955"/>
+    <tag k="addr:street" v="West Texas Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Nation's Giant Hamburgers"/>
+    <tag k="phone" v="+1 707 425 1800"/>
+    <tag k="url" v="www.nationsresraurants.com"/>
+  </node>
+  <node id="1844786760" lat="37.9138293" lon="-122.3093655">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Donut  Time"/>
+  </node>
+  <node id="1845784089" lat="37.9249985" lon="-122.3185574">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="Church's Chicken"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1853732276" lat="37.7879818" lon="-122.2462275">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1856473811" lat="37.7767260" lon="-122.4143400">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="SF Pizza"/>
+  </node>
+  <node id="1870936925" lat="36.6005172" lon="-121.8940704">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1873973264" lat="37.7618396" lon="-122.4173776">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="94110"/>
+    <tag k="addr:street" v="South Van Ness Avenue"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Whiz Burgers"/>
+  </node>
+  <node id="1875069312" lat="37.6575642" lon="-121.8982835">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="1892844992" lat="37.6894281" lon="-120.9594505">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Del Taco"/>
+  </node>
+  <node id="1892844993" lat="37.6899246" lon="-120.9584043">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1894039610" lat="37.6999517" lon="-121.0493773">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1894039616" lat="37.7545959" lon="-121.1396282">
+    <tag k="addr:housename" v="Taco Bell"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1894039637" lat="37.7537285" lon="-121.1386385">
+    <tag k="addr:housename" v="McDonald's"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1894046560" lat="37.6897346" lon="-121.0122448">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1894046562" lat="37.6889959" lon="-121.0121804">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="1894053088" lat="37.6777456" lon="-120.9582412">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="1895826589" lat="37.6674975" lon="-120.9570564">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr."/>
+  </node>
+  <node id="1904777668" lat="37.2753555" lon="-121.8908686">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Mojo Burger"/>
+  </node>
+  <node id="1914739764" lat="37.5770656" lon="-122.3475123">
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:street" v="Primrose Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza my hart"/>
+  </node>
+  <node id="1914739766" lat="37.5768764" lon="-122.3473581">
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Yogurtland"/>
+  </node>
+  <node id="1914747984" lat="37.5766096" lon="-122.3469020">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Which witch"/>
+  </node>
+  <node id="1917983969" lat="37.3505773" lon="-121.8967490">
+    <tag k="amenity" v="fast_food"/>
+  </node>
+  <node id="1917983970" lat="37.3508762" lon="-121.8969429">
+    <tag k="amenity" v="fast_food"/>
+  </node>
+  <node id="1920348452" lat="37.9529267" lon="-121.9539580">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Little Ceasers Pizza"/>
+  </node>
+  <node id="1920399212" lat="37.9307766" lon="-122.0152527">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Quiznos"/>
+  </node>
+  <node id="1925632827" lat="37.2620155" lon="-121.9311280">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Carl's Jr"/>
+  </node>
+  <node id="1926660839" lat="37.6534439" lon="-120.9578685">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="1926665337" lat="37.6532538" lon="-120.9578564">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Baja Fresh"/>
+  </node>
+  <node id="1926665345" lat="37.6533525" lon="-120.9578564">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1931722608" lat="37.2696525" lon="-121.9057051">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1936250212" lat="37.6775909" lon="-120.9582402">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Yogurt Mill"/>
+  </node>
+  <node id="1937587374" lat="37.9810083" lon="-122.5644187">
+    <tag k="addr:housenumber" v="844"/>
+    <tag k="addr:postcode" v="94960"/>
+    <tag k="addr:street" v="Sir Francis Drake Blvd"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1937619589" lat="37.9568141" lon="-122.5071642">
+    <tag k="addr:housenumber" v="910"/>
+    <tag k="addr:postcode" v="94901"/>
+    <tag k="addr:street" v="Andersen Drive"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Wendy's"/>
+    <tag k="website" v="http://www.wendys.com"/>
+  </node>
+  <node id="1937620636" lat="37.9609802" lon="-122.5054691">
+    <tag k="addr:housenumber" v="969"/>
+    <tag k="addr:postcode" v="94901"/>
+    <tag k="addr:street" v="Francisco Blvd East"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="1973897802" lat="37.3224251" lon="-122.0312294">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Le Boulanger"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1974357969" lat="37.3219859" lon="-122.0328708">
+    <tag k="addr:housenumber" v="20520"/>
+    <tag k="addr:postcode" v="95014"/>
+    <tag k="addr:street" v="Stevens Creek Boulevard"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Noah's Bagels"/>
+  </node>
+  <node id="1975912886" lat="37.3664760" lon="-122.0130723">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="2011578329" lat="37.3660958" lon="-121.9420095">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Donut Den"/>
+  </node>
+  <node id="2011578331" lat="37.3660998" lon="-121.9418144">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="2013493270" lat="37.9903949" lon="-122.3364895">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="A&amp;W"/>
+  </node>
+  <node id="2024121563" lat="37.3943041" lon="-122.0288120">
+    <tag k="addr:housenumber" v="736"/>
+    <tag k="addr:postcode" v="94085"/>
+    <tag k="addr:street" v="North Mathilda Ave"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="kebab"/>
+    <tag k="fax" v="+1-408-530-9222"/>
+    <tag k="name" v="Dish n Dash"/>
+    <tag k="phone" v="+1-408-530-9200"/>
+    <tag k="website" v="http://dishndashrestaurant.com/"/>
+  </node>
+  <node id="2024128963" lat="37.3923244" lon="-122.0302202">
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:postcode" v="94086"/>
+    <tag k="addr:street" v="North Mathilda Ave"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="name" v="McDonald's"/>
+    <tag k="website" v="http://www.mccalifornia.com/6867"/>
+  </node>
+  <node id="2026714333" lat="37.2498402" lon="-121.8764156">
+    <tag k="addr:housenumber" v="1110"/>
+    <tag k="addr:postcode" v="95123"/>
+    <tag k="addr:street" v="Blossom Hill"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle Mexican Grill"/>
+    <tag k="source" v="chipotle.com"/>
+  </node>
+  <node id="2026740363" lat="37.2495746" lon="-121.8695518">
+    <tag k="addr:housenumber" v="1008-H"/>
+    <tag k="addr:postcode" v="95123"/>
+    <tag k="addr:street" v="Blossom Hill Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Baja Fresh Mexican Grill"/>
+    <tag k="source" v="http://www.bajafresh.com/mexican-food-san-jose-blossom-hill/"/>
+    <tag k="website" v="http://www.bajafresh.com/mexican-food-san-jose-blossom-hill/"/>
+  </node>
+  <node id="2027449866" lat="37.2505852" lon="-121.8792946">
+    <tag k="addr:housenumber" v="5353"/>
+    <tag k="addr:postcode" v="95118"/>
+    <tag k="addr:street" v="Almaden Expressway"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Five Guys"/>
+    <tag k="website" v="http://www.fiveguys.com/"/>
+  </node>
+  <node id="2029127974" lat="37.3038686" lon="-122.0318060">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v=" McDonald's"/>
+  </node>
+  <node id="2043354723" lat="36.8365085" lon="-121.3896442">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="2049316475" lat="37.7896545" lon="-122.3898813">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="The Melt"/>
+  </node>
+  <node id="2057396818" lat="37.7166057" lon="-122.4413580">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="Popeyes"/>
+  </node>
+  <node id="2057447435" lat="37.7208003" lon="-122.4375104">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="2057447439" lat="37.7184272" lon="-122.4397567">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Little Joe's Pizzeria"/>
+  </node>
+  <node id="2057534433" lat="37.7069556" lon="-122.4144393">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC / Taco Bell"/>
+  </node>
+  <node id="2059601648" lat="37.6937923" lon="-122.4646936">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="2059601742" lat="37.6932447" lon="-122.4647714">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="2059969565" lat="37.2366258" lon="-121.8050442">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="2068028147" lat="37.2449238" lon="-121.8881522">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="2068048411" lat="37.2511575" lon="-121.8791860">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="2069326214" lat="37.3172573" lon="-122.0327453">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle Mexican Grill"/>
+  </node>
+  <node id="2073355500" lat="37.3902808" lon="-122.0420273">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="2073355501" lat="37.3901614" lon="-122.0421453">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="2084084980" lat="37.5420370" lon="-122.2899930">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Taco Truck"/>
+  </node>
+  <node id="2091189218" lat="37.2202734" lon="-121.8623473">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="2091189244" lat="37.2203119" lon="-121.8623875">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Tacos al Pastor"/>
+  </node>
+  <node id="2094321001" lat="37.2526456" lon="-121.8312127">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Arby's"/>
+  </node>
+  <node id="2094321002" lat="37.2516123" lon="-121.8325789">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Burrito Factory"/>
+  </node>
+  <node id="2094321006" lat="37.2516518" lon="-121.8294311">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="2095579173" lat="37.8688940" lon="-122.2682440">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="drive_in" v="no"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="Papa John's"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2101121572" lat="37.7768200" lon="-122.3948674">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="2104929324" lat="37.5150022" lon="-120.8484183">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonalds"/>
+  </node>
+  <node id="2104930343" lat="37.5141852" lon="-120.8494161">
+    <tag k="addr:housenumber" v="2395"/>
+    <tag k="addr:postcode" v="95382"/>
+    <tag k="addr:street" v="Geer Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="2104934201" lat="37.5177872" lon="-120.8485740">
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:postcode" v="95382"/>
+    <tag k="addr:street" v="Geer Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="2104935496" lat="37.5197996" lon="-120.8484773">
+    <tag k="addr:housenumber" v="2980"/>
+    <tag k="addr:postcode" v="95382"/>
+    <tag k="addr:street" v="Geer Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Carl's Jr."/>
+  </node>
+  <node id="2104948443" lat="37.5214313" lon="-120.8493141">
+    <tag k="addr:housenumber" v="3181"/>
+    <tag k="addr:postcode" v="95382"/>
+    <tag k="addr:street" v="Geer Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Pizza Hut"/>
+  </node>
+  <node id="2104952061" lat="37.5166021" lon="-120.8492846">
+    <tag k="addr:housenumber" v="2601"/>
+    <tag k="addr:postcode" v="95382"/>
+    <tag k="addr:street" v="Geer Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack In The Box"/>
+  </node>
+  <node id="2104970491" lat="37.5202038" lon="-120.8806692">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="McDonalds"/>
+  </node>
+  <node id="2104970730" lat="37.5222205" lon="-120.8789606">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="KFC"/>
+  </node>
+  <node id="2104971241" lat="37.5212398" lon="-120.8757554">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Dean's Take-n-Bake"/>
+  </node>
+  <node id="2107857695" lat="37.2504913" lon="-121.8792772">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Wing Stop"/>
+    <tag k="website" v="http://www.wingstop.com/Local_Home.aspx?ID=549"/>
+  </node>
+  <node id="2109287433" lat="37.3194633" lon="-121.9498203">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="2117485541" lat="36.6732274" lon="-121.6545188">
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Michael's Grill &amp; Taqueria"/>
+    <tag k="phone" v="(831) 754-8917"/>
+    <tag k="website" v="http://michaelsgrillandtaqueria.com"/>
+  </node>
+  <node id="2120292073" lat="37.3197996" lon="-121.9738090">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="2120292074" lat="37.3190146" lon="-121.9740880">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Donuts"/>
+  </node>
+  <node id="2131729835" lat="37.9448722" lon="-122.0560594">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Rubio's"/>
+  </node>
+  <node id="2131729843" lat="37.9450076" lon="-122.0572235">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="2131729863" lat="37.9449865" lon="-122.0569928">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="Wingstop"/>
+  </node>
+  <node id="2131735925" lat="37.9450626" lon="-122.0615526">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Five Guy's"/>
+  </node>
+  <node id="2131735926" lat="37.9459806" lon="-122.0616518">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Cold Stone Creamery"/>
+  </node>
+  <node id="2131735927" lat="37.9455470" lon="-122.0621748">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="2131735989" lat="37.9462852" lon="-122.0600023">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Boston Market"/>
+  </node>
+  <node id="2131736075" lat="37.9468541" lon="-122.0612897">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Yogurtland"/>
+  </node>
+  <node id="2131739203" lat="37.9753586" lon="-122.0385124">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="MacDonald's"/>
+  </node>
+  <node id="2131739209" lat="37.9728890" lon="-122.0437642">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Quickly"/>
+  </node>
+  <node id="2131764362" lat="37.9256003" lon="-122.0160462">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Yogurt Station"/>
+  </node>
+  <node id="2131764363" lat="37.9257314" lon="-122.0168348">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="2131769465" lat="37.8988946" lon="-122.0626040">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Cheese Steak Shop"/>
+  </node>
+  <node id="2131769470" lat="37.8984375" lon="-122.0626952">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="MacDonald's"/>
+  </node>
+  <node id="2141528858" lat="37.3864360" lon="-121.9908920">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Beryl's Place"/>
+  </node>
+  <node id="2142007233" lat="37.7971353" lon="-121.1986578">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Del Taco"/>
+  </node>
+  <node id="2142022510" lat="37.7964720" lon="-121.1985854">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Quiznos"/>
+  </node>
+  <node id="2142031005" lat="37.7967221" lon="-121.1998890">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="2142031007" lat="37.7979132" lon="-121.1961714">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonalds"/>
+  </node>
+  <node id="2142031008" lat="37.7978835" lon="-121.1978398">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Kentucky Fried Chicken"/>
+  </node>
+  <node id="2142065833" lat="37.7971006" lon="-121.1960438">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="2142071130" lat="37.7968971" lon="-121.1901536">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Wendys"/>
+  </node>
+  <node id="2142071136" lat="37.7971811" lon="-121.1891449">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="El Pollo Loco"/>
+  </node>
+  <node id="2142093047" lat="37.7976135" lon="-121.2120002">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="2142094590" lat="37.8188853" lon="-121.2187192">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="2143393167" lat="37.7963734" lon="-121.1917168">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Panda Express"/>
+  </node>
+  <node id="2143393169" lat="37.7963861" lon="-121.1930096">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle"/>
+  </node>
+  <node id="2143393174" lat="37.7958478" lon="-121.1915022">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Carls JR"/>
+  </node>
+  <node id="2143525871" lat="37.4757351" lon="-120.8500975">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Jack in the Box"/>
+  </node>
+  <node id="2157998879" lat="37.3793257" lon="-122.0752407">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="bagel"/>
+    <tag k="name" v="The Better Bagel"/>
+  </node>
+  <node id="2160312601" lat="37.3832448" lon="-122.0783105">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Happi House"/>
+  </node>
+  <node id="2162283216" lat="37.2932837" lon="-121.9959060">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Dominoes"/>
+  </node>
+  <node id="2169807691" lat="37.8052780" lon="-122.2939840">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="2174597949" lat="37.3510108" lon="-122.0146324">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="2186238363" lat="37.8713300" lon="-122.2679190">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="drive_in" v="no"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="Subway"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2195193061" lat="37.3528634" lon="-121.9623935">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Mr. Chau's"/>
+  </node>
+  <node id="2195201596" lat="37.3526160" lon="-121.9709015">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="El Polo Loco"/>
+    <tag k="phone" v=" "/>
+  </node>
+
+</osm>

@@ -1,0 +1,4462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2013-03-12T06:51:02Z"/>
+
+  <node id="252364957" lat="37.5794682" lon="-122.3461559">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="266625630" lat="37.3676805" lon="-122.0364168">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="266903739" lat="37.7574670" lon="-122.4095120">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Progressive Grounds Cafe"/>
+  </node>
+  <node id="276836154" lat="37.3371146" lon="-122.0667561">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="276836172" lat="37.3372717" lon="-122.0661605">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="name" v="Peet's Coffee and Tea"/>
+  </node>
+  <node id="281652598" lat="37.7589515" lon="-122.4114221">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Atlas Cafe"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="281870028" lat="37.4240760" lon="-122.1708258">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="CoHo"/>
+    <tag k="old_name" v="Stanford Coffee House"/>
+  </node>
+  <node id="282388068" lat="37.8691981" lon="-122.2547141">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="name" v="Cafe Strada"/>
+  </node>
+  <node id="282600818" lat="37.8683999" lon="-122.2610253">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="gnis:ST_alpha" v="Bancroft Way"/>
+    <tag k="gnis:ST_num" v="2430"/>
+    <tag k="name" v="The Musical Offering and Cafe"/>
+  </node>
+  <node id="282600890" lat="37.8684295" lon="-122.2607946">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="name" v="Espresso Experience"/>
+  </node>
+  <node id="282600955" lat="37.8685352" lon="-122.2592744">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="name" v="Cest Cafe"/>
+  </node>
+  <node id="286080704" lat="37.8685220" lon="-122.2556824">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="name" v="Cafe Muse"/>
+  </node>
+  <node id="286081304" lat="37.8656869" lon="-122.2672122">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="name" v="Royal Ground Coffee"/>
+  </node>
+  <node id="286081305" lat="37.8683510" lon="-122.2674820">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Shattuck Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="286632462" lat="37.8686097" lon="-122.2587680">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="286632478" lat="37.8687927" lon="-122.2578920">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Merkaartor 0.11"/>
+    <tag k="name" v="Double Rainbow Cafe"/>
+  </node>
+  <node id="286632968" lat="37.8704833" lon="-122.2549629">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Ramona's Cafe"/>
+  </node>
+  <node id="287483193" lat="37.4261334" lon="-122.1669474">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Coupa Cafe"/>
+  </node>
+  <node id="288991092" lat="37.8716760" lon="-122.2705490">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="2000"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="University Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="french"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Au Coquelet"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="293573360" lat="37.7900864" lon="-122.4339295">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="name" v="Starbuck's"/>
+  </node>
+  <node id="293573361" lat="37.7923504" lon="-122.4346231">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Tully's Coffee"/>
+  </node>
+  <node id="299405088" lat="37.5797659" lon="-122.3333428">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="name" v="Starbuck's"/>
+  </node>
+  <node id="303809258" lat="37.4272421" lon="-122.1442706">
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:street" v="California Ave"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="Mexican, salads, sandwiches, gelato, frittata, cakes"/>
+    <tag k="description" v="Wifi"/>
+    <tag k="fax" v="650-328-5246"/>
+    <tag k="name" v="Printer's Cafe"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-17:00"/>
+    <tag k="phone" v="650-323-3347"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="www.printerscafe.com"/>
+  </node>
+  <node id="304945803" lat="37.8517067" lon="-122.2658629">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jumpin' Java"/>
+  </node>
+  <node id="304945804" lat="37.8504805" lon="-122.2656935">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Nomad Cafe"/>
+  </node>
+  <node id="310972960" lat="37.7639985" lon="-122.2427295">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="310972993" lat="37.7614689" lon="-122.2453026">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Julie's Coffee and Tea Garden"/>
+  </node>
+  <node id="310973014" lat="37.7633342" lon="-122.2437663">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="JavaRama"/>
+    <tag k="note" v="internet cafe"/>
+  </node>
+  <node id="310973032" lat="37.7641532" lon="-122.2430373">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="310973096" lat="37.7667613" lon="-122.2409373">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jim's Coffee Shop"/>
+  </node>
+  <node id="310973112" lat="37.7678462" lon="-122.2395151">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Beanery Coffee Roasters"/>
+  </node>
+  <node id="311252186" lat="37.8117713" lon="-122.2671968">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="311252194" lat="37.8081054" lon="-122.2658594">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Speedsters"/>
+  </node>
+  <node id="311252233" lat="37.8093054" lon="-122.2683270">
+    <tag k="addr:housenumber" v="2001"/>
+    <tag k="addr:street" v="Broadway"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="description" v="A beautiful cafe in a beautiful building, good for catching the Bart or bus."/>
+    <tag k="name" v="Cafe Madrid"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="311252258" lat="37.8080444" lon="-122.2657049">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks Coffee"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="311252290" lat="37.8122002" lon="-122.2660491">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="TD Cafe"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="314082182" lat="37.3529720" lon="-122.0873697">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Tom's Depot"/>
+  </node>
+  <node id="314115391" lat="37.8816597" lon="-122.2696797">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Bel Forno"/>
+  </node>
+  <node id="314115424" lat="37.8798726" lon="-122.2687286">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Imperial Tea Court"/>
+  </node>
+  <node id="314115490" lat="37.8793299" lon="-122.2694029">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="The French Hotel Cafe"/>
+  </node>
+  <node id="314115508" lat="37.8780136" lon="-122.2692393">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Philz Coffee"/>
+  </node>
+  <node id="314115511" lat="37.8778971" lon="-122.2692339">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Guerilla Cafe"/>
+  </node>
+  <node id="314115626" lat="37.8749065" lon="-122.2689112">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Fertile Grounds"/>
+  </node>
+  <node id="314115682" lat="37.8737116" lon="-122.2687721">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Berkeley Espresso"/>
+  </node>
+  <node id="315684346" lat="37.0024346" lon="-121.5511886">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="317106193" lat="37.8802403" lon="-122.2683180">
+    <tag k="addr:housenumber" v="2124"/>
+    <tag k="addr:street" v="Vine Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee and Tea"/>
+  </node>
+  <node id="317124802" lat="37.7823740" lon="-122.3916815">
+    <tag k="amenity" v="cafe"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="Brannan Street Cafe"/>
+  </node>
+  <node id="317124812" lat="37.7795947" lon="-122.3951729">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Brickhouse Cafe and Bar"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="317124816" lat="37.7785721" lon="-122.3966112">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="317124819" lat="37.7777249" lon="-122.3959753">
+    <tag k="amenity" v="cafe"/>
+    <tag k="inside_atm" v="yes"/>
+    <tag k="name" v="Latte Express"/>
+  </node>
+  <node id="317129195" lat="37.7769972" lon="-122.3936898">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="318297625" lat="37.7518854" lon="-122.4208393">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Muddy's Coffeehouse"/>
+  </node>
+  <node id="318886217" lat="37.8753699" lon="-122.2603369">
+    <tag k="addr:street" v="Euclid Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Caffe Nefeli"/>
+  </node>
+  <node id="318886224" lat="37.8757648" lon="-122.2601253">
+    <tag k="addr:street" v="Euclid Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Brewed Awakening"/>
+  </node>
+  <node id="318886226" lat="37.8758027" lon="-122.2604262">
+    <tag k="addr:street" v="Euclid Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Hummingbird Cafe"/>
+  </node>
+  <node id="318886269" lat="37.8697434" lon="-122.2672087">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Cafe Panini"/>
+  </node>
+  <node id="319852929" lat="37.0139255" lon="-121.5762080">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Cafe 152"/>
+  </node>
+  <node id="320382122" lat="36.8366663" lon="-121.3911405">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="320479776" lat="36.8500317" lon="-121.4019105">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Best of Times Cafe"/>
+  </node>
+  <node id="320818055" lat="36.8501721" lon="-121.3969350">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Quizno's"/>
+  </node>
+  <node id="320818265" lat="36.8401506" lon="-121.3933187">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+  </node>
+  <node id="324871971" lat="37.4494689" lon="-122.1861896">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee"/>
+    <tag k="opening_hours" v="Mo-Fr 05:00-21:00; Sa-Su 06:00-21:00"/>
+  </node>
+  <node id="326725120" lat="37.1303997" lon="-121.6391788">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="331043871" lat="36.8497735" lon="-121.4023830">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Knife and Fork Cafe"/>
+  </node>
+  <node id="331044790" lat="36.8502385" lon="-121.4019111">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Heavenly Bakery"/>
+  </node>
+  <node id="331086790" lat="37.1138387" lon="-121.6441033">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Quiznos"/>
+  </node>
+  <node id="331094205" lat="37.1439073" lon="-121.6643336">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="331389010" lat="37.7986305" lon="-122.4073519">
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:street" v="Vallejo Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Caffe Trieste"/>
+  </node>
+  <node id="332111124" lat="37.0137626" lon="-121.5822881">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Gilroy Donut House"/>
+  </node>
+  <node id="332111181" lat="37.0143520" lon="-121.5858758">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="332113059" lat="37.0143520" lon="-121.5857728">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="House of Bagels"/>
+  </node>
+  <node id="332730973" lat="37.7863570" lon="-122.4532459">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="332730980" lat="37.7867549" lon="-122.4515258">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="332730993" lat="37.7867336" lon="-122.4505031">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Pete's Coffee"/>
+  </node>
+  <node id="332787288" lat="37.7880547" lon="-122.4475377">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Eunice's Cafe"/>
+  </node>
+  <node id="332787308" lat="37.7870504" lon="-122.4565122">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="(bistro)"/>
+  </node>
+  <node id="334791571" lat="37.0072783" lon="-121.5691651">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Los Arcos Market"/>
+  </node>
+  <node id="334792657" lat="37.0079089" lon="-121.5694741">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Garlic City Cafe"/>
+  </node>
+  <node id="334793174" lat="37.0084709" lon="-121.5696801">
+    <tag k="addr:city" v="Gilroy"/>
+    <tag k="addr:housenumber" v="7501"/>
+    <tag k="addr:street" v="Monterey Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="former_name" v="Sue's Coffee"/>
+    <tag k="name" v="5th Street Coffee &amp; Roasting Co."/>
+  </node>
+  <node id="335444374" lat="37.7908808" lon="-122.4024914">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Cafe Amici"/>
+  </node>
+  <node id="337845983" lat="37.9913723" lon="-122.3023564">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="338879957" lat="36.9768310" lon="-122.0325440">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Merkaartor 0.12"/>
+    <tag k="name" v="The Abbey"/>
+  </node>
+  <node id="338881083" lat="36.9749892" lon="-122.0256194">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Lulu's at the Octagon"/>
+  </node>
+  <node id="338881094" lat="36.9705820" lon="-122.0264464">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Merkaartor 0.12"/>
+    <tag k="name" v="Caffe Pergolesi"/>
+  </node>
+  <node id="339562992" lat="37.6013752" lon="-122.3719304">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Cafe Bullshead Express"/>
+  </node>
+  <node id="339563079" lat="37.6006601" lon="-122.3695588">
+    <tag k="addr:housenumber" v="1669"/>
+    <tag k="addr:street" v="Bayshore Highway"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Joe's Cafe By the Bay"/>
+  </node>
+  <node id="339574651" lat="37.4615523" lon="-122.1372023">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="339780971" lat="37.4380614" lon="-122.1592450">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet’s Coffee and Tea"/>
+  </node>
+  <node id="340313891" lat="37.0198047" lon="-121.5765651">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="340314337" lat="37.0198801" lon="-121.5763763">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Super Donut"/>
+  </node>
+  <node id="340332115" lat="37.4281387" lon="-122.1687959">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Olives"/>
+    <tag k="operator" v="Stanford Dining"/>
+  </node>
+  <node id="343135403" lat="37.3936438" lon="-122.0788638">
+    <tag k="addr:city" v="Mountain View"/>
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:postcode" v="94041"/>
+    <tag k="addr:street" v="Castro Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Red Rock Coffee"/>
+    <tag k="opening_hours" v="Mo-Th 07:00-22:00, Fr 7:00-23:00, Sa 08:00-23:00, Su 8:00-17:00"/>
+    <tag k="phone" v="+16509674473"/>
+    <tag k="website" v="http://www.redrockcoffee.org/"/>
+  </node>
+  <node id="343610932" lat="37.8915233" lon="-122.2791968">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee and Tea"/>
+  </node>
+  <node id="343610934" lat="37.8914840" lon="-122.2800050">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="343610983" lat="37.8908894" lon="-122.2904001">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="cafeína"/>
+  </node>
+  <node id="343610997" lat="37.8904847" lon="-122.2978897">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Royal Ground Coffee"/>
+  </node>
+  <node id="343611001" lat="37.8903863" lon="-122.2991864">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Café Saint-Honoré"/>
+  </node>
+  <node id="343611011" lat="37.8902609" lon="-122.2967627">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Eunice Gourmet Cafe"/>
+  </node>
+  <node id="343611013" lat="37.8902766" lon="-122.2963130">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Tay Tah Cafe"/>
+  </node>
+  <node id="343876694" lat="37.2360364" lon="-121.8024294">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="MoonBeans"/>
+  </node>
+  <node id="343878888" lat="37.2669518" lon="-121.8325386">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Lime Tree Espresso"/>
+  </node>
+  <node id="345476438" lat="37.4218065" lon="-122.0963872">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="346585657" lat="37.7824703" lon="-122.4077562">
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Mint Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Blue Bottle Cafe"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 08:00-16:00"/>
+    <tag k="phone" v="510-653-3394"/>
+  </node>
+  <node id="347433822" lat="37.3237303" lon="-121.9139848">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="353683257" lat="37.4007004" lon="-122.1132466">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Peet's coffee and tea"/>
+  </node>
+  <node id="354639996" lat="37.8723672" lon="-122.2609337">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Free Speech Movement Cafe"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="354645983" lat="37.8683150" lon="-122.2867720">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Zeste"/>
+    <tag k="opening_hours" v="mo-sa"/>
+    <tag k="website" v="www.zestecatering.com"/>
+  </node>
+  <node id="354704665" lat="37.8704098" lon="-122.2660791">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="356611741" lat="37.1509735" lon="-121.6564399">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="356612899" lat="37.1511586" lon="-121.6545864">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="356614044" lat="37.1335476" lon="-121.6305024">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="356614045" lat="37.1335886" lon="-121.6304165">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Coffee Express"/>
+  </node>
+  <node id="356614205" lat="37.1337734" lon="-121.6291291">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Naomi's Coffee &amp; Tea"/>
+  </node>
+  <node id="360463846" lat="37.7485992" lon="-122.4269982">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Chloe's Cafe"/>
+  </node>
+  <node id="360464463" lat="37.7491896" lon="-122.4270583">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Lovejoy Tea Room"/>
+  </node>
+  <node id="363427027" lat="36.9723520" lon="-121.9523774">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Mr. Toots"/>
+  </node>
+  <node id="365489472" lat="37.7957433" lon="-122.3934783">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="365491382" lat="37.7951803" lon="-122.3928346">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Boulette's Larde"/>
+  </node>
+  <node id="366088673" lat="37.8672740" lon="-122.2589168">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Ryno's"/>
+  </node>
+  <node id="366352408" lat="37.8669676" lon="-122.2563428">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee and Tea"/>
+  </node>
+  <node id="366700371" lat="37.7991894" lon="-122.4091220">
+    <tag k="addr:housenumber" v="1441"/>
+    <tag k="addr:street" v="Stockton Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Cavalli Book and Cafe"/>
+  </node>
+  <node id="368204311" lat="37.8650843" lon="-122.2583724">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee and Tea"/>
+  </node>
+  <node id="368204315" lat="37.8657601" lon="-122.2585022">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Mediterraneum"/>
+  </node>
+  <node id="370202317" lat="37.3352126" lon="-121.8921499">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="372811624" lat="37.8115761" lon="-122.2425976">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="L'amyx"/>
+    <tag k="shop" v="beverages"/>
+  </node>
+  <node id="375960271" lat="37.8975818" lon="-122.6394935">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+  </node>
+  <node id="376213628" lat="37.7782702" lon="-122.4149186">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="376235927" lat="37.8068337" lon="-122.4204182">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="392452984" lat="37.7703911" lon="-122.4698172">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Tea House"/>
+  </node>
+  <node id="392887676" lat="36.9758507" lon="-122.0281419">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Bene"/>
+  </node>
+  <node id="392890682" lat="36.9754501" lon="-122.0277153">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Limelight"/>
+  </node>
+  <node id="392900353" lat="36.9758568" lon="-122.0265034">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Zoccoli's Delicatessen"/>
+  </node>
+  <node id="392905007" lat="36.9751098" lon="-122.0266053">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Noah's Bagels"/>
+  </node>
+  <node id="392905321" lat="36.9749961" lon="-122.0265746">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="392908137" lat="36.9739345" lon="-122.0263198">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="393454022" lat="36.9640301" lon="-121.9647531">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Verve Coffee Roasters"/>
+  </node>
+  <node id="393645278" lat="37.7622538" lon="-121.4334228">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="395025442" lat="36.9831876" lon="-122.0293301">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Java Junction"/>
+  </node>
+  <node id="395032732" lat="36.9812954" lon="-122.0298195">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="River Café"/>
+  </node>
+  <node id="395041235" lat="36.9871974" lon="-121.9644883">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="395470978" lat="36.9739624" lon="-122.0259455">
+    <tag k="amenity" v="cafe"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Santa Cruz Coffee Roasting Company"/>
+  </node>
+  <node id="396156447" lat="36.9754876" lon="-122.0264930">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Penny Ice-Creamery"/>
+  </node>
+  <node id="400707066" lat="36.9763277" lon="-122.0269529">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Lulu Carpenter's"/>
+  </node>
+  <node id="401388144" lat="36.9674142" lon="-122.0081201">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Java Junction"/>
+  </node>
+  <node id="401461453" lat="36.9614515" lon="-122.0461435">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="donut"/>
+    <tag k="name" v="Ferrell's Donuts"/>
+  </node>
+  <node id="405661857" lat="36.9708314" lon="-122.0244725">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="406683117" lat="36.9685688" lon="-122.0382033">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Yogurt Delite"/>
+  </node>
+  <node id="407858422" lat="36.9697272" lon="-122.0368928">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Emily's Bakery"/>
+    <tag k="shop" v="bakery"/>
+  </node>
+  <node id="409452157" lat="36.9878925" lon="-121.9575513">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Ugly Mug"/>
+  </node>
+  <node id="409452169" lat="36.9815724" lon="-122.0104563">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Allbright's Donut Shoppe"/>
+  </node>
+  <node id="409821485" lat="36.9648115" lon="-122.0413166">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Coffeetopia"/>
+  </node>
+  <node id="410242663" lat="37.8042353" lon="-122.2627746">
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="17th Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Good News Cafe"/>
+  </node>
+  <node id="410821021" lat="36.9800411" lon="-122.0096723">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Chill Out Café"/>
+  </node>
+  <node id="411083201" lat="37.7673162" lon="-122.4219479">
+    <tag k="addr:housenumber" v="375"/>
+    <tag k="addr:street" v="Valencia Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Four Barrel Coffee"/>
+  </node>
+  <node id="411913130" lat="37.1291394" lon="-121.6503196">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="412050834" lat="36.9788722" lon="-122.0134980">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Lulu Carpenter's Midtown"/>
+  </node>
+  <node id="413600099" lat="36.9623350" lon="-122.0436395">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Espresso Metro"/>
+  </node>
+  <node id="413600106" lat="36.9671863" lon="-122.0397682">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Santa Cruz News Café"/>
+    <tag k="shop" v="newsagent"/>
+  </node>
+  <node id="415277183" lat="36.9725615" lon="-122.0260554">
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Gratitude"/>
+  </node>
+  <node id="415277184" lat="36.9714224" lon="-122.0252068">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Java Bob's"/>
+  </node>
+  <node id="415492285" lat="36.9736743" lon="-122.0261637">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Swirl"/>
+  </node>
+  <node id="415515199" lat="36.9731248" lon="-122.0260194">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Pacific Cookie Company"/>
+    <tag k="shop" v="confectionery"/>
+  </node>
+  <node id="416183850" lat="37.2901635" lon="-121.9924544">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Le Boulanger San Jose, West"/>
+    <tag k="operator" v="Le Boulanger"/>
+  </node>
+  <node id="416575636" lat="36.9808394" lon="-122.0158673">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Top•A•Lot Yogurt"/>
+  </node>
+  <node id="417089832" lat="37.8034298" lon="-122.2749745">
+    <tag k="addr:housenumber" v="555"/>
+    <tag k="addr:street" v="12th Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="It's A Grind"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="417181233" lat="37.7743281" lon="-122.4442758">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Central Coffee and Tea"/>
+  </node>
+  <node id="418107756" lat="36.9589160" lon="-122.0484174">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Kelly's French Bakery"/>
+  </node>
+  <node id="418513660" lat="37.7645003" lon="-122.4216812">
+    <tag k="addr:housenumber" v="521"/>
+    <tag k="addr:street" v="Valencia Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Muddy Waters"/>
+  </node>
+  <node id="418514136" lat="37.7635994" lon="-122.4237891">
+    <tag k="addr:housenumber" v="483"/>
+    <tag k="addr:street" v="Guerrero Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Petra Cafe"/>
+  </node>
+  <node id="419424064" lat="36.6864774" lon="-121.8003672">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="428208392" lat="37.3890209" lon="-121.9832604">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="429184954" lat="37.2904684" lon="-121.9920540">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee"/>
+    <tag k="operator" v="Peet's Coffee and Tea"/>
+  </node>
+  <node id="429184956" lat="37.2903796" lon="-121.9921390">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="bagel"/>
+    <tag k="name" v="Noah's Bagels"/>
+    <tag k="operator" v="Noah's Bagels"/>
+  </node>
+  <node id="430009412" lat="37.8129715" lon="-122.2684756">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Mama Buzz"/>
+  </node>
+  <node id="432822267" lat="37.7826879" lon="-122.4189416">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:street" v="Polk Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Emile's Coffee &amp; Tea"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="433566474" lat="37.3908358" lon="-122.0946836">
+    <tag k="addr:housenumber" v="1037"/>
+    <tag k="addr:postcode" v="94040"/>
+    <tag k="addr:street" v="El Monte Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbuck's"/>
+    <tag k="website" v="www.starbucks.com"/>
+  </node>
+  <node id="434149992" lat="36.6248690" lon="-121.9167093">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="436628382" lat="37.4235132" lon="-122.1976892">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="436628498" lat="36.9831421" lon="-121.9939159">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Santa Cruz Sandwiches"/>
+  </node>
+  <node id="439200967" lat="37.3763370" lon="-122.0300819">
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:street" v="S Murphy Ave"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Bean Scene Cafe"/>
+  </node>
+  <node id="439234263" lat="37.3444292" lon="-121.9325991">
+    <tag k="addr:housenumber" v="2221"/>
+    <tag k="addr:street" v="The Alameda"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Mission City Coffee Roasting"/>
+  </node>
+  <node id="439663227" lat="37.7178725" lon="-121.7246638">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="440320950" lat="36.7935953" lon="-121.6650586">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="441266425" lat="36.9823151" lon="-122.0221238">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Fin's Coffee"/>
+  </node>
+  <node id="441266429" lat="36.9839096" lon="-122.0232731">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Ferrell's Donut House"/>
+  </node>
+  <node id="443372068" lat="37.7564328" lon="-122.4211888">
+    <tag k="addr:street" v="Valencia"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Ritual Roaster"/>
+  </node>
+  <node id="443809742" lat="37.5412256" lon="-122.5162294">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Caffe Lucca"/>
+  </node>
+  <node id="444090470" lat="38.2257428" lon="-121.4282083">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="444098109" lat="37.8960465" lon="-121.2810158">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Togo's"/>
+  </node>
+  <node id="444134920" lat="37.5389941" lon="-121.2632496">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Quiznos"/>
+  </node>
+  <node id="444157097" lat="37.0992132" lon="-121.0149578">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="444157108" lat="37.0993158" lon="-121.0153441">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Quizno's"/>
+  </node>
+  <node id="444644974" lat="37.8578525" lon="-122.2529748">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Beanery"/>
+  </node>
+  <node id="448036312" lat="37.7826281" lon="-122.4688161">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="donut"/>
+    <tag k="name" v="All Stars"/>
+  </node>
+  <node id="448038882" lat="37.7831961" lon="-122.4613707">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee"/>
+    <tag k="name" v="Martha &amp; Bros. Coffee"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="452312096" lat="37.4700883" lon="-122.4349377">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="452319641" lat="37.4680719" lon="-122.4304831">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Caffino Drive Thru Espresso"/>
+  </node>
+  <node id="453679464" lat="36.9764923" lon="-121.9003062">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="453694474" lat="36.9773047" lon="-121.9002537">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Norma Jean's Coffee"/>
+  </node>
+  <node id="453695757" lat="36.9776201" lon="-121.9014381">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Yogurt Sensations"/>
+  </node>
+  <node id="453726108" lat="36.9768384" lon="-121.9069570">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Eric's Deli"/>
+  </node>
+  <node id="453740610" lat="36.9790886" lon="-121.9086777">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="453753104" lat="36.9819272" lon="-121.9107376">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Patisserie"/>
+  </node>
+  <node id="453755296" lat="36.9813033" lon="-121.9101797">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Pacific Coffee Roasting"/>
+  </node>
+  <node id="453821699" lat="36.9696374" lon="-121.9057335">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Full of Beans"/>
+  </node>
+  <node id="453821976" lat="36.9695551" lon="-121.9055103">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Rio"/>
+  </node>
+  <node id="453834877" lat="36.9692198" lon="-121.9044846">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Pixi Deli"/>
+  </node>
+  <node id="459380662" lat="37.3732006" lon="-121.8730137">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="459382303" lat="37.3724230" lon="-121.8730137">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="462479994" lat="37.4382957" lon="-122.1584468">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Calafia"/>
+  </node>
+  <node id="462480025" lat="37.4389450" lon="-122.1588623">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="french"/>
+    <tag k="description" v="Cafe, Bakery: bagels, breads, brioches, cakes, cookies, croissants, danishes, muffins, scones, savories, tarts. Sandwiches, salads, quiches  Wifi"/>
+    <tag k="name" v="Douce France"/>
+    <tag k="phone" v="6503699644"/>
+    <tag k="website" v="www.doucefrancebakery.com"/>
+  </node>
+  <node id="474160644" lat="36.8501994" lon="-121.4023658">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Mars Hill Coffeehouse"/>
+  </node>
+  <node id="477042434" lat="37.2582665" lon="-122.0332066">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Big Basin Cafe"/>
+  </node>
+  <node id="482787670" lat="37.4316447" lon="-122.2017834">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="486624281" lat="37.4339366" lon="-122.1295849">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Palo Alto Cafe"/>
+  </node>
+  <node id="486625614" lat="37.4331996" lon="-122.1287235">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="487082152" lat="37.3889938" lon="-122.0297305">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bagel Street Cafe"/>
+  </node>
+  <node id="487082165" lat="37.3883595" lon="-122.0303570">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="487556125" lat="37.3101000" lon="-122.0120000">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="487771722" lat="37.4104006" lon="-122.0146836">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bagel Cafe"/>
+  </node>
+  <node id="490229820" lat="36.9758583" lon="-121.9663147">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="490455856" lat="37.3882862" lon="-122.0299237">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Shaw's Sandwiches"/>
+  </node>
+  <node id="493887514" lat="37.0472454" lon="-122.0265747">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Erik's DeliCafe"/>
+  </node>
+  <node id="493887521" lat="37.0458273" lon="-122.0270897">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peets Coffee &amp; Tea"/>
+  </node>
+  <node id="496255823" lat="36.9973346" lon="-122.0522792">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Stevenson Coffee House"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="497392843" lat="36.9999717" lon="-122.0544204">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Banana Joe's"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="497393168" lat="37.0003881" lon="-122.0579252">
+    <tag k="amenity" v="cafe"/>
+    <tag k="building:level" v="1"/>
+    <tag k="name" v="Terry Freitas Café"/>
+  </node>
+  <node id="498428706" lat="37.0365668" lon="-122.0224089">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Surf City Coffee"/>
+  </node>
+  <node id="506819212" lat="37.2747625" lon="-121.8932695">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="506819349" lat="37.2927503" lon="-121.9132080">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="509374878" lat="37.0529327" lon="-122.0691318">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="509707333" lat="37.2856480" lon="-121.9822294">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="509715928" lat="37.2853680" lon="-121.9804183">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Baskin Robins 31"/>
+  </node>
+  <node id="509953682" lat="37.8368327" lon="-122.2636844">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="511124252" lat="37.1557921" lon="-121.6508851">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="528057543" lat="37.7682118" lon="-122.4223857">
+    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:street" v="Valencia Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Carlin's Cafe"/>
+  </node>
+  <node id="529124880" lat="36.6584985" lon="-121.6600258">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="529144378" lat="37.4157753" lon="-122.0775820">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="529772037" lat="37.7735920" lon="-122.4256150">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name:en" v="Samovar Tea Lounge"/>
+  </node>
+  <node id="534888272" lat="37.7730060" lon="-122.4375957">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name:en" v="On The Corner"/>
+  </node>
+  <node id="537501673" lat="37.7704651" lon="-122.4180263">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Java Detour"/>
+  </node>
+  <node id="540608835" lat="37.8670830" lon="-122.2660870">
+    <tag k="addr:housenumber" v="2131"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Sonoma Coffee Café"/>
+  </node>
+  <node id="541369492" lat="37.6810910" lon="-121.7697320">
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="iLOE 0.9"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Panama Bay"/>
+  </node>
+  <node id="550737359" lat="37.4502220" lon="-122.1854610">
+    <tag k="addr:housenumber" v="867"/>
+    <tag k="addr:street" v="Santa Cruz avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Silan"/>
+  </node>
+  <node id="550749948" lat="37.4503160" lon="-122.1853430">
+    <tag k="addr:housenumber" v="863"/>
+    <tag k="addr:street" v="Santa Cruz avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="description" v="Ice cream cafe"/>
+    <tag k="name" v="Baskin Robbins"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
+  </node>
+  <node id="560515139" lat="37.7884142" lon="-122.3956694">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peets Coffee &amp; Tea"/>
+  </node>
+  <node id="560525287" lat="37.3651212" lon="-121.9159742">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="It's A Grind"/>
+  </node>
+  <node id="563306080" lat="37.3538594" lon="-121.9032898">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Togo's"/>
+  </node>
+  <node id="563318175" lat="37.3683563" lon="-121.9129544">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Sun"/>
+  </node>
+  <node id="563335614" lat="37.3709032" lon="-121.9172448">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="563360850" lat="37.4108185" lon="-121.9458942">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="566055916" lat="37.3773669" lon="-122.0297472">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Coffee-n-More"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-18:00"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="567674195" lat="37.4850373" lon="-122.2311197">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="1045"/>
+    <tag k="addr:postcode" v="94063"/>
+    <tag k="addr:street" v="El Camino Real"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="phone" v="(650) 366-6205"/>
+    <tag k="url" v="http://www.starbucks.com"/>
+  </node>
+  <node id="567795816" lat="37.5871621" lon="-122.0195168">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="34554"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Alvarado-Niles Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="donut"/>
+    <tag k="name" v="Donut Delight"/>
+  </node>
+  <node id="567796149" lat="37.5882333" lon="-122.0188409">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="1752"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Decoto Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="567797554" lat="37.5825679" lon="-122.0237006">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="2649"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Decoto Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="diner"/>
+    <tag k="name" v="Baldie's Cafe"/>
+  </node>
+  <node id="568834530" lat="37.9514019" lon="-121.9566545">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="571837074" lat="37.5348956" lon="-121.9982626">
+    <tag k="addr:housenumber" v="5034"/>
+    <tag k="addr:street" v="Mowry Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="571998301" lat="37.4592332" lon="-122.1527285">
+    <tag k="addr:housenumber" v="1929"/>
+    <tag k="addr:street" v="Menalto Ave."/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Zoe"/>
+  </node>
+  <node id="574003274" lat="37.5991596" lon="-122.0691185">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="32240"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:street" v="Union Landing Boulevard"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="575164981" lat="37.7113836" lon="-122.1633162">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="575674327" lat="37.9099298" lon="-122.6849018">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Coast Cafe"/>
+  </node>
+  <node id="577031675" lat="37.5362489" lon="-121.9989416">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Big Apple Bagels"/>
+  </node>
+  <node id="577302799" lat="37.3323161" lon="-121.9126049">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="577406730" lat="37.3373902" lon="-121.8884127">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="582550236" lat="37.0139244" lon="-121.5942805">
+    <tag k="addr:housenumber" v="1211"/>
+    <tag k="addr:street" v="1st St"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="First Street Coffee Exchange"/>
+  </node>
+  <node id="582778903" lat="37.7485423" lon="-122.4250438">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Luv A Java"/>
+  </node>
+  <node id="586713622" lat="37.7648030" lon="-122.4320240">
+    <tag k="addr:housenumber" v="2257"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Petes Coffee"/>
+  </node>
+  <node id="589884158" lat="37.5551381" lon="-121.9819430">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Panera Bread"/>
+  </node>
+  <node id="593968804" lat="37.3874972" lon="-122.0830991">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="595490824" lat="36.8897790" lon="-121.4032525">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Ding-A-Ling Cafe"/>
+  </node>
+  <node id="597930793" lat="37.1290083" lon="-121.6530244">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Hot Java"/>
+  </node>
+  <node id="598640976" lat="37.2218268" lon="-121.9830039">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Los Gatos Roasting Company"/>
+  </node>
+  <node id="599098661" lat="37.3384428" lon="-121.9948438">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="599326229" lat="37.3529575" lon="-121.9973250">
+    <tag k="addr:city" v="Santa Clara"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="3605"/>
+    <tag k="addr:postcode" v="95051"/>
+    <tag k="addr:street" v="E El Camino Real"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="599326230" lat="37.3517995" lon="-121.9677618">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="599326232" lat="37.3519511" lon="-121.9768655">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Java Town"/>
+  </node>
+  <node id="599417363" lat="37.7542910" lon="-122.4777210">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Golden Island"/>
+  </node>
+  <node id="599708715" lat="38.0947372" lon="-122.2288361">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="599872442" lat="38.0839436" lon="-122.2340879">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="599872545" lat="38.0842201" lon="-122.2342595">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="600133351" lat="36.9793528" lon="-122.0225328">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Samba Rock Açai Cafe"/>
+  </node>
+  <node id="605023550" lat="37.5802866" lon="-122.3456900">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="613270075" lat="37.7998684" lon="-122.4098389">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="La Boulange"/>
+  </node>
+  <node id="614553275" lat="37.6869262" lon="-122.1297286">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="614553276" lat="37.6877497" lon="-122.1292887">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Quizno's"/>
+  </node>
+  <node id="615947556" lat="37.3852373" lon="-122.0321164">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Le Boulanger Sunnyvale/Mathilda"/>
+    <tag k="operator" v="Le Boulanger"/>
+  </node>
+  <node id="617019748" lat="37.4161154" lon="-121.8992882">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="619015092" lat="37.3238881" lon="-121.9944607">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Chromatic Coffee"/>
+    <tag k="old_name" v="Barefoot Coffee Bar"/>
+  </node>
+  <node id="621188329" lat="37.7648005" lon="-122.4496668">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="La Boulange de Cole"/>
+  </node>
+  <node id="621851561" lat="37.7887659" lon="-122.4115293">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Sutter Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sugar Cafe"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="623750631" lat="37.8511038" lon="-122.2526228">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee and Tea"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="623822030" lat="37.5542748" lon="-121.9818437">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="623960612" lat="37.3526009" lon="-122.0077556">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="632725242" lat="37.7373506" lon="-122.4695654">
+    <tag k="addr:housenumber" v="329"/>
+    <tag k="addr:street" v="West Portal Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Greenhouse"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-19:00; Sa,Su 08:00-19:00"/>
+  </node>
+  <node id="632732418" lat="37.7374840" lon="-122.4694230">
+    <tag k="addr:housenumber" v="321A"/>
+    <tag k="addr:street" v="West Portal Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Manor Coffee Shop"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-20:00"/>
+  </node>
+  <node id="638752547" lat="37.7397088" lon="-122.4673069">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="647650154" lat="37.3743394" lon="-122.0325378">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks/ Target Cafe"/>
+  </node>
+  <node id="647656702" lat="37.7714409" lon="-122.4349625">
+    <tag k="addr:housenumber" v="783"/>
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="The Grind"/>
+  </node>
+  <node id="647656706" lat="37.7710336" lon="-122.4320220">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Bean There"/>
+  </node>
+  <node id="647656710" lat="37.7692095" lon="-122.4314672">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Duboce Park Cafe"/>
+  </node>
+  <node id="647656728" lat="37.7716720" lon="-122.4331366">
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="bagel"/>
+    <tag k="name" v="Katz Bagels"/>
+  </node>
+  <node id="647656778" lat="37.7712902" lon="-122.4301844">
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Fillmore Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="emergency:note" v="NERT food &amp; water pre-arranged"/>
+    <tag k="name" v="Cafe du Soleil"/>
+  </node>
+  <node id="647656785" lat="37.7721688" lon="-122.4307253">
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe International"/>
+    <tag k="undefined" v="coffee_shop"/>
+  </node>
+  <node id="650017198" lat="37.1566643" lon="-121.6522155">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="651065005" lat="37.8543353" lon="-122.2596861">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Mokka"/>
+  </node>
+  <node id="653958598" lat="37.8112979" lon="-122.2660100">
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Grand Ave"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Farley's East"/>
+    <tag k="phone" v="+49"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="661793921" lat="37.8408616" lon="-122.2366433">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="662469932" lat="37.7958530" lon="-122.2732800">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="Webster St"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="created_by" v="Amenity Editor"/>
+    <tag k="name" v="Blue Bottle Coffee Roasting"/>
+  </node>
+  <node id="666369832" lat="37.7666531" lon="-122.4528232">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Lava Java"/>
+  </node>
+  <node id="670132157" lat="37.6119041" lon="-122.3898180">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Café del Mondo (Il Fornaio)"/>
+  </node>
+  <node id="670132176" lat="37.6131379" lon="-122.3890185">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Amoura Café"/>
+  </node>
+  <node id="671794971" lat="37.2879988" lon="-121.9763470">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Delicious Donuts &amp; Deli"/>
+  </node>
+  <node id="674542332" lat="36.9725463" lon="-122.0254991">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Café Delmarette"/>
+  </node>
+  <node id="679010810" lat="37.7774251" lon="-122.3951135">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Creamery"/>
+  </node>
+  <node id="679010814" lat="37.7755976" lon="-122.3933687">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Philz Coffee"/>
+  </node>
+  <node id="684811562" lat="37.0250339" lon="-121.7458600">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Anjaneyas Cafe"/>
+  </node>
+  <node id="694029464" lat="37.8024302" lon="-122.2681807">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Break Room Vegetarian"/>
+  </node>
+  <node id="695532106" lat="37.5963533" lon="-122.0790268">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Paddy's Coffee"/>
+  </node>
+  <node id="698082989" lat="38.0543309" lon="-122.1530490">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Rrags Cafe"/>
+  </node>
+  <node id="705410439" lat="37.7598350" lon="-122.3978030">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Thinker's Cafe"/>
+  </node>
+  <node id="709858563" lat="37.7866868" lon="-122.4127457">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="577"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Geary Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Mango's Cafe"/>
+    <tag k="phone" v="+1 415 440 2097"/>
+  </node>
+  <node id="712613793" lat="37.7993451" lon="-122.2167267">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's"/>
+  </node>
+  <node id="712646120" lat="37.7997897" lon="-122.2161653">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Dimond Cafe"/>
+  </node>
+  <node id="725066744" lat="37.7868113" lon="-122.4135614">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="608"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Geary Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Juice Zone"/>
+  </node>
+  <node id="725100826" lat="37.7871632" lon="-122.4107880">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="442"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Geary Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="728093145" lat="37.8699356" lon="-122.2843924">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bread Workshop"/>
+  </node>
+  <node id="732005606" lat="37.7861325" lon="-122.4188458">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:street" v="Geary Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Hoang Dat"/>
+  </node>
+  <node id="737133956" lat="38.1338753" lon="-122.2215218">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="739456462" lat="37.8685409" lon="-122.2917288">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Local 123"/>
+  </node>
+  <node id="747853234" lat="37.7968227" lon="-122.4217733">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Crave"/>
+  </node>
+  <node id="750403193" lat="37.4295183" lon="-122.1227169">
+    <tag k="addr:housenumber" v="3191"/>
+    <tag k="addr:postcode" v="94303"/>
+    <tag k="addr:street" v="Middlefield Rd"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="description" v="Wifi, few tables (7) and 2 sofas inside and tables outside on the terrace"/>
+    <tag k="name" v="Philz Coffee"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:30; Sa-Su 06:30-20:00"/>
+    <tag k="phone" v="6502519798"/>
+    <tag k="website" v="http://www.philzcoffee.com"/>
+  </node>
+  <node id="760160520" lat="37.3950017" lon="-121.9283000">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Beryl's Place"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-16:00"/>
+  </node>
+  <node id="760442275" lat="37.4635359" lon="-122.4303636">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="94019"/>
+    <tag k="addr:street" v="Purissima Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="La Di Da"/>
+    <tag k="phone" v="+1 (650) 712-8808"/>
+  </node>
+  <node id="761820188" lat="37.9369786" lon="-122.0250280">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee and Tea"/>
+  </node>
+  <node id="761906178" lat="37.7763516" lon="-122.4085632">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="1122"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:street" v="Folsom Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="BrainWash Cafe"/>
+    <tag k="website" v="http://www.brainwash.com/"/>
+  </node>
+  <node id="761949154" lat="37.7755894" lon="-122.4131734">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="765337252" lat="37.3377201" lon="-122.0429016">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="766262536" lat="37.4659617" lon="-121.1746301">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbuck's"/>
+  </node>
+  <node id="780716162" lat="37.0572590" lon="-120.8337509">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="793836453" lat="36.9765511" lon="-121.9849094">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Coffeetopia"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="796489369" lat="36.6079770" lon="-121.8555988">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="796669185" lat="36.8588424" lon="-121.4002736">
+    <tag k="amenity" v="cafe"/>
+    <tag k="ele" v="79"/>
+    <tag k="name" v="Happy Cafe"/>
+  </node>
+  <node id="808884914" lat="37.7854715" lon="-122.4089827">
+    <tag k="addr:housenumber" v="Ellis Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Daniel's Cafe"/>
+  </node>
+  <node id="808930732" lat="37.7863496" lon="-122.4094251">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sunflower Cafe"/>
+  </node>
+  <node id="808930741" lat="37.7865192" lon="-122.4081940">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="808930773" lat="37.7866124" lon="-122.4057236">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="O'Farrell Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Crepe o Chocolat"/>
+  </node>
+  <node id="808930779" lat="37.7869050" lon="-122.4063566">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="808930783" lat="37.7866442" lon="-122.4073142">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Boudin"/>
+  </node>
+  <node id="808930817" lat="37.7862351" lon="-122.4055547">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="808930821" lat="37.7859256" lon="-122.4053240">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Alexandria Cafe"/>
+  </node>
+  <node id="814515174" lat="37.6645653" lon="-122.4454493">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:postcode" v="94080"/>
+    <tag k="addr:street" v="McLellan Drive"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="operator" v="Starbucks"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="819444943" lat="37.7883656" lon="-122.4201060">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Quetzal"/>
+  </node>
+  <node id="819445015" lat="37.7881282" lon="-122.4200791">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Crepes Ooh La La"/>
+  </node>
+  <node id="819447638" lat="37.7886878" lon="-122.4193496">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Moussys"/>
+  </node>
+  <node id="819447654" lat="37.7889803" lon="-122.4171394">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Coffee Cabin"/>
+  </node>
+  <node id="821295759" lat="36.9971485" lon="-122.0531662">
+    <tag k="amenity" v="cafe"/>
+    <tag k="entrance" v="main"/>
+    <tag k="name" v="Cowell Coffee Shop"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="825694357" lat="37.9731280" lon="-122.5268920">
+    <tag k="addr:housename" v="1002"/>
+    <tag k="addr:street" v="4th Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Arizmendi Bakery"/>
+  </node>
+  <node id="825694360" lat="37.9732971" lon="-122.5268732">
+    <tag k="addr:housenumber" v="1010"/>
+    <tag k="addr:street" v="Court Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Coldstone"/>
+  </node>
+  <node id="825694400" lat="37.9732971" lon="-122.5283484">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="825694434" lat="37.9729335" lon="-122.5250010">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Double Rainbow"/>
+  </node>
+  <node id="825914916" lat="37.7892861" lon="-122.4203152">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="H2O Cafe"/>
+  </node>
+  <node id="825967006" lat="37.7912234" lon="-122.4209482">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Donuts &amp; Things"/>
+  </node>
+  <node id="825967065" lat="37.7904349" lon="-122.4208088">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Star Bagels"/>
+  </node>
+  <node id="825967152" lat="37.7900873" lon="-122.4204654">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="New Village Cafe"/>
+  </node>
+  <node id="826961052" lat="37.7916510" lon="-122.4209962">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Royal Ground Coffee"/>
+  </node>
+  <node id="826961062" lat="37.7919096" lon="-122.4210498">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bob's Donuts"/>
+  </node>
+  <node id="830588125" lat="37.7861507" lon="-122.4170166">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Little Bird Cafe"/>
+  </node>
+  <node id="830825687" lat="37.7992577" lon="-122.4493510">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="842553220" lat="37.4689379" lon="-122.4326428">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="847339439" lat="37.3945535" lon="-121.9463348">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="851570862" lat="37.5141081" lon="-122.4950078">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Three-Zero Cafe"/>
+  </node>
+  <node id="864021238" lat="37.7730342" lon="-122.4217433">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="896198933" lat="36.9638499" lon="-121.8095177">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cadillac Cafe"/>
+  </node>
+  <node id="914532768" lat="37.7991680" lon="-122.2780870">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Autobahn Cafe"/>
+  </node>
+  <node id="916957283" lat="37.7979284" lon="-122.1823354">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Galleria"/>
+  </node>
+  <node id="919280323" lat="37.7528573" lon="-122.4095775">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sugarlump"/>
+  </node>
+  <node id="923740504" lat="37.4064203" lon="-121.9417677">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="933941606" lat="37.3919662" lon="-121.9817363">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafeteria"/>
+    <tag k="operator" v="Mission College"/>
+    <tag k="website" v="http://www.missioncollege.org/gen_info/campus_maps/rooms/cafeteriaMap.html"/>
+  </node>
+  <node id="936102098" lat="37.3453645" lon="-121.9368231">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="936103972" lat="37.3432300" lon="-121.9307660">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="947409728" lat="37.4520550" lon="-122.1803386">
+    <tag k="addr:housenumber" v="863"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="948991979" lat="37.7578241" lon="-122.1627650">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Corner's Cafe"/>
+  </node>
+  <node id="950977348" lat="37.7940049" lon="-122.3966588">
+    <tag k="amenity" v="cafe"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="957085286" lat="37.3315562" lon="-122.0326620">
+    <tag k="amenity" v="cafe"/>
+    <tag k="capacity:disabled" v="yes"/>
+    <tag k="name" v="Bagel Street Cafe"/>
+  </node>
+  <node id="960932055" lat="37.7604494" lon="-122.5089783">
+    <tag k="addr:housenumber" v="1396"/>
+    <tag k="addr:postcode" v="94122"/>
+    <tag k="addr:street" v="La Playa Street"/>
+    <tag k="address" v="1396 La Playa Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Java Beach Cafe"/>
+    <tag k="phone" v="+1 (415) 665-5282"/>
+    <tag k="website" v="http://www.javabeachsf.com"/>
+  </node>
+  <node id="960933322" lat="37.7603455" lon="-122.5053868">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Trouble Coffee Co"/>
+  </node>
+  <node id="967404586" lat="37.7574671" lon="-122.4095121">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Progressive Grounds Cafe"/>
+  </node>
+  <node id="968281587" lat="37.4268485" lon="-122.1440778">
+    <tag k="addr:housenumber" v="361"/>
+    <tag k="addr:street" v="South California Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="opening_hours" v="Mo-Fr 05:30-20:00; Sa-Su 06:30-20:00"/>
+    <tag k="phone" v="650-324-2021"/>
+  </node>
+  <node id="968355348" lat="37.7416150" lon="-122.4226690">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Nervous Dog Coffee"/>
+  </node>
+  <node id="968355561" lat="37.7422322" lon="-122.4263433">
+    <tag k="amenity" v="cafe"/>
+    <tag k="description" v="Sandwiches, quiches, cakes, cookies"/>
+    <tag k="name" v="Cafe XO"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-19:00; Su 07:00-19:00"/>
+  </node>
+  <node id="968356991" lat="37.7605665" lon="-122.4216483">
+    <tag k="addr:housenumber" v="780"/>
+    <tag k="addr:street" v="Valencia Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="Californian"/>
+    <tag k="description" v="Blu Bottle coffee, sandwiches, soups, salads, dishes, cheese, cookies, pastries, cakes  Wifi"/>
+    <tag k="name" v="The Summit SF"/>
+    <tag k="opening_hours" v="Tu-Sa 08:00-02:00; Su-Mo 08:00-22:00"/>
+    <tag k="phone" v="4158615330"/>
+    <tag k="website" v="http://www.thesummit-sf.com/"/>
+  </node>
+  <node id="974267620" lat="37.7661069" lon="-122.4499088">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Reverie"/>
+  </node>
+  <node id="974352510" lat="37.7337422" lon="-122.4339474">
+    <tag k="addr:housenumber" v="2885"/>
+    <tag k="addr:street" v="Diamond St"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Bello"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-18:30; Sa 07:30-18:00; Su 08:00-17:00"/>
+    <tag k="phone" v="415-585-3457"/>
+  </node>
+  <node id="976494423" lat="37.3569137" lon="-122.0174258">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="976494424" lat="37.3568029" lon="-122.0172917">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="988282027" lat="37.3825906" lon="-121.9950582">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Mission City Cafe"/>
+  </node>
+  <node id="992088570" lat="37.4259856" lon="-122.1448519">
+    <tag k="addr:housenumber" v="429"/>
+    <tag k="addr:street" v="South California Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="description" v="Cafe located in the Zombie Runner store. Serves: Espresso, lattes, turkish capuccino..."/>
+    <tag k="name" v="Cafe Zombie"/>
+    <tag k="opening_hours" v="Tu-Sat 9am-6pm;  Sun-Mon9am-4pm"/>
+    <tag k="website" v="http://www.zombierunner.com/about/palo_alto_store/"/>
+  </node>
+  <node id="994490717" lat="37.7844577" lon="-122.4080935">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1014031956" lat="37.7685070" lon="-122.4505968">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Cole"/>
+  </node>
+  <node id="1014036781" lat="37.7654665" lon="-122.4500175">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Tully's"/>
+  </node>
+  <node id="1014211062" lat="37.5625910" lon="-122.0090574">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Suju's Coffee"/>
+  </node>
+  <node id="1014233848" lat="37.5889475" lon="-122.0187337">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="1706"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Decoto Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Favorite"/>
+  </node>
+  <node id="1014233861" lat="37.5889601" lon="-122.0186371">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="1704"/>
+    <tag k="addr:postcode" v="94587"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Decoto Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="korean"/>
+    <tag k="name" v="Jenjon's Cafe"/>
+  </node>
+  <node id="1016650699" lat="37.6257378" lon="-122.4260777">
+    <tag k="addr:housenumber" v="851"/>
+    <tag k="addr:street" v="Cherry Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1021353942" lat="37.2934626" lon="-121.8746315">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1029097179" lat="37.7623918" lon="-122.3983575">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Chatz"/>
+  </node>
+  <node id="1033921445" lat="37.3566198" lon="-121.9357325">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Lettuce Sandwich Shop"/>
+  </node>
+  <node id="1048792178" lat="37.2198164" lon="-121.8618324">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1048792302" lat="37.2198548" lon="-121.8619182">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="bagel"/>
+    <tag k="name" v="Posh Bagels"/>
+  </node>
+  <node id="1050359231" lat="37.9277338" lon="-122.5171522">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Tully's Coffee"/>
+  </node>
+  <node id="1053545117" lat="37.9263097" lon="-122.5291224">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Corte Madera Cafe"/>
+  </node>
+  <node id="1053549909" lat="37.9354068" lon="-122.5351681">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Emporio Rulli"/>
+  </node>
+  <node id="1053550626" lat="37.9358722" lon="-122.5347711">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Ward Street Cafe"/>
+  </node>
+  <node id="1053626257" lat="37.2458227" lon="-121.8885257">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1057316365" lat="37.8033670" lon="-122.2683719">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Brown Couch Cafe"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1062978916" lat="36.8393023" lon="-121.3961266">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1068562666" lat="37.8062070" lon="-122.2682566">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Henry's Gallery Cafe"/>
+  </node>
+  <node id="1068562667" lat="37.8058972" lon="-122.2681501">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Coffeeshop Blue Sky"/>
+  </node>
+  <node id="1068562670" lat="37.8060032" lon="-122.2684398">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Colonial Donuts"/>
+  </node>
+  <node id="1071651007" lat="37.3923866" lon="-122.0789733">
+    <tag k="addr:housenumber" v="744"/>
+    <tag k="addr:street" v="W. Dana Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Dana Street Roasting Company"/>
+  </node>
+  <node id="1071651008" lat="37.3969471" lon="-122.0616569">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Clocktower Coffee"/>
+  </node>
+  <node id="1071651009" lat="37.4007911" lon="-122.0577034">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Clocktower Coffee"/>
+  </node>
+  <node id="1072940171" lat="37.7560368" lon="-121.4662215">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1072940175" lat="37.7561810" lon="-121.4657226">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jamba Juices"/>
+  </node>
+  <node id="1076069577" lat="37.5678509" lon="-122.0252839">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbuck's"/>
+  </node>
+  <node id="1076330455" lat="37.7559722" lon="-121.4661974">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1076417314" lat="37.9306969" lon="-122.5142475">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Nordstrom's Espresso Bar"/>
+  </node>
+  <node id="1076418134" lat="37.9283213" lon="-122.5142422">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Cofee and Tea"/>
+  </node>
+  <node id="1076446339" lat="38.0911128" lon="-122.5550165">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="1077855956" lat="37.2524729" lon="-121.9619631">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Shmoozers"/>
+  </node>
+  <node id="1077867862" lat="37.2356513" lon="-121.9644547">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1086779665" lat="37.8274764" lon="-122.2512834">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="tea"/>
+    <tag k="name" v="L'Amyx Tea Bar"/>
+  </node>
+  <node id="1086779696" lat="37.8266755" lon="-122.2518574">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Gaylord's Caffe Espresso"/>
+  </node>
+  <node id="1087682018" lat="37.5121269" lon="-122.2931448">
+    <tag k="addr:housenumber" v="2039"/>
+    <tag k="addr:street" v="Ralston Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Bliss"/>
+  </node>
+  <node id="1097204403" lat="37.8262845" lon="-122.2090510">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="1097231657" lat="37.7754002" lon="-122.4582524">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Velo Rouge"/>
+  </node>
+  <node id="1099115259" lat="37.5528948" lon="-122.0182054">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cabrillo Park Cafe"/>
+  </node>
+  <node id="1106917207" lat="37.7669352" lon="-122.4331737">
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:street" v="Noe Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee shop"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Jumpin' Java"/>
+  </node>
+  <node id="1108467964" lat="37.2520937" lon="-121.8792973">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1110824413" lat="37.4863154" lon="-122.2299168">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="2225"/>
+    <tag k="addr:postcode" v="94063"/>
+    <tag k="addr:street" v="Broadway Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Le Boulanger"/>
+    <tag k="phone" v="(650) 568-9395"/>
+    <tag k="website" v="http://www.leboulanger.com"/>
+  </node>
+  <node id="1130796532" lat="37.7529654" lon="-122.4076372">
+    <tag k="addr:housenumber" v="2760"/>
+    <tag k="addr:postcode" v="94110"/>
+    <tag k="addr:street" v="24th Street"/>
+    <tag k="address" v="2760 24th Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Dynamo Donut &amp; Coffee"/>
+    <tag k="phone" v="+1 (415) 920-1978"/>
+    <tag k="website" v="http://www.dynamodonut.com"/>
+  </node>
+  <node id="1138254605" lat="37.7357841" lon="-122.2355470">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Maitland Market"/>
+  </node>
+  <node id="1140673914" lat="37.9912457" lon="-122.3063736">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="ice cream"/>
+    <tag k="name" v="Cold Stone Creamery"/>
+  </node>
+  <node id="1145574420" lat="37.2871683" lon="-121.9437549">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Orchard Valley Coffee"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-21:00"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="customers"/>
+    <tag k="toilets:female" v="yes"/>
+    <tag k="toilets:male" v="yes"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="1145574478" lat="37.2871656" lon="-121.9449939">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="1146760555" lat="36.5693553" lon="-121.9499511">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1153392584" lat="37.5224990" lon="-122.2515936">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bagel Street Cafe"/>
+  </node>
+  <node id="1153392633" lat="37.5227027" lon="-122.2517604">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1153392671" lat="37.5225640" lon="-122.2516135">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Milk Shake Werks"/>
+  </node>
+  <node id="1155855597" lat="37.2928073" lon="-121.9304833">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1155857946" lat="37.2632159" lon="-121.9188077">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1157201104" lat="37.5548804" lon="-122.2928498">
+    <tag k="addr:housenumber" v="1886"/>
+    <tag k="addr:postcode" v="94403"/>
+    <tag k="addr:street" v="South Norfolk Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Specialty's Cafe &amp; Bakery"/>
+    <tag k="website" v="http://www.specialtys.com/"/>
+  </node>
+  <node id="1159159231" lat="37.3038821" lon="-121.8972695">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1161594401" lat="37.2706879" lon="-121.9462332">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1161970319" lat="37.2532116" lon="-121.7973047">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1162023287" lat="37.5198603" lon="-122.2756246">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1162112481" lat="37.2881464" lon="-121.7812078">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1169483516" lat="37.2302894" lon="-121.9797410">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1186413845" lat="37.8038165" lon="-122.2723122">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Crema Coffee Bar"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1186413846" lat="37.8029646" lon="-122.2726234">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="1186413886" lat="37.8047320" lon="-122.2711052">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Tully's Coffee"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1186413938" lat="37.8043802" lon="-122.2738572">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks Coffee"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1187467599" lat="37.2756002" lon="-121.9226566">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1187479322" lat="37.2946701" lon="-121.9309164">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1193380617" lat="37.8059568" lon="-122.4230630">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Crown &amp; Crumpet"/>
+  </node>
+  <node id="1195374514" lat="37.7839525" lon="-122.4811269">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bazaar Cafe"/>
+  </node>
+  <node id="1195375020" lat="37.7841475" lon="-122.4819637">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1199518555" lat="37.3224809" lon="-121.9941053">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1199539036" lat="37.2498709" lon="-121.8763324">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peets Coffee &amp; Tea"/>
+  </node>
+  <node id="1218545831" lat="37.3232082" lon="-122.0382706">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="1219353018" lat="37.2348872" lon="-121.9610283">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="1221102914" lat="37.7357199" lon="-122.5039880">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="2650"/>
+    <tag k="addr:postcode" v="94166"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Sloat Boulevard"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Java Beach Café"/>
+    <tag k="phone" v="4157312965"/>
+    <tag k="website" v="http://www.javabeachcafe.com"/>
+  </node>
+  <node id="1221414572" lat="37.7360728" lon="-122.3905704">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Auntie April's soul food"/>
+  </node>
+  <node id="1228088208" lat="37.8072394" lon="-122.2700231">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Fat Cat Cafe"/>
+  </node>
+  <node id="1228088217" lat="37.8073454" lon="-122.2676359">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Aroma Bakery &amp; Cafe"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1229112057" lat="37.7356782" lon="-122.5051297">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1229745482" lat="37.7799405" lon="-122.4076637">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Rancho Parnassus Coffee"/>
+  </node>
+  <node id="1229745509" lat="37.7606565" lon="-122.3883042">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Dogpatch Café"/>
+  </node>
+  <node id="1230343461" lat="37.7274098" lon="-122.4036795">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Giant Scoop Café"/>
+  </node>
+  <node id="1232835768" lat="37.8085227" lon="-122.4148930">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Boudin Bakery"/>
+  </node>
+  <node id="1234891779" lat="37.8350247" lon="-122.2626816">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="The Avenue"/>
+  </node>
+  <node id="1234939398" lat="37.2322142" lon="-121.7750776">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="1235185609" lat="37.0033458" lon="-121.5455223">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1237031723" lat="37.8441182" lon="-122.2651834">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Dorsey &amp; Locker"/>
+    <tag k="note" v="TODO"/>
+  </node>
+  <node id="1238299633" lat="37.7581300" lon="-122.3885918">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Dogpatch Saloon"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1238299641" lat="37.7313203" lon="-122.4514184">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Railroad Café"/>
+  </node>
+  <node id="1238299664" lat="37.7313203" lon="-122.4459403">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Monterey Deli"/>
+  </node>
+  <node id="1241673242" lat="37.7287077" lon="-122.4315588">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Silver Café"/>
+  </node>
+  <node id="1244854582" lat="37.7779680" lon="-122.4122260">
+    <tag k="addr:housenumber" v="1161"/>
+    <tag k="addr:street" v="Mission Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="M Cafe"/>
+    <tag k="phone" v="4156849288"/>
+  </node>
+  <node id="1246390510" lat="37.7896758" lon="-122.4036851">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bread and cocoa"/>
+  </node>
+  <node id="1253252713" lat="37.8734381" lon="-122.2663784">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Yali's Cafe"/>
+  </node>
+  <node id="1255655331" lat="37.3943888" lon="-121.9459757">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="1255955100" lat="37.4311330" lon="-122.1647670">
+    <tag k="addr:housenumber" v="326"/>
+    <tag k="addr:street" v="Galvez"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Cafe"/>
+  </node>
+  <node id="1256122522" lat="37.8031838" lon="-122.2708036">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Modern Coffee"/>
+  </node>
+  <node id="1256185225" lat="37.7574990" lon="-122.3928720">
+    <tag k="addr:housenumber" v="701"/>
+    <tag k="addr:street" v="Pennsylvania Ave."/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Caffè La Stazione"/>
+  </node>
+  <node id="1256474422" lat="37.4433589" lon="-122.1650661">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Caffé del Doge"/>
+  </node>
+  <node id="1256835297" lat="37.4498336" lon="-122.1780217">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="1269562261" lat="37.6363670" lon="-122.4891812">
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:street" v="Paloma Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Salada Beach Cafe"/>
+    <tag k="website" v="www.saladabeachcafe.com‎"/>
+  </node>
+  <node id="1280967961" lat="37.3403997" lon="-121.8431797">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1280993564" lat="37.7834394" lon="-122.3929482">
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:street" v="2nd Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Delicia Cafe"/>
+  </node>
+  <node id="1281842365" lat="37.7850986" lon="-122.3955070">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Tully's Coffee"/>
+  </node>
+  <node id="1282343109" lat="37.7860559" lon="-122.4051519">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="The Coffee Bean &amp; Tea Leaf"/>
+  </node>
+  <node id="1282408829" lat="37.7894321" lon="-122.4008567">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee and Tea"/>
+  </node>
+  <node id="1282882085" lat="37.7865514" lon="-122.3977478">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Chatz Coffee"/>
+  </node>
+  <node id="1283036173" lat="37.7873613" lon="-122.3987424">
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="fax" v="+1 415 778 9845"/>
+    <tag k="name" v="Palio Caffè"/>
+    <tag k="opening_hours" v="Mo-Fr 06:30-19:30"/>
+    <tag k="phone" v="+1 415 778 9858"/>
+    <tag k="website" v="http://www.paliocaffe.com/"/>
+  </node>
+  <node id="1288754479" lat="37.0635980" lon="-122.0341825">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Solid Rock Cafe"/>
+  </node>
+  <node id="1292347132" lat="37.7770621" lon="-122.4504012">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1293838055" lat="37.7874778" lon="-122.4007244">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Tart to Tart"/>
+  </node>
+  <node id="1293838091" lat="37.7870679" lon="-122.4002114">
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:street" v="New Montgomery Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Working Girls' Cafe"/>
+  </node>
+  <node id="1294040955" lat="37.3079340" lon="-122.0319103">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Happy Donuts"/>
+  </node>
+  <node id="1296637656" lat="37.3238034" lon="-122.0177756">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1296650491" lat="37.3219523" lon="-122.0171449">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Erik's Deli Cafe"/>
+  </node>
+  <node id="1305397496" lat="37.8422051" lon="-122.2837042">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="All American Natural Cafe"/>
+  </node>
+  <node id="1305397502" lat="37.8396522" lon="-122.2954903">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Emerybay Cafe"/>
+  </node>
+  <node id="1305397504" lat="37.8412451" lon="-122.2936342">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Emeryville Food Court"/>
+  </node>
+  <node id="1306052376" lat="37.7541558" lon="-122.4813084">
+    <tag k="addr:housenumber" v="1618"/>
+    <tag k="addr:street" v="Noriega Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Henry's House of Coffee"/>
+  </node>
+  <node id="1306273777" lat="37.3944999" lon="-122.0783274">
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Castro Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="mediterranean"/>
+    <tag k="email" v="caffeolympus@gmail.com"/>
+    <tag k="name" v="Olympus Caffè &amp; Bakery"/>
+    <tag k="phone" v="+1 (650) 336-7613"/>
+    <tag k="website" v="http://cafeolympus.com/"/>
+  </node>
+  <node id="1312381006" lat="37.8547006" lon="-122.4791327">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bridgeway Cafe"/>
+  </node>
+  <node id="1312391606" lat="37.8586337" lon="-122.4831174">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Taste of Rome"/>
+  </node>
+  <node id="1312472093" lat="37.5174478" lon="-122.2750127">
+    <tag k="addr:housenumber" v="1301"/>
+    <tag k="addr:street" v="6th Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee; smoothies"/>
+    <tag k="name" v="Beli Deli"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-14:30"/>
+    <tag k="phone" v="6505937311"/>
+    <tag k="website" v="www.originalbelideli.com"/>
+  </node>
+  <node id="1312486306" lat="37.5189285" lon="-122.2746086">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="1313317149" lat="37.3786840" lon="-122.0465360">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1313519489" lat="38.0530444" lon="-121.3748476">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1313606403" lat="37.3936719" lon="-122.0981000">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Caffino"/>
+  </node>
+  <node id="1314544511" lat="37.8468420" lon="-122.2846803">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Actual Cafe"/>
+  </node>
+  <node id="1314548229" lat="37.8480998" lon="-122.2855780">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Tribu Cafe"/>
+  </node>
+  <node id="1314549567" lat="37.8471003" lon="-122.2905650">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Aquarius Cafe"/>
+  </node>
+  <node id="1314549569" lat="37.8473630" lon="-122.2879579">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Farley's on 65th"/>
+  </node>
+  <node id="1315928600" lat="37.7569450" lon="-122.2529117">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1320562873" lat="37.7877716" lon="-122.4010378">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1321081559" lat="37.9956998" lon="-122.2863560">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="1325354929" lat="37.7991558" lon="-122.2642210">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Eden Plaza Cafe"/>
+  </node>
+  <node id="1327997361" lat="37.3526406" lon="-122.0513383">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="starbucks"/>
+  </node>
+  <node id="1331486023" lat="37.5020810" lon="-122.2464000">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1341915678" lat="36.9617038" lon="-122.0451991">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1345335449" lat="37.3816849" lon="-121.8280053">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Coffee Cup"/>
+  </node>
+  <node id="1347165387" lat="37.0073493" lon="-121.5686954">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Vida Con Nutrition"/>
+  </node>
+  <node id="1347454311" lat="38.2832150" lon="-122.2749815">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1347464427" lat="38.3203220" lon="-122.3106495">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1347464429" lat="38.3228682" lon="-122.3060576">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peets"/>
+    <tag k="source" v="Local knowledge"/>
+  </node>
+  <node id="1350768036" lat="36.9549571" lon="-122.0501952">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Iveta"/>
+  </node>
+  <node id="1355479723" lat="37.4903861" lon="-122.2251156">
+    <tag k="addr:housenumber" v="400a"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbuck's"/>
+  </node>
+  <node id="1375234278" lat="37.9102766" lon="-122.3005222">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Well Grounded"/>
+    <tag k="website" v="http://www.well-grounded.com/"/>
+  </node>
+  <node id="1378041459" lat="37.8111945" lon="-122.2432417">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1378048909" lat="37.8004692" lon="-122.2738464">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1386680655" lat="38.0181410" lon="-121.9454004">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1393930496" lat="37.7869397" lon="-122.3997013">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Madeleine"/>
+  </node>
+  <node id="1393930515" lat="37.7874225" lon="-122.4003276">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Specialty's Cafe and Bakery"/>
+  </node>
+  <node id="1393930517" lat="37.7866405" lon="-122.3993014">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Roastery"/>
+  </node>
+  <node id="1393986237" lat="37.7831679" lon="-122.4069377">
+    <tag k="amenity" v="cafe"/>
+    <tag k="internet_access" v="wlan;terminal"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Cafe Venue"/>
+    <tag k="smoking" v="no"/>
+  </node>
+  <node id="1393986248" lat="37.7831679" lon="-122.4070984">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Latte Express"/>
+  </node>
+  <node id="1395112633" lat="37.7841253" lon="-122.4041123">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1395340490" lat="37.8362093" lon="-122.2623157">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="The Mixing Bowl"/>
+  </node>
+  <node id="1401469341" lat="37.8678082" lon="-122.4343055">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1417370370" lat="37.6712869" lon="-121.0318494">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1417439208" lat="37.7670492" lon="-120.8460378">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Oakdale Cafe"/>
+  </node>
+  <node id="1419475094" lat="37.7711237" lon="-120.8353577">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1419619224" lat="37.4646391" lon="-121.1441198">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1421088355" lat="37.8103166" lon="-122.2667998">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Primo's Cafe"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1421340713" lat="37.8741346" lon="-122.2565497">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Yali's Cafe"/>
+  </node>
+  <node id="1425583319" lat="37.8086082" lon="-122.2561124">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Coffee With a Beat"/>
+  </node>
+  <node id="1431432404" lat="37.5234933" lon="-122.2582433">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Steve's Cafe"/>
+  </node>
+  <node id="1433963042" lat="37.7816763" lon="-122.3886142">
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:street" v="The Embarcadero"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="South Beach Cafe"/>
+    <tag k="phone" v="4159741115"/>
+  </node>
+  <node id="1440595672" lat="38.3258396" lon="-122.7054225">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Salsa"/>
+  </node>
+  <node id="1440595696" lat="38.3255560" lon="-122.7056752">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cotati Coffee"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1440596881" lat="38.3256688" lon="-122.7052726">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Redwood Cafe"/>
+  </node>
+  <node id="1446787721" lat="37.8955616" lon="-122.0611268">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1456293583" lat="36.9761802" lon="-122.0265789">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Verve Coffee Roasting"/>
+  </node>
+  <node id="1458273542" lat="36.9644605" lon="-121.9930654">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Windmill Café"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1467717295" lat="37.8288349" lon="-122.2824219">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1478520969" lat="37.7975089" lon="-122.4222529">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Royal Ground Coffees"/>
+    <tag k="source" v="personal knowledge"/>
+  </node>
+  <node id="1484799258" lat="37.7904450" lon="-122.4057170">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1486000122" lat="37.7900090" lon="-122.4086600">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Roxanne Cafe"/>
+  </node>
+  <node id="1486009911" lat="37.7897250" lon="-122.4109000">
+    <tag k="addr:housenumber" v="809"/>
+    <tag k="addr:street" v="Bush Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jasmin's Cafe &amp; Deli"/>
+  </node>
+  <node id="1486051321" lat="37.7891650" lon="-122.4097660">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Persimmon Cafe"/>
+  </node>
+  <node id="1486063055" lat="37.7891140" lon="-122.4083750">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1490111107" lat="37.8342845" lon="-122.2807136">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Punjab Bazaar"/>
+  </node>
+  <node id="1490122346" lat="37.8327306" lon="-122.2806507">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Los Canteros taqueria"/>
+  </node>
+  <node id="1491017848" lat="37.8301228" lon="-122.2793699">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Wally's Cafe"/>
+  </node>
+  <node id="1491021215" lat="37.8366655" lon="-122.2950153">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1491703325" lat="37.8397323" lon="-122.2889181">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="E-22 Cafe"/>
+    <tag k="website" v="http://www.e22cafe.com"/>
+  </node>
+  <node id="1491795920" lat="37.8381288" lon="-122.2869574">
+    <tag k="addr:housenumber" v="5515"/>
+    <tag k="addr:street" v="Doyle Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Doyle Street Cafe"/>
+  </node>
+  <node id="1492800846" lat="37.7895991" lon="-122.4075383">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Mrs. Fields Cookies"/>
+  </node>
+  <node id="1492808285" lat="37.7894041" lon="-122.4088365">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cable Car Cafe"/>
+  </node>
+  <node id="1493456455" lat="37.7763591" lon="-122.4180877">
+    <tag k="addr:housenumber" v="1408"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Ma'velous"/>
+    <tag k="website" v="http://maveloussf.com"/>
+  </node>
+  <node id="1493456487" lat="37.7770460" lon="-122.4172737">
+    <tag k="addr:housenumber" v="1390"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1493972453" lat="37.9534164" lon="-121.9549575">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1494906719" lat="37.8702356" lon="-122.3009906">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peets Coffee and Tea"/>
+  </node>
+  <node id="1500702783" lat="37.3925701" lon="-121.9774568">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Donut Deli"/>
+  </node>
+  <node id="1503620549" lat="37.0279679" lon="-121.5744139">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1509456703" lat="37.0253220" lon="-121.5636808">
+    <tag k="addr:housenumber" v="C98"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Auntie Anne's Soft Pretzels"/>
+  </node>
+  <node id="1515953848" lat="37.8426999" lon="-122.2955921">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Black Diamond Cafe"/>
+  </node>
+  <node id="1515973514" lat="37.8406675" lon="-122.2950288">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Comeback Cafe"/>
+  </node>
+  <node id="1518002924" lat="37.5324272" lon="-122.0022182">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1518515180" lat="37.4917198" lon="-121.9300169">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Your Coffee Cups"/>
+  </node>
+  <node id="1521712636" lat="36.9872505" lon="-121.9214574">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Farm Bakery &amp; Cafe"/>
+  </node>
+  <node id="1528962019" lat="37.8987771" lon="-122.3020035">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peets Coffee and Tea"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1540268475" lat="37.5487473" lon="-121.9870383">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Chaat Cafe"/>
+  </node>
+  <node id="1543296118" lat="38.3310259" lon="-122.7156638">
+    <tag k="addr:housename" v="Apple Valley Plaza"/>
+    <tag k="addr:housenumber" v="8492, Suite A"/>
+    <tag k="addr:postcode" v="94931"/>
+    <tag k="addr:street" v="Gravenstein Hwy"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Johnny's Java"/>
+  </node>
+  <node id="1549515090" lat="36.9678559" lon="-122.0236479">
+    <tag k="addr:housenumber" v="131 Front Street"/>
+    <tag k="addr:postcode" v="95060"/>
+    <tag k="addr:street" v="front"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Firefly Coffeehouse"/>
+  </node>
+  <node id="1556251672" lat="37.8076740" lon="-122.2674263">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Coco Cafe"/>
+  </node>
+  <node id="1556251680" lat="37.8073434" lon="-122.2695291">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bulldog"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1556251723" lat="37.8074664" lon="-122.2690007">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Zaya Cafe"/>
+  </node>
+  <node id="1561616296" lat="37.3209538" lon="-121.9491879">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1561616311" lat="37.3193247" lon="-121.9483934">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="1561616317" lat="37.3219638" lon="-121.9480989">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cocola Bakery &amp; Cafe"/>
+  </node>
+  <node id="1564470253" lat="37.7938365" lon="-122.4687555">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="General Store (Cafe)"/>
+  </node>
+  <node id="1571817710" lat="37.3669815" lon="-122.0317572">
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:postcode" v="94087"/>
+    <tag k="addr:street" v="East El Camino Real"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Panera Bread"/>
+    <tag k="source" v="image"/>
+    <tag k="website" v="http://www.panerabread.com/"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="1573209484" lat="37.6721276" lon="-122.0842946">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="1573723084" lat="37.6713154" lon="-122.4642098">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1576045650" lat="37.3878875" lon="-122.0829139">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Spica Coffee &amp; Tea"/>
+    <tag k="phone" v="+1 (650) 254-1110"/>
+  </node>
+  <node id="1576214406" lat="37.3850711" lon="-122.0845675">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peets Coffee"/>
+  </node>
+  <node id="1579638308" lat="37.3780918" lon="-122.0763024">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peets Coffee"/>
+  </node>
+  <node id="1580633324" lat="37.8265118" lon="-122.2095658">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1581862146" lat="37.7910697" lon="-122.4192372">
+    <tag k="addr:housenumber" v="1415"/>
+    <tag k="addr:street" v="Larkin Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Contraband Coffee Bar"/>
+    <tag k="website" v="http://contrabandcoffeebar.com/home.html"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="1598439745" lat="37.8725116" lon="-122.2667773">
+    <tag k="addr:housenumber" v="2161"/>
+    <tag k="addr:postcode" v="94704"/>
+    <tag k="addr:street" v="University Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="brazilian"/>
+    <tag k="name" v="Brazil Cafe"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="http://cafebraziltogo.com/"/>
+  </node>
+  <node id="1598439746" lat="37.8718740" lon="-122.2675790">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="2015"/>
+    <tag k="addr:postcode" v="94704"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Shattuck Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="People's Coffee &amp; Tea"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+1 510 6660666"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="1607861734" lat="37.1123169" lon="-121.0169685">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1610994013" lat="37.7632466" lon="-122.4152866">
+    <tag k="addr:housenumber" v="2128"/>
+    <tag k="addr:postcode" v="94110"/>
+    <tag k="addr:street" v="Folsom Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Stable Cafe"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-16:00; Sa 09:00-16:00; Su 10:00-14:00"/>
+    <tag k="phone" v="+1 415 552 1199"/>
+    <tag k="website" v="http://stablecafe.com/"/>
+  </node>
+  <node id="1613630880" lat="37.4192683" lon="-122.1104899">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="1613829040" lat="37.7877961" lon="-122.3992915">
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Muffins Muffins"/>
+    <tag k="phone" v="+1 415 342 7588"/>
+  </node>
+  <node id="1613831308" lat="37.7886901" lon="-122.4008757">
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="2nd Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="1614316010" lat="37.7788503" lon="-122.3939425">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Cento"/>
+  </node>
+  <node id="1617283399" lat="37.7914869" lon="-122.3992713">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Specialty's"/>
+  </node>
+  <node id="1617283411" lat="37.7914682" lon="-122.3994657">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+  </node>
+  <node id="1617289729" lat="37.7967881" lon="-122.3998422">
+    <tag k="addr:housenumber" v="209"/>
+    <tag k="addr:street" v="Jackson Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Insalata"/>
+  </node>
+  <node id="1618380816" lat="37.3121269" lon="-122.0318157">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1626101710" lat="37.2491414" lon="-121.8043556">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Eric's Deli Cafe"/>
+  </node>
+  <node id="1627837843" lat="37.7893565" lon="-122.3999969">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Neeto's Cafe"/>
+  </node>
+  <node id="1640374732" lat="38.2503993" lon="-122.6288084">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="1640374737" lat="38.2500328" lon="-122.6240770">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="1640374749" lat="38.2497798" lon="-122.6230521">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="1643834661" lat="37.4113688" lon="-122.0943218">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="1647241760" lat="37.4129462" lon="-122.1250068">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Alison Bakery"/>
+  </node>
+  <node id="1648518086" lat="36.6008238" lon="-121.8943324">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1648518436" lat="36.5969239" lon="-121.8944961">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1648518459" lat="36.6000782" lon="-121.8945002">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1651254219" lat="36.5979379" lon="-121.8932141">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1654048257" lat="37.5477897" lon="-122.0473528">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Tapioca Express"/>
+  </node>
+  <node id="1654058253" lat="37.5513750" lon="-122.0500028">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Baskin Robbins"/>
+  </node>
+  <node id="1654058256" lat="37.5514090" lon="-122.0502335">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1667550928" lat="37.5785050" lon="-122.3468454">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peets Coffee"/>
+  </node>
+  <node id="1669545492" lat="37.4846025" lon="-122.2324350">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="1007"/>
+    <tag k="addr:postcode" v="94063"/>
+    <tag k="addr:street" v="El Camino Real"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="juice"/>
+    <tag k="name" v="Jamba Juice"/>
+    <tag k="phone" v="(650) 261-2130"/>
+    <tag k="url" v="http://www.jambajuice.com/"/>
+  </node>
+  <node id="1669545495" lat="37.4845049" lon="-122.2325408">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="1003"/>
+    <tag k="addr:postcode" v="94063"/>
+    <tag k="addr:street" v="El Camino Real"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="tea"/>
+    <tag k="name" v="La Sweet"/>
+  </node>
+  <node id="1672899481" lat="37.8056505" lon="-122.2715226">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Rotunda Plaza Cafe"/>
+    <tag k="source" v="Bing"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1674129444" lat="37.8136811" lon="-122.2468304">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Coffee Mill"/>
+  </node>
+  <node id="1674129483" lat="37.8104835" lon="-122.2442957">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="1674436084" lat="36.9886301" lon="-121.9563792">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bagelry"/>
+  </node>
+  <node id="1682385753" lat="37.5425839" lon="-122.2320743">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bay Leaf Cafe"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1693969372" lat="37.8509231" lon="-122.2709798">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Alchemy Collective Cafe"/>
+  </node>
+  <node id="1698878187" lat="37.8583417" lon="-122.2533205">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Elmwood Cafe"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1700443494" lat="37.3355437" lon="-121.8912585">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee and Tea"/>
+  </node>
+  <node id="1700633019" lat="37.4466333" lon="-121.9030826">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Juice City"/>
+  </node>
+  <node id="1700633026" lat="37.4466264" lon="-121.9032027">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="1700641974" lat="37.7769408" lon="-122.4082734">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="270"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:street" v="7th Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sightglass Coffee"/>
+  </node>
+  <node id="1700641977" lat="37.7752496" lon="-122.4101688">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="289"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:street" v="8th Street"/>
+    <tag k="address" v="289 8th Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Wicked Grounds"/>
+    <tag k="phone" v="+1 (415) 503-0405"/>
+    <tag k="website" v="http://www.wickedgrounds.com"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="1704927437" lat="37.3862150" lon="-121.9609539">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1708076036" lat="37.4309790" lon="-122.1741744">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee"/>
+    <tag k="source" v="Personal Visit"/>
+  </node>
+  <node id="1708076048" lat="37.4319630" lon="-122.1755422">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Med Cafe"/>
+    <tag k="source" v="Personal Visit"/>
+  </node>
+  <node id="1710414058" lat="37.4419694" lon="-122.1596908">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peets Coffee"/>
+  </node>
+  <node id="1713256879" lat="37.7512620" lon="-122.4361503">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Ponte"/>
+  </node>
+  <node id="1713269532" lat="37.7513214" lon="-122.4316832">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="1713269569" lat="37.7515080" lon="-122.4287006">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Joe's 24th Street Cafe"/>
+  </node>
+  <node id="1713269576" lat="37.7513437" lon="-122.4344593">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peasant Pies"/>
+  </node>
+  <node id="1713269585" lat="37.7516532" lon="-122.4295160">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="La Boulange"/>
+  </node>
+  <node id="1713269606" lat="37.7516023" lon="-122.4311708">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bernie's"/>
+  </node>
+  <node id="1713279798" lat="37.7516978" lon="-122.4289286">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Martha and Bros. Coffee Co."/>
+  </node>
+  <node id="1718660602" lat="37.8262484" lon="-122.2528992">
+    <tag k="addr:housenumber" v="4045"/>
+    <tag k="addr:street" v="Piedmont Ave."/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Cafe Trieste"/>
+  </node>
+  <node id="1718826322" lat="37.8802199" lon="-122.2684756">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Juice Bar Collective"/>
+  </node>
+  <node id="1724869715" lat="37.4866927" lon="-122.2277962">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="2088"/>
+    <tag k="addr:postcode" v="94063"/>
+    <tag k="addr:street" v="Broadway Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Broadway Barista"/>
+    <tag k="phone" v="(650) 599-9391"/>
+    <tag k="website" v="http://broadwaybarista.com"/>
+  </node>
+  <node id="1729170118" lat="37.4858087" lon="-122.2311750">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="824"/>
+    <tag k="addr:postcode" v="94063"/>
+    <tag k="addr:street" v="Winslow Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Corner Cafe"/>
+    <tag k="phone" v="(650) 299-9907"/>
+  </node>
+  <node id="1729195947" lat="37.7121782" lon="-121.4324914">
+    <tag k="addr:housename" v="Raley's"/>
+    <tag k="addr:housenumber" v="2550"/>
+    <tag k="addr:postcode" v="95377"/>
+    <tag k="addr:street" v="Tracy Blvd"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet’s Coffee"/>
+    <tag k="website" v="http://www.peets.com"/>
+  </node>
+  <node id="1729919565" lat="37.3730462" lon="-122.0877062">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1731036702" lat="37.5054680" lon="-122.2596247">
+    <tag k="addr:housenumber" v="677"/>
+    <tag k="addr:postcode" v="94070"/>
+    <tag k="addr:street" v="Laurel St"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+    <tag k="website" v="http://www.peets.com"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="1731368533" lat="37.4862570" lon="-122.2312224">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="2401"/>
+    <tag k="addr:postcode" v="94063"/>
+    <tag k="addr:street" v="Broadway Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="international"/>
+    <tag k="name" v="Pamplemousse"/>
+    <tag k="phone" v="(650) 599-9714"/>
+    <tag k="website" v="http://www.pamplemoussecakes.com"/>
+  </node>
+  <node id="1734830439" lat="37.4864223" lon="-122.2332562">
+    <tag k="addr:city" v="Redwood City"/>
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:postcode" v="94063"/>
+    <tag k="addr:street" v="Broadway Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+    <tag k="phone" v="(650) 362-1000"/>
+    <tag k="website" v="http://www.peets.com"/>
+  </node>
+  <node id="1738863607" lat="37.2932191" lon="-121.9668080">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1740354019" lat="37.4131486" lon="-122.1252831">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="1742495061" lat="36.9781974" lon="-121.9662351">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1744846261" lat="37.4018600" lon="-122.1932620">
+    <tag k="addr:city" v="Portola Valley"/>
+    <tag k="addr:housenumber" v="3130, #284"/>
+    <tag k="addr:postcode" v="94028"/>
+    <tag k="addr:street" v="Alpine Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee, pastries, ice cream"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="konditorei"/>
+    <tag k="phone" v="(650) 854-8616"/>
+  </node>
+  <node id="1746210511" lat="37.9456440" lon="-122.5239799">
+    <tag k="addr:housenumber" v="276"/>
+    <tag k="addr:street" v="Bon Air Center"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peets Coffee &amp; Tea"/>
+  </node>
+  <node id="1747162566" lat="37.8062429" lon="-122.2984662">
+    <tag k="addr:housenumber" v="1612"/>
+    <tag k="addr:postcode" v="94607"/>
+    <tag k="addr:street" v="7th Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Revolution Cafe"/>
+    <tag k="phone" v="+1 (510) 625-0149"/>
+    <tag k="website" v="http://revcafeoak.com"/>
+  </node>
+  <node id="1753372851" lat="37.9743354" lon="-122.5388042">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Mojay's Cafe"/>
+  </node>
+  <node id="1755580493" lat="37.9733744" lon="-122.5293402">
+    <tag k="addr:housenumber" v="1148"/>
+    <tag k="addr:street" v="4th Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Royal Ground Coffee"/>
+  </node>
+  <node id="1761388860" lat="37.5640523" lon="-122.3243686">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Kaffeehaus"/>
+    <tag k="opening_hours" v="Mo-Th 08:00-22:00; Fr-Sa 08:00-00:00; Su 08:00-19:00"/>
+    <tag k="phone" v="+1(650)347-4242"/>
+    <tag k="smoking" v="no"/>
+    <tag k="website" v="http://www.mykaffeehaus.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1762825978" lat="37.7808340" lon="-122.4644592">
+    <tag k="amenity" v="cafe"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Cafe Coco"/>
+  </node>
+  <node id="1763183950" lat="37.7770961" lon="-122.4638489">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Javaholics"/>
+  </node>
+  <node id="1769223514" lat="37.7831528" lon="-122.4625522">
+    <tag k="addr:housenumber" v="306"/>
+    <tag k="addr:street" v="Clement Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Blue Danube Coffee House"/>
+  </node>
+  <node id="1769223520" lat="37.7802857" lon="-122.4763814">
+    <tag k="addr:housenumber" v="5301"/>
+    <tag k="addr:street" v="Geary Boulevard"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Royal Ground Coffee"/>
+  </node>
+  <node id="1770222913" lat="37.3787520" lon="-122.1179677">
+    <tag k="addr:housenumber" v="367"/>
+    <tag k="addr:postcode" v="94022"/>
+    <tag k="addr:street" v="State Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="1779645458" lat="37.8733364" lon="-122.4555588">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Caffe Acri"/>
+  </node>
+  <node id="1781786937" lat="37.4189531" lon="-122.2136670">
+    <tag k="addr:street" v="Sand Hill Rd"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="ele" v="91"/>
+    <tag k="name" v="Sense Spa Cafe"/>
+  </node>
+  <node id="1788820370" lat="37.7752107" lon="-122.4100502">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Ideal Deli"/>
+  </node>
+  <node id="1793984634" lat="37.9286763" lon="-122.3213634">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1796526238" lat="37.7993828" lon="-120.9975439">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1796561222" lat="37.4398037" lon="-120.8483166">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Stockyard Cafe"/>
+  </node>
+  <node id="1796564322" lat="37.4035311" lon="-120.8496416">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1797732569" lat="37.6973549" lon="-122.4629751">
+    <tag k="addr:housenumber" v="6873"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="phone" v="+1 650 757 5274"/>
+  </node>
+  <node id="1808372880" lat="37.1124638" lon="-121.6436518">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1809593825" lat="37.7325339" lon="-122.4898996">
+    <tag k="addr:housenumber" v="1521"/>
+    <tag k="addr:street" v="Lakeshore Plaza"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:phone" v="+1 (415) 731-1700"/>
+    <tag k="name" v="Noah's Bagels"/>
+  </node>
+  <node id="1809593836" lat="37.7335649" lon="-122.4897011">
+    <tag k="addr:housenumber" v="1509"/>
+    <tag k="addr:street" v="Lakeshore Plaza"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="1815334007" lat="37.7714662" lon="-122.4223535">
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:street" v="Valencia St."/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="V-105"/>
+  </node>
+  <node id="1818369713" lat="37.3605461" lon="-122.0964704">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Los Altos Bakery and Cafe"/>
+  </node>
+  <node id="1819052076" lat="37.7762560" lon="-122.4150000">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="All Star Cafe"/>
+  </node>
+  <node id="1823804078" lat="37.7900511" lon="-122.4011911">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Caffe Bianco"/>
+  </node>
+  <node id="1830474569" lat="37.3679172" lon="-122.3857364">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Bike Hut"/>
+    <tag k="website" v="http://potreronuevofarm.org/thebikehut.html"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1834775879" lat="38.1991057" lon="-122.9218934">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="fish"/>
+    <tag k="name" v="Nick's cove Shalk"/>
+  </node>
+  <node id="1834844699" lat="37.4029346" lon="-122.1066508">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Pearl Coffee and Tea"/>
+  </node>
+  <node id="1835734234" lat="36.6654327" lon="-121.6293544">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1836039607" lat="36.5819448" lon="-121.8285983">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1836039841" lat="36.5823315" lon="-121.8293989">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="1836041113" lat="36.5824349" lon="-121.8292433">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Quizno's Subs"/>
+  </node>
+  <node id="1846461309" lat="37.7967569" lon="-122.4221183">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1846461374" lat="37.7967545" lon="-122.4217244">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="2164"/>
+    <tag k="addr:postcode" v="94109"/>
+    <tag k="addr:street" v="Polk St"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Crave"/>
+    <tag k="phone" v="4154403663"/>
+    <tag k="source" v="local_knowledge"/>
+    <tag k="website" v="www.eatcrave.com"/>
+  </node>
+  <node id="1847653049" lat="37.7815120" lon="-122.3989875">
+    <tag k="addr:housenumber" v="764"/>
+    <tag k="addr:street" v="Harrison Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Epicenter Cafe"/>
+  </node>
+  <node id="1847720030" lat="37.7770034" lon="-122.4380361">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Eddie's Cafe"/>
+  </node>
+  <node id="1854826998" lat="37.7832603" lon="-122.3891406">
+    <tag k="addr:housenumber" v="699"/>
+    <tag k="addr:postcode" v="94107"/>
+    <tag k="addr:street" v="Delancey St"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Crossroads Café"/>
+    <tag k="source" v="Survey"/>
+    <tag k="website" v="www.delanceystreetfoundation.org/entercafe.php"/>
+  </node>
+  <node id="1856977866" lat="37.2507799" lon="-121.8659024">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1857231112" lat="37.8053319" lon="-122.4150836">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1867957282" lat="37.7767201" lon="-122.3948624">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="94107"/>
+    <tag k="addr:street" v="4th St"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Tazza D' Amore "/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1869902234" lat="36.9759677" lon="-122.0272116">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Chaikhana Tea Culture"/>
+  </node>
+  <node id="1870666208" lat="36.5999557" lon="-121.8949695">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="1870701100" lat="36.5980269" lon="-121.8938041">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Chong's Cafe"/>
+  </node>
+  <node id="1870711200" lat="36.6123155" lon="-121.8980044">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe La Strada"/>
+  </node>
+  <node id="1870714479" lat="36.6174738" lon="-121.9027519">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bistro Mullen"/>
+  </node>
+  <node id="1880206745" lat="37.7707402" lon="-122.4027961">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bonjour Cafe"/>
+  </node>
+  <node id="1880206851" lat="37.7706639" lon="-122.4029356">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Holy Grill"/>
+  </node>
+  <node id="1880208351" lat="37.7704434" lon="-122.4032468">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1880213777" lat="37.7707911" lon="-122.4074364">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Grill"/>
+  </node>
+  <node id="1880214824" lat="37.7712999" lon="-122.4087614">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Moto Java"/>
+  </node>
+  <node id="1880228581" lat="37.7760405" lon="-122.4141258">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="ethiopian"/>
+    <tag k="name" v="Moya Cafe"/>
+  </node>
+  <node id="1889695132" lat="37.8703203" lon="-122.2839475">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Fellini Coffee Bar"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1890888697" lat="37.3314282" lon="-121.9082505">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Crema Coffee Roasting Company"/>
+  </node>
+  <node id="1900829412" lat="37.8030024" lon="-122.4029760">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1905097660" lat="37.3314282" lon="-121.9082505">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Crema Coffee Roasting Company"/>
+  </node>
+  <node id="1912129659" lat="36.7983184" lon="-121.7836122">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Surf City Coffee"/>
+  </node>
+  <node id="1914739767" lat="37.5768593" lon="-122.3471662">
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="It's a grind"/>
+  </node>
+  <node id="1917651517" lat="37.3314282" lon="-121.9082505">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Crema Coffee Roasting Company"/>
+  </node>
+  <node id="1926665295" lat="37.6776347" lon="-120.9391909">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Plantation Coffee and Tea"/>
+  </node>
+  <node id="1936250247" lat="37.6705851" lon="-120.9572129">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1940269983" lat="37.8433360" lon="-122.2905793">
+    <tag k="addr:housenumber" v="6233 "/>
+    <tag k="addr:postcode" v="94608"/>
+    <tag k="addr:street" v="Hollis Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Ruby's Cafe"/>
+  </node>
+  <node id="1941021234" lat="37.7631748" lon="-121.9506482">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="94583"/>
+    <tag k="addr:street" v="The Marketplace"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="website" v="www.starbucks.com"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="1951380222" lat="36.9915390" lon="-122.0643822">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="College 8 Café"/>
+  </node>
+  <node id="1954723361" lat="37.8747988" lon="-122.2587029">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Qualcomm Cafe"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1956078877" lat="37.7757247" lon="-122.4463778">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="1799"/>
+    <tag k="addr:postcode" v="94117"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Fulton Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="atm" v="no"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="website" v="http://www.starbucks.com/store/16589"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="1956163112" lat="37.8905386" lon="-122.2912504">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Local 123 at Flowerland"/>
+  </node>
+  <node id="1957272522" lat="37.7738438" lon="-122.4459653">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Amitis Deli-Cafe"/>
+  </node>
+  <node id="1958696320" lat="37.7736247" lon="-122.4477742">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bread &amp; Butter Cafe"/>
+  </node>
+  <node id="1958757624" lat="37.7695052" lon="-122.4535431">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:postcode" v="94117"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Haight Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Flywheel Cafe"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="1958804296" lat="37.3951670" lon="-121.9173857">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="1974353562" lat="37.3219849" lon="-122.0327541">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbuck's"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="1975982969" lat="37.3999444" lon="-122.1218478">
+    <tag k="addr:housenumber" v="994"/>
+    <tag k="addr:postcode" v="94022"/>
+    <tag k="addr:street" v="Los Altos Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sweet Shop"/>
+    <tag k="website" v="http://www.sweetshoplosaltos.com/"/>
+  </node>
+  <node id="1977259836" lat="37.8218556" lon="-121.9998817">
+    <tag k="addr:housenumber" v="398"/>
+    <tag k="addr:postcode" v="94526"/>
+    <tag k="addr:street" v="Hartz Avenue"/>
+    <tag k="addr:unit" v="A"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks Coffee"/>
+  </node>
+  <node id="1980329165" lat="37.7732007" lon="-122.4508521">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sacred Grounds"/>
+  </node>
+  <node id="1981987728" lat="37.7778761" lon="-122.4385690">
+    <tag k="amenity" v="cafe"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Oasis Cafe"/>
+  </node>
+  <node id="1983054074" lat="37.8057145" lon="-122.4219022">
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:street" v="North Point Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Black Point Cafe"/>
+  </node>
+  <node id="1986115705" lat="36.9760435" lon="-121.8861936">
+    <tag k="amenity" v="cafe"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Surf  City Coffee Co"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1990454162" lat="37.7700888" lon="-122.4452622">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Coffee to the People"/>
+  </node>
+  <node id="1996506254" lat="37.3144453" lon="-121.0225451">
+    <tag k="addr:city" v="Newman"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="1403"/>
+    <tag k="addr:postcode" v="95360"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="Coffee, pastries"/>
+    <tag k="name" v="CR Fudge"/>
+  </node>
+  <node id="1996636679" lat="37.1728708" lon="-122.2221731">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="1999482422" lat="37.5381336" lon="-122.2980031">
+    <tag k="addr:city" v="San Mateo"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:postcode" v="94403"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="South el Camino Real"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="atm" v="yes"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="Javaddictions"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="no"/>
+  </node>
+  <node id="2001881579" lat="37.5488217" lon="-121.9870834">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2005894602" lat="37.7690716" lon="-122.4277243">
+    <tag k="amenity" v="cafe"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2007235286" lat="37.7509386" lon="-122.1467101">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Savanna Café"/>
+  </node>
+  <node id="2007282998" lat="37.7504651" lon="-122.1476713">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Madagascar Trading Post"/>
+  </node>
+  <node id="2007289654" lat="37.3688100" lon="-122.0346147">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sunnyvale Gallery Cafe"/>
+  </node>
+  <node id="2007332782" lat="37.7493936" lon="-122.1447739">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Safari Café"/>
+  </node>
+  <node id="2007336784" lat="37.7487463" lon="-122.1457086">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Island Café"/>
+  </node>
+  <node id="2013493266" lat="37.9903188" lon="-122.3349942">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2019847919" lat="37.9012595" lon="-122.2996778">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="2019847921" lat="37.9012849" lon="-122.2995639">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="doughnut"/>
+    <tag k="name" v="All Star Donuts"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2028393608" lat="37.2328650" lon="-121.9038400">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="donuts"/>
+    <tag k="name" v="Manley's Donuts"/>
+  </node>
+  <node id="2048105043" lat="37.7356638" lon="-122.5029433">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:postcode" v="94166"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Sloat Boulevard"/>
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="2050793994" lat="37.3590345" lon="-122.0208247">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Erik's DeliCafé"/>
+    <tag k="website" v="http://www.eriksdelicafe.com/"/>
+  </node>
+  <node id="2051505812" lat="37.4191522" lon="-122.1248425">
+    <tag k="addr:city" v="Palo Alto"/>
+    <tag k="addr:housenumber" v="3441"/>
+    <tag k="addr:postcode" v="94306"/>
+    <tag k="addr:street" v="Alma Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2052391118" lat="37.7522814" lon="-122.4188981">
+    <tag k="addr:housenumber" v="3318"/>
+    <tag k="addr:street" v="24th Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe La Boheme"/>
+  </node>
+  <node id="2055073966" lat="37.8697597" lon="-122.2531587">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Zeb's Cafe"/>
+  </node>
+  <node id="2056280956" lat="37.2303053" lon="-121.8845638">
+    <tag k="addr:housenumber" v="6055"/>
+    <tag k="addr:postcode" v="95120"/>
+    <tag k="addr:street" v="Meridian Ave"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Avid Coffee"/>
+    <tag k="website" v="http://avidcoffee.com/"/>
+  </node>
+  <node id="2056848727" lat="37.3314026" lon="-121.9082397">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Crema Coffee"/>
+  </node>
+  <node id="2074158507" lat="37.7755527" lon="-122.4980976">
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="2081698030" lat="37.2587006" lon="-122.0322543">
+    <tag k="addr:housenumber" v="14410"/>
+    <tag k="addr:postcode" v="95070"/>
+    <tag k="addr:street" v="Big Basin Way"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="website" v="http://www.starbucks.com/store/14622/"/>
+  </node>
+  <node id="2091189234" lat="37.2202478" lon="-121.8622910">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="donuts"/>
+    <tag k="name" v="Maple Leaf Donuts"/>
+  </node>
+  <node id="2095327716" lat="37.4297150" lon="-122.0998860">
+    <tag k="addr:city" v="Mountain View"/>
+    <tag k="addr:housenumber" v="2680"/>
+    <tag k="addr:postcode" v="94043"/>
+    <tag k="addr:street" v="Bayshore Parkway"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="atm" v="yes"/>
+    <tag k="cuisine" v="deli"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fax" v="1-650-965-3034"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Plaza deli"/>
+    <tag k="note" v="Cash only"/>
+    <tag k="operator" v="Sam"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="1-650-965-3189"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="http://www.baysidebusinessplaza.com/Plaza_Deli_Menu.pdf"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="http://www.baysidebusinessplaza.com/Plaza_Deli_Menu.pdf"/>
+  </node>
+  <node id="2095344770" lat="37.7663190" lon="-122.4174220">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="433"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:street" v="South Van Ness Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="atm" v="no"/>
+    <tag k="contact:email" v="TheFlyingPigBistro@gmail.com"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Flying Pig Bistro"/>
+    <tag k="opening_hours" v="Mo-Th 07:30-21:00; Fr 07:30-23:00; Sa 09:00-23:00; Su 09:00-17:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+1-415-934-1234"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="flyingpigbistropub.com"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2095579094" lat="37.8688220" lon="-122.2682320">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="2224"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="Shattuck Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2102223761" lat="37.3236302" lon="-121.9724508">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bellano Coffee"/>
+  </node>
+  <node id="2104792669" lat="37.6818272" lon="-121.7678233">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="2104803481" lat="37.6991725" lon="-121.8175409">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2104946213" lat="37.5215759" lon="-120.8493490">
+    <tag k="addr:housenumber" v="3191"/>
+    <tag k="addr:postcode" v="95382"/>
+    <tag k="addr:street" v="Geer Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Huckleberry's"/>
+  </node>
+  <node id="2105030470" lat="38.2313227" lon="-122.6311527">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="international"/>
+    <tag k="name" v="Aqus cafe"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="2107709986" lat="37.8075574" lon="-122.2223630">
+    <tag k="addr:housenumber" v="4227"/>
+    <tag k="addr:postcode" v="94602"/>
+    <tag k="addr:street" v="Park Blvd"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Ultimate Grounds"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="2107857671" lat="37.2504433" lon="-121.8792517">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="bagels"/>
+    <tag k="name" v="House of Bagels"/>
+  </node>
+  <node id="2107875807" lat="37.2520382" lon="-121.8792692">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Tandoori Bistro"/>
+    <tag k="website" v="http://www.tandooribistrosj.com/"/>
+  </node>
+  <node id="2109337126" lat="37.3197769" lon="-121.9480970">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="bakery"/>
+    <tag k="name" v="Left Bank Brasserie"/>
+  </node>
+  <node id="2109847783" lat="37.4164569" lon="-122.1299779">
+    <tag k="addr:housename" v="Happy Donuts"/>
+    <tag k="addr:housenumber" v=" 3916"/>
+    <tag k="addr:postcode" v="94306"/>
+    <tag k="addr:street" v=" El Camino Real"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Happy Donuts"/>
+    <tag k="website" v="http://happydonutspaloalto.tripod.com"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="2116864553" lat="36.6752667" lon="-121.6554056">
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="fax" v="831-422-1760"/>
+    <tag k="name" v="Rollick's Specialty Coffee"/>
+    <tag k="phone" v="831-422-1760"/>
+    <tag k="website" v="http://www.rollicks.com"/>
+  </node>
+  <node id="2117540226" lat="36.6765725" lon="-121.6552464">
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="frozen yogurt"/>
+    <tag k="email" v="lisa@mainstreettreats.com"/>
+    <tag k="fax" v="1(831) 422-4748"/>
+    <tag k="name" v="Main Street Treats"/>
+    <tag k="opening_hours" v="Su-Tu 11:00-21:00; Fr-Sa 11:00–23:00"/>
+    <tag k="phone" v="1(831) 422-4747"/>
+    <tag k="website" v="http://www.mainstreettreats.com/"/>
+  </node>
+  <node id="2120292037" lat="37.3200044" lon="-121.9746995">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bijan"/>
+  </node>
+  <node id="2129923219" lat="37.7395399" lon="-122.4675025">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Rain Tree"/>
+  </node>
+  <node id="2130160675" lat="37.7470952" lon="-122.4137576">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Charlie's Cafe"/>
+  </node>
+  <node id="2130160677" lat="37.7470507" lon="-122.4104427">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Precita Park Cafe"/>
+  </node>
+  <node id="2131554063" lat="37.8725600" lon="-122.2934720">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Leila"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="2131580967" lat="37.8643040" lon="-122.2903280">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Alfonso Cafe"/>
+  </node>
+  <node id="2131722704" lat="37.9286949" lon="-122.0397023">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2131722779" lat="37.9287954" lon="-122.0413961">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Panera Bread"/>
+  </node>
+  <node id="2131729869" lat="37.9436666" lon="-122.0569124">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2131736014" lat="37.9454391" lon="-122.0621588">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Peet's Coffee"/>
+  </node>
+  <node id="2131736078" lat="37.9487429" lon="-122.0596911">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2131739216" lat="37.9739124" lon="-122.0414253">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2131769468" lat="37.8980649" lon="-122.0600720">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2131769475" lat="37.8963675" lon="-122.0593210">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2131880791" lat="37.2801291" lon="-121.9999822">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2133892604" lat="37.7992182" lon="-122.4222971">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="2436"/>
+    <tag k="addr:postcode" v="94109"/>
+    <tag k="addr:street" v="Polk St"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="The Brew"/>
+    <tag k="phone" v="(415)440-1678"/>
+    <tag k="website" v="www.thebrewsf.com"/>
+  </node>
+  <node id="2134441489" lat="37.7842301" lon="-122.4020700">
+    <tag k="addr:city" v="San Francisco"/>
+    <tag k="addr:housenumber" v="730"/>
+    <tag k="addr:postcode" v="94103"/>
+    <tag k="addr:street" v="Howard St"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Samovar Tea Lounge"/>
+    <tag k="phone" v="4152279400"/>
+    <tag k="website" v="http://www.samovarlife.com"/>
+  </node>
+  <node id="2143171447" lat="37.7820885" lon="-122.4485288">
+    <tag k="amenity" v="cafe"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Nani's Cafe"/>
+  </node>
+  <node id="2143393170" lat="37.7968058" lon="-121.1922479">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jamba Juice"/>
+  </node>
+  <node id="2143393172" lat="37.7970050" lon="-121.1921406">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2144839391" lat="37.7972459" lon="-122.4055336">
+    <tag k="alt_name" v="Réveille"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Réveille Coffee Co."/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2144839392" lat="37.7972068" lon="-122.4051977">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="email" v="chefchris@thestationsf.com"/>
+    <tag k="name" v="The Station"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-18:00; Sa-Su 10:00-16:00"/>
+    <tag k="phone" v="+1 415-291-0690"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.thestationsf.com/"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="2147409252" lat="37.7772852" lon="-122.4414680">
+    <tag k="addr:housenumber" v="1799"/>
+    <tag k="addr:postcode" v="94115"/>
+    <tag k="addr:street" v="McAllister St"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Matching Half Cafe"/>
+    <tag k="website" v="http://www.matchinghalfcafe.com"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="2151425588" lat="37.4146388" lon="-121.8983895">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2153998271" lat="37.4216596" lon="-121.9216090">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2155607506" lat="37.4145751" lon="-121.8984331">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2156202862" lat="37.7671329" lon="-122.3998810">
+    <tag k="alt_name" v="Rustico"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="A2 Cafe"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2156311436" lat="37.4632177" lon="-122.4293983">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="M Coffee"/>
+  </node>
+  <node id="2157545925" lat="37.3853574" lon="-121.9279848">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2157948579" lat="37.3941483" lon="-122.0794931">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Verde Tea Cafe"/>
+  </node>
+  <node id="2157993883" lat="37.3900554" lon="-122.0816909">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bean Scene"/>
+  </node>
+  <node id="2158026398" lat="37.3858763" lon="-122.0846021">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sufi"/>
+  </node>
+  <node id="2160300432" lat="37.8644195" lon="-122.3016715">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Waterside Cafe"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2162260770" lat="37.2926755" lon="-121.9886333">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2166577123" lat="37.7977377" lon="-122.4010588">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="website" v="starbucks.com‎"/>
+  </node>
+  <node id="2167144980" lat="37.7986234" lon="-122.4221616">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Loving Cup"/>
+    <tag k="opening_hours" v="Mo-Th 12:00-21:30; Fr-Su 11:00-22:30"/>
+    <tag k="phone" v="+1 415-440-6900"/>
+    <tag k="website" v="http://www.lovingcupsf.com/"/>
+  </node>
+  <node id="2167198618" lat="37.7971578" lon="-122.4218431">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Royal Ground Coffees"/>
+    <tag k="website" v="http://www.royalgroundcoffee.net/"/>
+  </node>
+  <node id="2167562321" lat="37.7965391" lon="-122.4221243">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Peet's Coffee &amp; Tea"/>
+    <tag k="website" v="https://www.peets.com/"/>
+  </node>
+  <node id="2174306782" lat="37.8625042" lon="-122.2586453">
+    <tag k="addr:housenumber" v="2629"/>
+    <tag k="addr:postcode" v="94704"/>
+    <tag k="addr:street" v="Telegraph Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Le Bateau Ivre"/>
+    <tag k="website" v="http://www.lebateauivre.net"/>
+  </node>
+  <node id="2174314527" lat="37.8639627" lon="-122.2666715">
+    <tag k="addr:housenumber" v="2120"/>
+    <tag k="addr:postcode" v="94704"/>
+    <tag k="addr:street" v="Dwight Way"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Lindgren's Coffee and Cafe"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="2176247784" lat="37.1262435" lon="-122.1223588">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Boulder Creek Roasting Company"/>
+    <tag k="old_name" v="Rainbow's End"/>
+  </node>
+  <node id="2180877691" lat="37.3324537" lon="-122.0290199">
+    <tag k="addr:housename" v="Infinite Loop 4"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="95014"/>
+    <tag k="addr:street" v="Infinite Loop"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Caffè Macs"/>
+  </node>
+  <node id="2182912071" lat="37.1238847" lon="-122.1216442">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Jenna Sue's Café"/>
+  </node>
+  <node id="2185078667" lat="37.8361637" lon="-122.2503262">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="A2 Cafe"/>
+    <tag k="wifi" v="campus"/>
+  </node>
+  <node id="2187585342" lat="36.9892506" lon="-122.0632687">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Oakes Café"/>
+  </node>
+  <node id="2187850103" lat="36.9988819" lon="-122.0660524">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Owl's Nest Cafe"/>
+  </node>
+  <node id="2187987262" lat="37.7664253" lon="-122.4290387">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Church Street Cafe"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="2193446152" lat="37.5609510" lon="-122.2803510">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="2193950100" lat="37.8809073" lon="-122.2696792">
+    <tag k="alt_name" v="Safeway Signature Cafe"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="2195112047" lat="37.8751784" lon="-122.2603098">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Northside Cafe"/>
+  </node>
+  <node id="2195112504" lat="37.8754380" lon="-122.2603460">
+    <tag k="addr:housenumber" v="1842"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Banana Sam's Cafe"/>
+  </node>
+  <node id="2195192460" lat="37.3528975" lon="-121.9613528">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Copenhagen Bakery &amp; Deli"/>
+  </node>
+  <node id="2195192937" lat="37.3528719" lon="-121.9619966">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="New Tandoori Cafe"/>
+  </node>
+  <node id="2196584154" lat="37.8681880" lon="-122.2692980">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Clem"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="no"/>
+  </node>
+
+</osm>
