@@ -28,9 +28,8 @@ class MeetingPlaceAroundGeo(object):
         # POI-DB
         ############################################################
         opdb = OSM_POIDb()
-        opdb.make_fromOSMXml("bar.sfbayarea.xml")
-        opdb.make_fromOSMXml("restaurant.sfbayarea.xml")
-        opdb.make_fromOSMXml("cafe.sfbayarea.xml")
+        for f in [ "bar.sfbayarea.xml", "restaurant.sfbayarea.xml", "cafe.sfbayarea.xml" ]:
+            opdb.make_fromOSMXml(os.path.join("osm_data_xml", f))
         self._opdb = opdb
 
     def get_lon_lat_box(self, lon, lat, radius=10, in_miles=False):
