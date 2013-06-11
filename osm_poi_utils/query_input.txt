@@ -1,0 +1,2 @@
+{ "city": "mountain view", "country" : "us", "region" : "ca", "radius": 5 }
+{ "city": "union city", "country" : "us", "region" : "ca", "radius": 7 }
